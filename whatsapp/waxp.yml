@@ -1,0 +1,49 @@
+# An example YAML file
+    
+SEM_RAW:
+     path: 'sc.csv'
+     coldef: 'ND:NODE,CD:SITECODE,EQ:RESOURCE,ALARM:SUMMARY,LO:LASTOCCURRENCE,CL:CLEARTIMESTAMP'
+     colmap: 'EQUIPMENTKEY:RESOURCE,EQUIPMENT KEY:RESOURCE,CUSTOMATTR15:SITECODE,ASSOCIATECR:NCR,CUSTOMATTR26:NCR'
+     
+SEM_MAP:
+    OMDB :
+        path: 'db\_omdb.csv'
+        operation_type: merge
+        col: 'SCODE'
+        pickcol: ''
+        method: 'left'   
+    RBLB :
+        path: 'db\rblb.csv'
+        operation_type: merge
+        col: 'SITECODE'
+        pickcol: ''
+        method: 'left'
+    
+SEM_SUMMARY_CAT : 
+    path: db\_cat.csv'
+    operation_type: 'partial'
+    col: 'SUMMARY'
+    pickcol: 'CAT'
+    method: 'custom'
+    
+     
+RAWCOL: ['SERIAL',
+ 'REGION',
+ 'NODE',
+ 'RESOURCE',
+ 'FIRSTOCCURRENCE',
+ 'LASTOCCURRENCE',
+ 'TALLY',
+ 'SUMMARY',
+ 'ASSOCIATEDCR',
+ 'TTSEQUENCE',
+ 'TTSTATUS',
+ 'CUSTOMATTR15',
+ 'ALERTKEY',
+ 'INCIDENT OWNER',
+ 'AGENT',
+ 'CLEARTIMESTAMP',
+ 'AGING_MIN',
+ 'AGING',
+ 'CELL_TYPE',
+ 'CAT']
