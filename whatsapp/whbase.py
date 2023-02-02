@@ -222,7 +222,7 @@ class WhBase:
         pd.DataFrame.from_dict(dc).to_csv(opt)
     
     def chat_msg(self, n, base="(//div[@id='main']//div[@data-testid='msg-container'])", xpt_print=False):
-        bi = base + '[' + str(n) + ']'
+        bi = base + '[' + str(n) + ']' if n is not None else base
         if self.xpelem(bi) is None: return None
         else:
             self.move_click(bi + "//div[@role='button'][contains(.,'Read more')]")
@@ -235,7 +235,7 @@ class WhBase:
             return dc
    
     def side_pane(self, n=2, base="(//div[@id='pane-side']//div[@class='_8nE1Y'])"):
-        bi = base + '[' + str(n) + ']'
+        bi = base + '[' + str(n) + ']' if n is not None else base
         if self.xpelem(bi) is None: return None
         dc = {'chat_name' : bi + "//div[@class='_21S-L']//span[@dir='auto']",
               'last_text' : bi + "//span[@data-testid='last-msg-status']",
