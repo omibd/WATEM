@@ -1,0 +1,99 @@
+base
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]NF
+
+chat_name
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='_3q9s6']NF
+
+chat_name
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='zoWT4']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='Hy9nV']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='_ccCW FqYAR i0jNr']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]'/child::div[2]/div/span/span[3]'NF
+
+chat_last_msg_sender
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='l7jjieqr i0jNr']NF
+
+chat_last_msg_sender
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='FqYAR i0jNr']NF
+
+chat_last_msg_date
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_1i_wG']NF
+
+chat_last_msg_date
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_3vPI2']/div[@class='_1i_wG']NF
+
+notif
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_1pJ9J']/spanNF
+
+base
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]NF
+
+chat_name
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='_3q9s6']NF
+
+chat_name
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='zoWT4']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='Hy9nV']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='_ccCW FqYAR i0jNr']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]'/child::div[2]/div/span/span[3]'NF
+
+chat_last_msg_sender
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='l7jjieqr i0jNr']NF
+
+chat_last_msg_sender
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='FqYAR i0jNr']NF
+
+chat_last_msg_date
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_1i_wG']NF
+
+chat_last_msg_date
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_3vPI2']/div[@class='_1i_wG']NF
+
+notif
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_1pJ9J']/spanNF
+
+base
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]NF
+
+chat_name
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='_3q9s6']NF
+
+chat_name
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='zoWT4']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='Hy9nV']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='_ccCW FqYAR i0jNr']NF
+
+chat_last_msg
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]'/child::div[2]/div/span/span[3]'NF
+
+chat_last_msg_sender
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='l7jjieqr i0jNr']NF
+
+chat_last_msg_sender
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//span[@class='FqYAR i0jNr']NF
+
+chat_last_msg_date
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_1i_wG']NF
+
+chat_last_msg_date
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_3vPI2']/div[@class='_1i_wG']NF
+
+notif
+(//div[@id='pane-side']//div[@class='_3OvU8'])[3]//div[@class='_1pJ9J']/spanNF
+

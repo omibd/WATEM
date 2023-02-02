@@ -1,0 +1,63 @@
+sender
+(//div[@class='ItfyB _3nbHh'])[3]/div/div[1]Md. Hasib Ur Rahman
+
+sender_text
+(//div[@class='ItfyB _3nbHh'])[3]/div/div[2]Update of Site Down at 00:00 On 12-01-2023
+
+Region: 2G/3G/4G
+National: 20/16/30
+
+DHK_M: 1/1/1
+DHK_N: 1/2/2
+DHK_S: 0/1/1
+DHK_O: 0/0/1
+CTG_M: 0/0/0
+CTG_N: 0/0/1
+CTG_S: 9/6/13_Pending C3 incident
+COM: 1/0/2
+NOA: 1/0/1
+SYL: 2/2/2
+MYM: 0/1/1
+BAR: 0/0/0
+KHL: 4/1/4
+KUS: 1/1/1
+RAJ: 0/0/0
+RANG: 0/1/0
+
+send_time
+(//div[@class='ItfyB _3nbHh'])[3]/div/div[3]12:02 am
+
+Q_Clickable
+(//div[@class='ItfyB _3nbHh'])[3]/div[1]/div/div/div/divNF
+
+Q_Sender
+(//div[@class='ItfyB _3nbHh'])[3]//div[2]/div[1]/div/div/div/div/div[1]/spanNF
+
+Q_Text
+(//div[@class='ItfyB _3nbHh'])[3]//div[2]/div[1]/div/div/div/div/div[2]/spanNF
+
+base
+(//div[@class='ItfyB _3nbHh'])[3]Md. Hasib Ur Rahman
+Update of Site Down at 00:00 On 12-01-2023
+
+Region: 2G/3G/4G
+National: 20/16/30
+
+DHK_M: 1/1/1
+DHK_N: 1/2/2
+DHK_S: 0/1/1
+DHK_O: 0/0/1
+CTG_M: 0/0/0
+CTG_N: 0/0/1
+CTG_S: 9/6/13_Pending C3 incident
+COM: 1/0/2
+NOA: 1/0/1
+SYL: 2/2/2
+MYM: 0/1/1
+BAR: 0/0/0
+KHL: 4/1/4
+KUS: 1/1/1
+RAJ: 0/0/0
+RANG: 0/1/0
+12:02 am
+

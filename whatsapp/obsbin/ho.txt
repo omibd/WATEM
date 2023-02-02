@@ -1,0 +1,39 @@
+The Duty Handover to Morning Shift at 07:00_19/06/2022:
+
+From Home:
+
+SM: shahriar
+CNM: hasan
+TX_M: Sajal
+TX_FLS: Rabbni Bro
+RAN_M: Hosna Apu
+RAN FLS: Saif Bhai & Sibbir Bhai
+
+BO Support concerns for this week 12th June - 18th June):  
+  
+CN_BO: CS_Arnab Paul  & PS_Debasish Das 
+TX_BO: Abu Husna Sobuj 
+RAN_BO: Fairooz Tahiat 
+OSS: Paroma Jahan 
+IPNO: Abhijit Kundu 
+TSPR: Monoj Biswas
+
+Major Concern: 
+
+1. Disaster lock/unlock process updated. Need to follow accordingly.
+
+2. Need to save daily command execution log in every individual's
+
+3. Some 3G are kept locked in RANG, MYM, SYL, CTG, KHL zone due to disaster and flood at Sylhet.
+
+Open Incident count: 
+Inc. Tracker: Open/Close/Pending
+Status No.  
+
+Current site down: 
+Region: 2G / 3G / 4G
+National: 443/310/437
+
+*RPA is working properly.
+Facebook is OK. Google traffic found ok.
+NTMC link stable & No alarm now

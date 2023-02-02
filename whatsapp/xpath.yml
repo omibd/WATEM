@@ -1,0 +1,78 @@
+#if any string enclosed with understore menning it need to replaced with desirable. _x_ - means _x_ is in value as string so replace with your desire
+#if _and_ then generally fuction call  that return 2 value
+# istrue = check true
+# isfalse = check false
+# string contains ||| &&& have to splited for checking condition
+# xFC: name of function, arg, kwarg
+# xMT: class object, method name, arg, kwargs
+#if _name_ in key then replace _name_ with desire for every value
+#if _i_ in key then replace _i_ with index for every value
+#if _txt_ in key then replace _txt_ with desired for value
+#if clk in key then perform clk operation after above 3
+#if sendenter in then first send_keys and finally enter
+#if sendkey in key then perform send_keys operation
+#if sendtxt in key then perform send_keys operation
+#if move in key then perform move_to_element operation
+#if info in key then element.text operation
+#if break in key and value is true then loop break
+#if nothing match then get webelement and return
+#id="hard_expire_time"
+#data-time="1690306368.855"
+#unix_time = '1690306368.855"
+#data-testid="drawer-middle"
+#data-testid="drawer-left"
+#data-testid="drawer-right"
+
+MSG_INX:
+- base_i_: "(//div[@id='main']//div[@data-testid='msg-container'])[_i_]"
+- sender_and_datetime:
+    xFC: msg_sender_dttm
+    arg: ''
+- text : "//div[@class='_21Ahp']/span[1]/span"
+- q_sende : "//div[@class='_3pMOs yKTUI']//div[1]/span"
+- q_text : "//div[@class='_3pMOs yKTUI']//div[2]/span"
+- time : "//div[@data-testid='msg-meta']"
+- istrue_contains_image : "//img"
+
+PANE:
+- chat: "//div[@data-testid='chat-list'], //div[@aria-label='Chat list'], //div[@aria-rowcount]"
+
+HEADER:
+- con_header: "//div[@data-testid='conversation-header']"
+- con_header_info: //div[@data-testid='conversation-info-header-chat-title']"
+- con_chat_users: "//div[@data-testid='chat-subtitle']/@title"
+- con_chat_search: "//div[@title='Search…']"
+
+TEST:
+- ts_conversion_panel_body_heigh_100px: "//span[@class='nfki698u tvf2evcx oq44ahr5 lb5m6g5c']"
+- conversion_panel_body_heigh_0px: "//div[@class='tvf2evcx oq44ahr5 lb5m6g5c e3u7tipa']"
+
+CONVERSION_PANEL:
+- wraper: "//div[@data-testid='conversation-panel-wrapper']"
+- body: ["//div[@data-testid='conversation-panel-body']", "//div[@class = '_5kRIK']"]
+- message : "//div[@data-testid='conversation-panel-messages']"
+- msg_inf : "//div[@class=_35lRO]"
+- con_panel_msg_arrow: ["//span[@aria-label='Scroll to bottom']", "//div[@class='pboYv']/span"]
+- con_panel_msg_unread_info: "//span[@data-testid='icon-unread-count"
+
+ACTIONS: 
+- Forward:
+    - move_to_msg : "move"
+    - clk-1: "//span[@data-testid='down-context']"
+    - clk-2: "//ul//li[contains(.,'Forward message')]"
+    - clk-3: "//button[@title='Forward message']"
+    - option_1:
+        - "(//div[@class='_8nE1Y' and contains(.,'_name_')])/ancestor::div[@class='lhggkp7q ln8gz9je rx9719la']//div[@data-testid='visual-checkbox']"
+        - clk_button: "//span[@data-testid='send']"
+    - option_2:
+        - sendkey: "//div[@data-testid='chat-list-search']"
+        - clk_name_: "(//div[@class='_8nE1Y' and contains(.,'_name_')])/ancestor::div[@class='lhggkp7q ln8gz9je rx9719la']//div[@data-testid='visual-checkbox']"
+        - clk_button: "//span[@data-testid='send']"
+    - other-xpath:
+        - _info_list-item-_i_: "//div[@data-testid='list-item-_i_']"
+        - clk_select_button: ["div[@data-testid='visual-checkbox']", "input[data-testid='hidden-checkbox']"]
+- Reply:
+    - search_ : "#"
+    - clk-1: "//span[@data-testid='down-context']"
+    - clk-2: "//ul//li[contains(.,'Reply')]"
+    - chat_textarea_sendtxt_sendenter : "//footer[@class='_3E8Fg']//p"

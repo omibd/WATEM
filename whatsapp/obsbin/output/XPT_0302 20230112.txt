@@ -1,0 +1,21 @@
+sender
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[1]::<selenium.webdriver.remote.webelement.WebElement (session="2f1cf38c298a9a0674c4f221299d9c64", element="3a4c9197-7547-4b00-82d7-597332dce8fc")>
+
+sender_text
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[2]::<selenium.webdriver.remote.webelement.WebElement (session="2f1cf38c298a9a0674c4f221299d9c64", element="6e5af4b1-7557-4827-90e4-b828493407b4")>
+
+send_time
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[3]::<selenium.webdriver.remote.webelement.WebElement (session="2f1cf38c298a9a0674c4f221299d9c64", element="0b0ad6d2-d662-407f-abe1-06d9017a34e8")>
+
+Q_Clickable
+(//div[@class='ItfyB _3nbHh'])[5]/div[1]/div/div/div/div::False
+
+Q_Sender
+(//div[@class='ItfyB _3nbHh'])[5]//div[2]/div[1]/div/div/div/div/div[1]/span::False
+
+Q_Text
+(//div[@class='ItfyB _3nbHh'])[5]//div[2]/div[1]/div/div/div/div/div[2]/span::False
+
+base
+(//div[@class='ItfyB _3nbHh'])[5]::<selenium.webdriver.remote.webelement.WebElement (session="2f1cf38c298a9a0674c4f221299d9c64", element="f4909189-4bd3-4e13-ae69-a79243df9682")>
+

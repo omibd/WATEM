@@ -1,0 +1,871 @@
+,sender,text,q_sender,q_text,datetime
+0,,,,,
+1,Yousuf Vai,"29-Jan'23@00:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-29 01:20
+2,hasan yeaseen,"Probably due to Data Missing issue for CTG & COM, TSPR can confirm further.",Chanda Bhai,Then why traffic was low in Friday...,2023-01-29 01:23
+3,hasan yeaseen,"Net Status 27-Jan,2023
+
+VLR(A): 43.61M(-50.22K)
+VLR(R): 45.38M(-2.14K)
+HLR: 112.22M(+0.41K)
+4G(A): NA**
+4G(R): NA**
+EL(WD): 5.1M(-1107.06K)
+ELSR: 98.21%(-0.3%)
+
+Network Performance:
+CSSR2G: 99.2%(-0.16%)
+CDR2G: 0.38%(+0%)
+CDR3G: 0.18%(+0%)
+PSR: 94.76%(+0.25%)
+LUSR: 98.92%(+0.09%)
+MTCCR: 92.7%(+0.2%)
+SMMTSR: 60.42%(+6.39%)
+
+Traffic:
+Voice:
+2G(BH): NA**
+2G(WD): NA**
+3G(BH): NA**
+3G(WD): NA**
+
+Data:
+GiDL(TP): 1253.69Gbps(+10.36Gbps)
+GiDL(FNA): 532.13Gbps
+GiDL(GGC): 294.58Gbps
+GiDL(BDIX): 4.76Gbps
+2G(WD): NA**
+3G(WD): NA**
+4G(WD): NA**
+TotalData: NA**
+
+SMS:
+SMMT(WD): 22.54M(+5331.58K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):717.39/636.5/112.71
+
+Dhaka:
+SCL:3.71/4.5/82.44
+Aamra:102.74/97/105.92
+Level3: 122.17/109.5/111.57
+BTCL: 108.74/78/13…",,,2023-01-29 01:44
+4,hasan yeaseen,This report was not circulated through SMS,hasan yeaseen,"Net Status 27-Jan,2023
+
+VLR(A): 43.61M(-50.22K)
+VLR(R): 45.38M(-2.14K)
+HLR: 112.22M(+0.41K)
+4G(A): NA**
+4G(R): NA**
+EL(WD): 5.1M(-1107.06K)
+ELSR: 98.21%(-0.3%)
+
+Network Performance:
+CSSR2G: 99.2%(-0.16%)
+CDR2G: 0.38%(+0%)
+CDR3G: 0.18%(+0%)
+PSR: 94.76%(+0.25%)
+LUSR: 98.92%(+0.09%)
+MTCCR: 92.7%(+0.2%)
+SMMTSR: 60.42%(+6.39%)
+
+Traffic:
+Voice:
+2G(BH): NA**
+2G(WD): NA**
+3G(BH): NA**
+3G(WD): NA**
+
+Data:
+GiDL(TP): 1253.69Gbps(+10.36Gbps)
+GiDL(FNA): 532.13Gbps
+GiDL(GGC): 294.58Gbps
+GiDL(BDIX): 4.76Gbps
+2G(WD): NA**
+3G(WD): NA**
+4G(WD): NA**
+TotalData: NA**
+
+SMS:
+SMMT(WD): 22.54M(+5331.58K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):717.39/636.5/112.71
+
+Dhaka:
+SCL:3.71/4.5/82.44
+Aamra:102.74/97/105.92
+Level3: 122.17/109.5/111.57
+BTCL: 108.74/78/13",2023-01-29 01:45
+5,Mahafuj RNM,"Update of Site Down at 02:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 11/5/13
+
+DHK_M: 1/0/2
+DHK_N: 1/0/1
+DHK_S: 1/2/1
+DHK_O: 0/0/0
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 1/0/1
+COM: 0/0/1
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 1/0/1
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 02:03
+6,tawhid vai,"Pending Incidents at 00:00_29/01
+
+Fiber Network:
+
+1. BMSDR56(Sultanpur B.Baria Sadar) to BMSDR44(West Medda B.Baria Sadar) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 09:19_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. BMSDR61 (Budhal,B Baria B Baria Sadar) to BMASG02 (Ashuganj_power_station) WDM to Router BTCL fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:17_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. NSBLB02(Narayanpur) to BMSDR04(Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+4. DHGULQ9(DH0356) to DHGULM2(DH0298) FHL DWDM fiber still down
+Impact: No outage
+Severity: C-3
+FT: 09:17_28/01
+ERT: Yet to sha…",,,2023-01-29 00:15
+7,Txmonitoring,Fiber incident update at 00:00_29/01,,,2023-01-29 00:17
+8,Chanda Bhai,Ok..,Jalal Vaia,This week Thursday might be different in trend due to সরস্বতী পূজা,2023-01-29 00:22
+9,Chanda Bhai,Then why traffic was low in Friday...,,,2023-01-29 00:23
+10,tawhid vai,ICMP Delay & Packet Loss Update 29/01/2023 00:20,,,2023-01-29 00:26
+11,hasan yeaseen,"Probably due to data missing issue, will share details , working on it",Chanda Bhai,Then why traffic was low in Friday...,2023-01-29 00:30
+12,Mahafuj RNM,"Update of Site Down at 01:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 15/9/18
+
+DHK_M: 1/0/2
+DHK_N: 1/1/1
+DHK_S: 1/1/1
+DHK_O: 1/1/1
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/3
+COM: 1/0/2
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 2/2/2
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 01:01
+13,Barsha,activity is rescheduled for tomorrow,Barsha,"CRQ000000583975##Rectification of Second-Party Software Issues in Legacy MAE
+
+Impact: All services of MAE (Huawei Radio & Legacy Core-Nodes) be down for 3 to 4 hours . Alarm monitoring, performance monitoring, and configuration collection all will be unavailable during this time.  Monitoring via Emergency service (ES)/secondary will not be possible.
+ Application & OSS",2023-01-28 22:46
+14,tawhid vai,ICMP Delay & Packet Loss Update 28/01/2023 23:00,,,2023-01-28 23:01
+15,Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 22:43_28/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017959790",,,2023-01-28 23:02
+16,Mahafuj RNM,"Update of Site Down at 23:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 43/28/48
+
+DHK_M: 1/0/2
+DHK_N: 2/1/2
+DHK_S: 2/1/1
+DHK_O: 1/1/1
+CTG_M: 0/0/0
+CTG_N: 0/0/0
+CTG_S: 27/19/31_Discrete for power issue
+COM: 1/0/2
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 4/3/4
+BAR: 1/2/1
+KHL: 1/1/1
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-28 23:06
+17,Chanda Bhai,Please share,Chanda Bhai,Please share yesterday's data traffic volume..,2023-01-28 23:24
+18,hasan yeaseen,"Vaiya, Theres been an issue at CTG data centre (TSPR) end",Eshtiuk Hossain,There's data sourcing issue ongoing at TSPR end . Its required more time to get the report . TSPR team will try to provide report by tonight . @__omi__ vaia FYKI,2023-01-28 23:28
+19,Eshtiuk Hossain,"@Anika apu, is there any timeline to get that data? anyone working?",,,2023-01-28 23:30
+20,Eshtiuk Hossain,"vaiya, within tomorrow morning.",,,2023-01-28 23:30
+21,Mahafuj RNM,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 22:43_28/01
+RT: 23:15_28/01
+DUR: 00:32
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017959790",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 22:43_28/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017959790",2023-01-28 23:32
+22,Jalal Vaia,What about Tableau? Any data volume reported in tableau for yesterday?,hasan yeaseen,"Vaiya, Theres been an issue at CTG data centre (TSPR) end",2023-01-28 23:33
+23,Jalal Vaia,"Chanda Bhai, Yesterday’s data volume 8181 TB as per Tableau.
+
+Last Friday on 10 Jan, it was 8842 TB",Chanda Bhai,Please share,2023-01-28 23:44
+24,Jalal Vaia,"Last Friday on 20 Jan, it was 8842 TB",Jalal Vaia,"Chanda Bhai, Yesterday’s data volume 8181 TB as per Tableau.
+
+Last Friday on 10 Jan, it was 8842 TB",2023-01-28 23:45
+25,hasan yeaseen,Data Volume as per Tableau,hasan yeaseen,Photo,2023-01-28 23:46
+26,Jalal Vaia,Last 14 day's trend as per Tableau,Jalal Vaia,"Chanda Bhai, Yesterday’s data volume 8181 TB as per Tableau.
+
+Last Friday on 10 Jan, it was 8842 TB",2023-01-28 23:46
+27,Jalal Vaia,"Hasan, this type of long list with long string value is not useful to convey the msg to someone.",hasan yeaseen,Photo,2023-01-28 23:52
+28,hasan yeaseen,"Noted Vaiya , I will share formatted afterwards.",Jalal Vaia,"Hasan, this type of long list with long string value is not useful to convey the msg to someone.",2023-01-28 23:55
+29,Chanda Bhai,Seems Thursday and Friday traffic interchanged..,,,2023-01-28 23:56
+30,Jalal Vaia,This week Thursday might be different in trend due to সরস্বতী পূজা,Chanda Bhai,Seems Thursday and Friday traffic interchanged..,2023-01-29 00:03
+31,Mahafuj RNM,"Update of Site Down at 00:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 17/12/22
+
+DHK_M: 1/0/2
+DHK_N: 1/0/1
+DHK_S: 1/1/1
+DHK_O: 1/1/1
+CTG_M: 1/1/1
+CTG_N: 0/0/1
+CTG_S: 5/6/7
+COM: 2/0/3
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 1/1/1
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 00:05
+32,Yousuf Vai,"28-Jan'23@23:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-29 00:11
+33,Atik Rnm,"28-Jan'23@19:45
+BSC CSSR: CBEC1(-11.18), CBEC4(-14.62) (Power shutdown)
+Voice Traffic:  No degradation",,,2023-01-28 20:40
+34,Txmonitoring,Fiber incident update at 21:00_28/01,,,2023-01-28 21:03
+35,Sobuj RNM,"Update of Site Down at 21:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 42/35/45
+
+DHK_M: 1/0/1
+DHK_N: 1/1/1
+DHK_S: 1/1/1
+DHK_O: 2/2/2
+CTG_M: 3/3/3
+CTG_N: 0/0/0
+CTG_S: 26/20/27---Discrete
+COM: 0/1/2
+NOA: 1/1/1
+SYL: 1/0/1
+MYM: 2/2/2
+BAR: 2/3/2
+KHL: 1/1/1
+KUS: 0/0/0
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-28 21:04
+36,Fls Rokib,21:00 Update,Fls Rokib,Photo,2023-01-28 21:07
+37,Jalal Vaia,"Jalal, please ask someone to share packet loss report  hourly basis during busy hour..",,,2023-01-28 21:25
+38,Jalal Vaia,It’s not maintaining?,Jalal Vaia,"Jalal, please ask someone to share packet loss report  hourly basis during busy hour..",2023-01-28 21:25
+39,Eshtiuk Hossain,sharing vaia,,,2023-01-28 21:26
+40,Jalal Vaia,Why missed?,Eshtiuk Hossain,sharing vaia,2023-01-28 21:27
+41,Jalal Vaia,Please post it in OPS group regularly,Jalal Vaia,"Jalal, please ask someone to share packet loss report  hourly basis during busy hour..",2023-01-28 21:29
+42,Eshtiuk Hossain,Already shared with IIG vendor where we get the packet loss. Overall report missed vaia. Sharing asap,,,2023-01-28 21:29
+43,__omi__,Ok vaia,Jalal Vaia,Please post it in OPS group regularly,2023-01-28 21:31
+44,Eshtiuk Hossain,ICMP Delay & Packet Loss Update 28/01/2023 21:30,,,2023-01-28 21:36
+45,Eshtiuk Hossain,"Network Update
+21:30_28/01/2023
+
+PDP SR found 100% in all UGWs
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss found from Service Performance Report except Akhter Mango Facebook & Youtube ,Alekharchar Aamra  to facebook
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (19:00_28/01/23)",,,2023-01-28 21:46
+46,Sobuj RNM,"Update of Site Down at 22:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 47/32/53
+
+DHK_M: 2/0/3
+DHK_N: 1/1/1
+DHK_S: 1/1/1
+DHK_O: 2/1/1
+CTG_M: 0/0/0
+CTG_N: 0/0/1
+CTG_S: 33/22/36---Discrete
+COM: 1/1/3
+NOA: 2/1/2
+SYL: 1/0/1
+MYM: 0/0/0
+BAR: 2/3/2
+KHL: 2/2/2
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-28 22:01
+47,Atik Rnm,"28-Jan'23@21:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-28 22:05
+48,Eshtiuk Hossain,ICMP Delay & Packet Loss Update 28/01/2023 22:00,,,2023-01-28 22:11
+49,__omi__,"The Duty Handover to Night shift at 22:30 on 28-Jan-2023:
+
+SM: yeaseen
+CNM: Tawhid vai
+TX_M: shabbir vai
+TX_FLS:Rabbani
+RAN_M: Mahfuz
+RAN_FLS: Yousuf vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval f…",,,2023-01-28 22:31
+50,Txmonitoring,Fiber incident update at 18:00_28/01,,,2023-01-28 18:15
+51,Atik Rnm,Lock/Unlock Summary_28/01/2023 18:21,,,2023-01-28 18:28
+52,Sobuj RNM,"Close Notification:
+4 2G, 3 3G & 4 4G Sites in Dhaka Metro & Dhaka South are up
+Severity: C3
+FT: 15:30_28/01
+RT: 17:52_28/01
+DUR: 02:22
+POP: DHDHN15
+Cause: TX issue at FHL end
+Action: FHL team resolved the issue
+Area: Hazaribagh Thana & New Market Thana
+Unit: FHL
+Tracking ID: RDTXM2301281530",Sobuj RNM,"Incident Notification:
+4 2G, 3 3G & 4 4G Sites in Dhaka Metro & Dhaka South are down
+Severity: C3
+FT: 15:30_28/01
+ERT: 04 hrs
+POP: DHDHN15
+Cause: Suspecting fiber cut at FHL end
+Area: Hazaribagh Thana & New Market Thana
+Unit: FHL
+Tracking ID: RDTXM2301281530",2023-01-28 18:34
+53,Eshtiuk Hossain,"Network Update
+18:00_28/01/2023
+
+PDP SR found 100% in all UGWs
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss found from Service Performance Report 
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (06:00_28/01/23)",,,2023-01-28 18:39
+54,Sobuj RNM,@__omi__ Bhaia,,,2023-01-28 18:55
+55,Sobuj RNM,Sysc alarm found at DBE04,Sobuj RNM,@__omi__ Bhaia,2023-01-28 18:55
+56,__omi__,@Atik Rnm check it.,Sobuj RNM,@__omi__ Bhaia,2023-01-28 19:00
+57,Fls Rokib,Checking vai,You,@Atik Rnm check it.,2023-01-28 19:01
+58,Sobuj RNM,"Update of Site Down at 19:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 91/59/94
+
+DHK_M: 1/0/1
+DHK_N: 3/2/3
+DHK_S: 2/2/2
+DHK_O: 6/5/6
+CTG_M: 0/0/0
+CTG_N: 0/0/2
+CTG_S: 56/39/55---Discrete
+COM: 1/2/3
+NOA: 4/2/4
+SYL: 6/1/6
+MYM: 4/2/4
+BAR: 2/3/2
+KHL: 1/1/1
+KUS: 0/0/0
+RAJ: 5/0/5
+RANG: 0/0/0",,,2023-01-28 19:06
+59,Fls Rokib,Reset performed but still getting down. Need to escalate concern team.,Sobuj RNM,@__omi__ Bhaia,2023-01-28 19:27
+60,Atik Rnm,Lock/Unlock Summary_28/01/2023 19:44,,,2023-01-28 19:49
+61,Sobuj RNM,"Update of Site Down at 20:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 73/49/69
+
+DHK_M: 1/0/1
+DHK_N: 1/0/2
+DHK_S: 0/0/1
+DHK_O: 4/3/3
+CTG_M: 2/2/3
+CTG_N: 0/0/2
+CTG_S: 55/37/47
+COM: 0/1/2
+NOA: 4/2/3
+SYL: 2/0/1
+MYM: 0/0/0
+BAR: 2/3/2
+KHL: 1/1/1
+KUS: 0/0/0
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-28 20:03
+62,Sobuj RNM,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 14:55_28/01
+RT: 16:04_28/01
+DUR: 01:09
+Cause: Power issue at MYBLK90
+Action: e.co team resolved the issue
+Area: Bhaluka 
+Unit: e.co
+TT: INC000017957352",Sobuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 14:55_28/01
+ERT: 01 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka 
+Unit: e.co
+TT: INC000017957352",2023-01-28 16:56
+63,__omi__,Checking vaia,Chanda Bhai,2g and 4g diff seems high...please check,2023-01-28 16:58
+64,Eshtiuk Hossain,There's data sourcing issue ongoing at TSPR end . Its required more time to get the report . TSPR team will try to provide report by tonight . @__omi__ vaia FYKI,Eshtiuk Hossain,@__omi__ vaia traffic report of 27 January still not available in KPI explorer,2023-01-28 17:05
+65,Sobuj RNM,"Update of Site Down at 17:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 166/100/204
+
+DHK_M: 3/1/3
+DHK_N: 8/5/7
+DHK_S: 5/5/11
+DHK_O: 31/28/42---Discrete
+CTG_M: 1/3/6
+CTG_N: 20/0/25---Discrete
+CTG_S: 24/25/41---Discrete
+COM: 14/7/13---Discrete
+NOA: 1/3/4
+SYL: 20/3/13---Discrete
+MYM: 4/0/4
+BAR: 19/12/19---Discrete+ Incident
+KHL: 9/7/9
+KUS: 1/1/1
+RAJ: 6/0/6
+RANG: 0/0/0",,,2023-01-28 17:27
+66,Sobuj RNM,"Close Notification:
+3 2G, 2 3G & 2 4G Sites in Dhaka Outer are up
+Severity: C3
+FT: 14:51_28/01
+RT: 15:12_28/01
+DUR: 00:21
+POP: DHSVR72
+Cause: Formal RCA will cover the details investigation & its findings
+Area: Keraniganj & Savar
+Unit: e.co
+TT: INC000017956868",,,2023-01-28 17:30
+67,Atik Rnm,Lock/Unlock Summary_28/01/2023 17:15,,,2023-01-28 17:35
+68,__omi__,"vaia, 32 sites only 4G down (2G Ok) created larger gap between 2G & 4G count as of attached table. there are few sites where small cell added as 4th cell for 4G only.. seems this difference are from these sites, i am checking further.",Chanda Bhai,2g and 4g diff seems high...please check,2023-01-28 17:44
+69,Sobuj RNM,"Update of Site Down at 18:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 117/79/127
+
+DHK_M: 1/0/1
+DHK_N: 2/2/3
+DHK_S: 0/0/2
+DHK_O: 37/28/41---Discrete
+CTG_M: 2/1/0
+CTG_N: 4/0/2
+CTG_S: 41/30/45---Discrete
+COM: 1/1/3
+NOA: 3/2/4
+SYL: 7/2/7
+MYM: 7/3/7
+BAR: 6/7/6
+KHL: 2/2/2
+KUS: 1/1/1
+RAJ: 2/0/2
+RANG: 1/0/1",,,2023-01-28 18:02
+70,Barsha,"CRQ000000583975##Rectification of Second-Party Software Issues in Legacy MAE
+
+Impact: All services of MAE (Huawei Radio & Legacy Core-Nodes) be down for 3 to 4 hours . Alarm monitoring, performance monitoring, and configuration collection all will be unavailable during this time.  Monitoring via Emergency service (ES)/secondary will not be possible.
+Owner: Application & OSS",,,2023-01-28 18:11
+71,Eshtiuk Hossain,"Pending Incidents at 18:00_28/01
+
+Fiber Network:
+
+1. BMSDR56(Sultanpur B.Baria Sadar) to BMSDR44(West Medda B.Baria Sadar) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 09:19_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. BMSDR61 (Budhal,B Baria B Baria Sadar) to BMASG02 (Ashuganj_power_station) WDM to Router BTCL fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:17_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. NSBLB02(Narayanpur) to BMSDR04(Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+4. CGHTZ11(Egaromile) to RMKKL05(Ghagra) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 09:45_28/01
+ERT: Yet to sh…",,,2023-01-28 18:11
+72,Hosna Ara,"Incident Notification:
+3 2G, 2 3G & 2 4G Sites in Dhaka Outer are down
+Severity: C3
+FT: 14:51_28/01
+ERT: 1 hr
+POP: DHSVR72
+Cause: Suspecting power issue at POP
+Area: Keraniganj & Savar
+Unit: e.co
+TT: INC000017956868",,,2023-01-28 15:02
+73,Txmonitoring,Fiber incident update at 15:00_28/01,,,2023-01-28 15:06
+74,Hosna Ara,"Update of Site Down at 15:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 130/103/183
+
+DHK_M: 1/2/3
+DHK_N: 6/8/10_Discrete
+DHK_S: 3/2/7
+DHK_O: 29/28/41_Discrete & Incident[2/2/2, 3/2/2]
+CTG_M: 5/6/11_Discrete
+CTG_N: 14/0/17_Discrete
+CTG_S: 11/12/23_Discrete
+COM: 8/6/14_Discrete
+NOA: 1/1/3
+SYL: 10/5/12_Discrete
+MYM: 12/8/12_Discrete
+BAR: 17/16/17_Discrete
+KHL: 4/4/4
+KUS: 5/5/5
+RAJ: 4/0/4
+RANG: 0/0/0",,,2023-01-28 15:07
+75,Eshtiuk Hossain,"Network Update
+15:00_28/01/2023
+
+PDP SR found 100% in all UGWs
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss found from Service Performance Report 
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (06:00_28/01/23)",,,2023-01-28 15:20
+76,Sobuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 14:55_28/01
+ERT: 01 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka 
+Unit: e.co
+TT: INC000017957352",,,2023-01-28 15:30
+77,__omi__,"@Sobuj RNM, please generate this report once as at 15 site down details data missing",Hosna Ara,"Update of Site Down at 15:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 130/103/183
+
+DHK_M: 1/2/3
+DHK_N: 6/8/10_
+DHK_S: 3/2/7
+DHK_O: 29/28/41_[2/2/2, 3/2/2]
+CTG_M: 5/6/11_
+CTG_N: 14/0/17_
+CTG_S: 11/12/23_
+COM: 8/6/14_
+NOA: 1/1/3
+SYL: 10/5/12_
+MYM: 12/8/12_
+BAR: 17/16/17_
+KHL: 4/4/4
+KUS: 5/5/5
+RAJ: 4/0/4
+RANG: 0/0/0",2023-01-28 15:43
+78,Sobuj RNM,"Incident Notification:
+4 2G, 3 3G & 4 4G Sites in Dhaka Metro & Dhaka South are down
+Severity: C3
+FT: 15:30_28/01
+ERT: 04 hrs
+POP: DHDHN15
+Cause: Suspecting fiber cut at FHL end
+Area: Hazaribagh Thana & New Market Thana
+Unit: FHL
+Tracking ID: RDTXM2301281530",,,2023-01-28 15:44
+79,Sobuj RNM,"Done.
+Do i need to post here",You,"@Sobuj RNM, please generate this report once as at 15 site down details data missing",2023-01-28 15:46
+80,__omi__,not necessary,Sobuj RNM,"Done.
+Do i need to post here",2023-01-28 15:46
+81,Atik Rnm,Lock/Unlock Summary_28/01/2023 15:40,,,2023-01-28 15:50
+82,Atik Rnm,"28-Jan'23@15:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-28 16:05
+83,Sobuj RNM,"Update of Site Down at 16:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 156/109/208
+
+DHK_M: 2/2/4
+DHK_N: 3/5/8
+DHK_S: 5/5/9
+DHK_O: 31/27/39---Discrete+Incident
+CTG_M: 5/2/7
+CTG_N: 17/0/25---Discrete
+CTG_S: 17/19/29---Discrete
+COM: 9/6/15---Discrete
+NOA: 1/2/4
+SYL: 16/4/17---Discrete
+MYM: 17/12/18---Discrete+ Incident
+BAR: 19/15/19---Discrete
+KHL: 6/5/6
+KUS: 5/5/5
+RAJ: 3/0/3
+RANG: 0/0/0",,,2023-01-28 16:09
+84,Atik Rnm,Lock/Unlock Summary_28/01/2023 16:09,,,2023-01-28 16:19
+85,Chanda Bhai,2g and 4g diff seems high...please check,Sobuj RNM,"Update of Site Down at 16:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 156/109/208
+
+DHK_M: 2/2/4
+DHK_N: 3/5/8
+DHK_S: 5/5/9
+DHK_O: 31/27/39---Discrete+Incident
+CTG_M: 5/2/7
+CTG_N: 17/0/25---Discrete
+CTG_S: 17/19/29---Discrete
+COM: 9/6/15---Discrete
+NOA: 1/2/4
+SYL: 16/4/17---Discrete
+MYM: 17/12/18---Discrete+ Incident
+BAR: 19/15/19---Discrete
+KHL: 6/5/6
+KUS: 5/5/5
+RAJ: 3/0/3
+RANG: 0/0/0",2023-01-28 16:47
+86,Arif RANFLS,"Dear Bhaiya, 
+Please have the investigation details
+
+NGRPGA6 (DITF COW) VIP site
+2G: Found up & taking traffic (RX Diversity Lost_AntennaUnitGroup=3_B3_1 alarm persist. Concern: e.co)
+3G+4G: Found up & taking traffic.",Alauddin Vai,"NGRPGA6 (DITF COW) VIP site
+
+Please update @Arif RANFLS vi,",2023-01-28 13:45
+87,Alauddin Vai,Thanks Bhaiya,,,2023-01-28 13:46
+88,Baten Vai,"28-Jan'23@13:00
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-28 13:49
+89,Hosna Ara,"Close Notification:
+2 2G, 3 3G & 2 4G Sites in Comilla are stable 
+Severity: C3
+FT: 11:31_28/01
+RT: 13:11_28/01
+DUR: 01:40
+Link: CMSDR74-CMSDR82
+Cause: Power issue at CMSDR82
+Action: ULKA team restored by PG running 
+Area: Comilla Adarsha Sadar
+Unit: ULKA
+TT: INC000017955486",Hosna Ara,"Incident Notification:
+2 2G, 3 3G & 2 4G Sites in Comilla are fluctuating 
+Severity: C3
+FT: 11:31_28/01
+ERT: 1 hr
+Link: CMSDR74-CMSDR82
+Cause: Power issue at CMSDR82
+Area: Comilla Adarsha Sadar
+Unit: ULKA
+TT: INC000017955486",2023-01-28 13:50
+90,Hosna Ara,"Incident Notification:
+4 2G, 4 3G & 5 4G Sites in Dhaka Outer are down
+Severity: C3
+FT: 13:43_28/01
+ERT: 4 hrs
+POP: DHSVR20
+Cause: TN to RTN interface down at POP
+Area: Savar
+Unit: e.co
+TT: INC000017956529",,,2023-01-28 14:03
+91,Hosna Ara,"Update of Site Down at 14:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 99/71/124
+
+DHK_M: 1/0/1
+DHK_N: 8/7/8
+DHK_S: 2/2/6
+DHK_O: 23/23/33_Discrete & Incident[2/2/2, 4/4/5]
+CTG_M: 6/6/8
+CTG_N: 11/0/14_Discrete
+CTG_S: 8/4/9_Discrete
+COM: 5/3/8
+NOA: 0/0/0
+SYL: 7/3/8
+MYM: 5/4/6
+BAR: 14/14/14_Discrete
+KHL: 3/3/3
+KUS: 3/2/3
+RAJ: 3/0/3
+RANG: 0/0/0",,,2023-01-28 14:06
+92,Arif RANFLS,Updated_14.00,Alauddin Vai,"@Baten Vai vi, @Arif RANFLS vi, next update at 14:00",2023-01-28 14:23
+93,Chanda Bhai,Please share yesterday's data traffic volume..,,,2023-01-28 14:41
+94,Eshtiuk Hossain,sharing vaia,Chanda Bhai,Please share yesterday's data traffic volume..,2023-01-28 14:43
+95,Alauddin Vai,"The Duty Handover to Evening shift at 14:45 on 28-Jan-2023:
+
+SM: Omi Vi
+CNM: Eshtiuk Bro
+TX_M: Shariful Bro
+TX_FLS: Tanvir Vi (Till 1900), Rabbani Bro (From 1900)
+RAN_M: Sabuj Bro
+RAN_FLS: Rokib Bro, Atique Bro, Arif (CC only till 1700)
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPG…",,,2023-01-28 14:44
+96,Hosna Ara,"Close Notification:
+4 2G, 4 3G & 5 4G Sites in Dhaka Outer are up
+Severity: C3
+FT: 13:43_28/01
+RT: 14:31_28/01
+DUR: 00:48
+POP: DHSVR20
+Cause: TN to RTN interface down at POP
+Action: e.co team restored by reconnecting the LAN cable 
+Area: Savar
+Unit: e.co
+TT: INC000017956529",Hosna Ara,"Incident Notification:
+4 2G, 4 3G & 5 4G Sites in Dhaka Outer are down
+Severity: C3
+FT: 13:43_28/01
+ERT: 4 hrs
+POP: DHSVR20
+Cause: TN to RTN interface down at POP
+Area: Savar
+Unit: e.co
+TT: INC000017956529",2023-01-28 14:51
+97,Eshtiuk Hossain,@__omi__ vaia traffic report of 27 January still not available in KPI explorer,,,2023-01-28 14:53
+98,__omi__,"Vaia, yesterday data yet not available in KPI explorer. Will share it as soon as it is available.",Chanda Bhai,Please share yesterday's data traffic volume..,2023-01-28 14:58
+99,Hosna Ara,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Dhaka Outer are down
+Severity: C3
+FT: 12:07_28/01
+ERT: 4 hrs
+POP: DHSVRH8
+Cause: Yet to identify
+Area: Savar
+Unit: e.co
+TT: INC000017955868",,,2023-01-28 12:36
+100,Hosna Ara,"Close Notification:
+2 2G, 2 3G & 2 4G Sites in Chittagong South are up
+Severity: C3
+FT: 12:13_28/01
+RT: 12:31_28/01
+Dur: 00:18
+POP: CGSKN25
+Cause: Formal RCA will cover the details investigation & its findings
+Area: Satkania
+Unit: e.co
+TT: INC000017955845",Hosna Ara,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Chittagong South are down
+Severity: C3
+FT: 12:13_28/01
+ERT: 4 hrs
+POP: CGSKN25
+Cause: Yet to identify
+Area: Satkania
+Unit: e.co
+TT: INC000017955845",2023-01-28 12:48

@@ -1,0 +1,3802 @@
+,sender,text,q_sender,q_text,datetime
+0,Md. Hasib Ur Rahman,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+GPKLKA2(Edotco): 21:54 26-01-23,Dalas Fashions Limited
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+@Saifuzzaman Saif vi, plz share RC of 02 site",,,2023-01-26 22:19
+1,Md. Hasib Ur Rahman,Checking bhaiya,Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 22:19
+2,Md. Hasib Ur Rahman,"DHAPT11 site restored...plz check
+
+
+@Saifuzzaman Saif vi, urgent plz, 
+
+Plz check if any operational issue",,,2023-01-26 22:19
+3,Md. Hasib Ur Rahman,"GPKLKA2= some trx found hanged. after soft reset now up
+GPKLG38= Site down due to power issue .DC low alarm found. Also Door open alarm found",Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 22:19
+4,Md. Hasib Ur Rahman,"ok, thanks Bro",,,2023-01-26 22:19
+5,Md. Hasib Ur Rahman,"Update of Site Down at 23:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 19/7/25
+
+DHK_M: 0/0/0
+DHK_N: 2/1/5
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/1/1
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 1/1/1
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 22:19
+6,Md. Hasib Ur Rahman,Team waiting at airport,Saifuzzaman Saif,Checking bhaiya,2023-01-26 22:19
+7,Md. Hasib Ur Rahman,,,,2023-01-26 22:19
+8,Md. Hasib Ur Rahman,"2G: All cells are found up and taking traffic. No Packet loss observed at Abis. DL/UL Loss & VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+
+3G: All cells are found up and taking traffic. No Frame or Packet loss observed at IuB. DL/UL Loss, VSWR found within acceptable range. RRC Success rate and Speech success rate found in good range.
+S8C1 (-85.4),S9C1(-90.9)& S2C1(-78.4) have RSSI degraded issue. Concern: SM-CC
+
+4G: 
+DHAPT11LL& DHAPT11LI cell are down due to Power Disturbance issue Power Disturbance(RRU-8_B3_1,E201021696 &RRU-9_B3_1,E201021811)//Current Too High - FieldReplaceableUnit=RRU-9_B3_1//.DHAPT11L21I NB=1/S8C1/S8C1 (1,1) Fiber Loss UL (UlLoss-DlLoss=5.61). Concern: e.co",Alauddin Vai,Team waiting at airport,2023-01-26 22:19
+9,Md. Hasib Ur Rahman,Thanks Bro....,,,2023-01-26 22:19
+10,Md. Hasib Ur Rahman,"26-Jan'23@22:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 22:19
+11,Md. Hasib Ur Rahman,Fiber incident update at 0:00_27/01,,,2023-01-26 22:19
+12,Md. Hasib Ur Rahman,"Update of Site Down at 00:00 On 27-01-2023
+
+Region: 2G/3G/4G
+National: 21/7/24
+
+DHK_M: 0/0/0
+DHK_N: 4/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/3
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 2/0/2
+MYM: 0/0/0
+BAR: 3/1/3
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-26 22:19
+13,Md. Hasib Ur Rahman,"Pending Incidents at 00:00_27/01/2023
+
+Fiber Network:
+
+1. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CGBAK08 (South Bakolia) to CGHTZ11 (Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+3. GPSDR34 (Pubail) to NSBLB02 (Nayaranpur) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 22:19
+14,Paru,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are up
+Severity: C3
+FT: 18:42_26/01
+RT: 19:20_26/01
+DUR: 00:38
+Cause: Power issue at CPUMT24
+Action: e.co team resolved the issue by MCB replaced
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",2023-01-26 19:29
+15,Paru,"Close Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 18:40_26/01
+RT: 19:45_26/01
+DUR: 01:05
+Cause: Battery stolen at MYBLK39
+Action: CP restored 
+Area: Bhaluka
+Unit: ULKA
+TT: INC000017949815",Mahafuj RNM,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",2023-01-26 19:29
+16,Paru,/,,,2023-01-26 19:29
+17,Paru,"Update of Site Down at 20:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 27/10/27
+
+DHK_M: 1/1/0
+DHK_N: 4/2/7
+DHK_S: 1/0/0
+DHK_O: 2/1/1
+CTG_M: 0/0/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 2/0/1
+NOA: 1/0/1
+SYL: 3/0/3
+MYM: 3/3/3
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 2/0/2
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 19:29
+18,Paru,Bohaddarhat Firewall 2 & Vulta Firewall 1 devices were offline for 3/4 mins,,,2023-01-26 19:29
+19,Paru,"Update of Site Down at 21:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 26/5/29
+
+DHK_M: 0/0/0
+DHK_N: 3/1/6
+DHK_S: 1/0/0
+DHK_O: 1/1/3
+CTG_M: 0/0/0
+CTG_N: 2/0/2
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 3/0/3
+MYM: 3/2/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 1/0/1",,,2023-01-26 19:29
+20,Paru,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",,,2023-01-26 19:29
+21,Paru,"Network Update
+21:00_26/01/2023
+
+PDP SR found 100% in all UGWs except AL03_vUGW07 (SR 98.4%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except  Vulta Level3 IBG1 to Facebook & Akhter Mango to Youtube
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 19:29
+22,Paru,"Net Status 25-Jan,2023
+
+VLR(A): 43.66M(+52.04K)
+VLR(R): 45.35M(+47.33K)
+HLR: 112.22M(+0.95K)
+
+4G(A): 18.88M(+253.13K)
+4G(R): 24.55M(+36.59K)
+EL(WD): 5.97M(+131.03K)
+ELSR: 98.42%(+0.1%)
+
+Network Performance:
+CSSR2G: 99.39%(+0.35%)
+CDR2G: 0.41%(+0.02%)
+CDR3G: 0.16%(-0.01%)
+PSR: 94.94%(+0.31%)
+LUSR: 98.87%(+0.03%)
+MTCCR: 92.64%(-0.13%)
+SMMTSR: 60.69%(+1.31%)
+
+Traffic:
+Voice:
+2G(BH): 482.04K(+21.95K)
+2G(WD): 5071.62K(+169.79K)
+3G(BH): 273.02K(+5.22K)
+3G(WD): 3211.68K(+45.42K)
+
+Data:
+GiDL(TP): 1247.43Gbps(+5.44Gbps)
+GiDL(FNA): 489.11Gbps
+GiDL(GGC): 256.28Gbps
+GiDL(BDIX): 5.51Gbps
+2G(WD): 13.08TB(-0.75TB)
+3G(WD): 579.55TB(-37.61TB)
+4G(WD): 7804.9TB(+76.61TB)
+TotalData: 8397.52TB(+38.25TB)
+
+SMS:
+SMMT(WD): 21.41M(+1761.34K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):648.78/636.5/101.93
+
+Dhaka:
+SCL:3.9/4.5/86.67
+Aamra:95.18/97/98.12
+Level3: 112.26/109.5/102.52
+BTCL: 102.32/78/131.18
+Mango: 19.34/37.5/51.57
+FHL:11.74/11/106.73
+
+Chittagong:
+Aamra: 98.35/103/95.49
+SCL: 11.05/11/100.45
+Level3: 90.16/90.5/99.62
+BTCL: 74.22/62/119.71
+Mango: 30.26/32.5/93.11
+
+
+Availability: 2G/3G/4G
+National: 99.81/99.65/99.98
+
+Site Count (As of '25 January 2023', Source - TSPR report):
+2G:  15600 
+3G:  9103 
+4G:  15683",,,2023-01-26 19:29
+23,Paru,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 20:57_26/01
+RT: 21:32_26/01
+DUR: 00:35
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",2023-01-26 19:29
+24,Paru,RAN_M: Hasib,,,2023-01-26 19:29
+25,Paru,"Update of Site Down at 22:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 24/8/29
+
+DHK_M: 0/0/1
+DHK_N: 5/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 0/0/0
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 3/3/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 19:29
+26,Paru,,,,2023-01-26 19:29
+27,Paru,"The Duty Handover to Night shift at 22:15 on 26-Jan-2023:
+
+SM: alauddin vai
+CNM: shahin vai
+TX_M: mahbub vai
+TX_FLS: Jubair vai
+RAN_M: 
+RAN_FLS: Saif vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval from 09 am to 09 pm.
+
+Current site down:
+Region: 2G / 3G / 4G
+National:  24/08/29
+
+Facebook FNA is Ok
+Google traffic found Ok.
+NTMC link stable & No alarm now",,,2023-01-26 19:29
+28,Paru,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+GPKLKA2(Edotco): 21:54 26-01-23,Dalas Fashions Limited
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+@Saifuzzaman Saif vi, plz share RC of 02 site",,,2023-01-26 19:29
+29,Paru,Checking bhaiya,Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 19:29
+30,Paru,"DHAPT11 site restored...plz check
+
+
+@Saifuzzaman Saif vi, urgent plz, 
+
+Plz check if any operational issue",,,2023-01-26 19:29
+31,Paru,"GPKLKA2= some trx found hanged. after soft reset now up
+GPKLG38= Site down due to power issue .DC low alarm found. Also Door open alarm found",Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 19:29
+32,Paru,"ok, thanks Bro",,,2023-01-26 19:29
+33,Paru,"Update of Site Down at 23:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 19/7/25
+
+DHK_M: 0/0/0
+DHK_N: 2/1/5
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/1/1
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 1/1/1
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 19:29
+34,Paru,Team waiting at airport,Saifuzzaman Saif,Checking bhaiya,2023-01-26 19:29
+35,Paru,"2G: All cells are found up and taking traffic. No Packet loss observed at Abis. DL/UL Loss & VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+
+3G: All cells are found up and taking traffic. No Frame or Packet loss observed at IuB. DL/UL Loss, VSWR found within acceptable range. RRC Success rate and Speech success rate found in good range.
+S8C1 (-85.4),S9C1(-90.9)& S2C1(-78.4) have RSSI degraded issue. Concern: SM-CC
+
+4G: 
+DHAPT11LL& DHAPT11LI cell are down due to Power Disturbance issue Power Disturbance(RRU-8_B3_1,E201021696 &RRU-9_B3_1,E201021811)//Current Too High - FieldReplaceableUnit=RRU-9_B3_1//.DHAPT11L21I NB=1/S8C1/S8C1 (1,1) Fiber Loss UL (UlLoss-DlLoss=5.61). Concern: e.co",Alauddin Vai,Team waiting at airport,2023-01-26 19:29
+36,Paru,Thanks Bro....,,,2023-01-26 19:29
+37,Paru,"26-Jan'23@22:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 19:29
+38,Paru,Fiber incident update at 0:00_27/01,,,2023-01-26 19:29
+39,Paru,"Update of Site Down at 00:00 On 27-01-2023
+
+Region: 2G/3G/4G
+National: 21/7/24
+
+DHK_M: 0/0/0
+DHK_N: 4/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/3
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 2/0/2
+MYM: 0/0/0
+BAR: 3/1/3
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-26 19:29
+40,Paru,"Pending Incidents at 00:00_27/01/2023
+
+Fiber Network:
+
+1. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CGBAK08 (South Bakolia) to CGHTZ11 (Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+3. GPSDR34 (Pubail) to NSBLB02 (Nayaranpur) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 19:29
+41,__omi__,"Vaia checking ongoing vaia, getting many issues, need few moments please",You,Shifat what is the update of  checking DHAPT09..?,2023-01-26 17:55
+42,__omi__,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 15:44_26/01
+RT: 17:48_26/01
+DUR: 02:04
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 15:44_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",2023-01-26 17:55
+43,__omi__,"Update of Site Down at 18:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/15/30
+
+DHK_M: 1/1/0
+DHK_N: 5/3/8
+DHK_S: 1/0/0
+DHK_O: 3/3/3
+CTG_M: 1/0/0
+CTG_N: 0/0/1
+CTG_S: 6/3/5
+COM: 3/1/3
+NOA: 2/0/2
+SYL: 3/1/3
+MYM: 1/2/1
+BAR: 0/0/0
+KHL: 2/1/2
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 2/0/2",,,2023-01-26 17:55
+44,__omi__,"Vaia please have the feedback 
+
+DHAPT09:
+
+2G: No service impacting current alarm observed. No Packet loss observed at Abis. VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+Fiber Loss UL (UlLoss-DlLoss=5.13) at RRU-3_B8_1 (D76D54C).Concern: e.co 
+
+3G: No service impacting current alarm observed. No Frame or Packet loss observed at IuB. RSSI, DL/UL Loss, VSWR found within acceptable range.
+RSSI found very poor for all the cells throughout the day. Concern: SM-CCD 
+                  
+4G: No service impacting current alarm observed. All cells are found up and taking traffic. No Packet loss observed at S1, RSSI found in good range. DL/UL Loss & VSWR found within acceptable range. S1SigEstabSuccRate observed good.
+DL throughput found degraded for DHAPT09L09A DHAPT09L09B DHAPT09L21B DHAPT09L21C DHAPT09L21E DHAPT09LA DHAPT09LC DHAPT09LE cells. Concern: SM CCD
+RrcConnSetupSuccRate found degraded for DHAPT09L09A form 13:00 26/01/2023. Concern: SM CCD
+
+RRU-1_B1_1 (D76D54A) and RRU-1_B3_1 (D76D54A, S1C1) found locked",Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 17:55
+45,__omi__,,,,2023-01-26 17:55
+46,__omi__,"Pending Incidents at 18:00_26/01/2023
+
+Fiber Network:
+
+1.CGRZN63 (Sultanpur, Raozan) to CGRNG03(Ranirhat_Rangunia) BTCL Fiber(Router to Router, Full Break) is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. FPSDR07(Faridpur_BSC) to MDSDR04(Madaripur_2) PGCB DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 10:42_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: PGCB
+
+4. CGBAK08(South Bakolia) to CGHTZ11(Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+5. FNSDRB1(FN3203) to FNDGN24(Daggonbhuiyan3)BTCL DWDM and FNDGN24(Daganbhuiyan,Feni) to NOBGM55(Begumganj,Noakhali) BTCL DWDM fibers are down
+Impact: No outage
+Severity: C-3
+FT: 12:05_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+6. DHGULQ9(DH0356) to DHGULM2(DH0298) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 12:47_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+7. BMSRL11(HA5501) to HGCNR21(HA5509) Robi IRU DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:51_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: Hamida(Robi IRU)
+
+8. CGHTZ11(Egaromile) to RMKKL05(Ghagra) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+9. GPSDR34(Pubail) to NSBLB02(Nayaranpur)  BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 17:55
+47,__omi__,"26-Jan'23@18:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 17:55
+48,__omi__,"Network Update
+18:00_26/01/2023
+
+PDP SR found 100% in all UGWs except Pubail vUGW06 (SR 98.79%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except 
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 17:55
+49,__omi__,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",,,2023-01-26 17:55
+50,__omi__,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",,,2023-01-26 17:55
+51,__omi__,"Update of Site Down at 19:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/14/32
+
+DHK_M: 1/1/0
+DHK_N: 3/2/8
+DHK_S: 1/0/0
+DHK_O: 1/1/2
+CTG_M: 0/0/1
+CTG_N: 2/0/1
+CTG_S: 3/2/2
+COM: 4/1/3_C3 Incident
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 5/5/5_C3 Incident
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 17:55
+52,__omi__,"Planned Work
+27 Jan,2023
+
+Total: 147
+Approved: 147
+Critical: 00
+Unit:   App/Crt/Otg/Notg
+
+Total:  147/00/71/76
+Tops:   01/00/01/00
+Imple:  134/00/60/74
+NTTN:   04/00/04/00
+e.co:   05/00/05/00
+IT:     02/00/01/01",,,2023-01-26 17:55
+53,__omi__,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are up
+Severity: C3
+FT: 18:42_26/01
+RT: 19:20_26/01
+DUR: 00:38
+Cause: Power issue at CPUMT24
+Action: e.co team resolved the issue by MCB replaced
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",2023-01-26 17:55
+54,__omi__,"Close Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 18:40_26/01
+RT: 19:45_26/01
+DUR: 01:05
+Cause: Battery stolen at MYBLK39
+Action: CP restored 
+Area: Bhaluka
+Unit: ULKA
+TT: INC000017949815",Mahafuj RNM,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",2023-01-26 17:55
+55,__omi__,/,,,2023-01-26 17:55
+56,__omi__,"Update of Site Down at 20:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 27/10/27
+
+DHK_M: 1/1/0
+DHK_N: 4/2/7
+DHK_S: 1/0/0
+DHK_O: 2/1/1
+CTG_M: 0/0/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 2/0/1
+NOA: 1/0/1
+SYL: 3/0/3
+MYM: 3/3/3
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 2/0/2
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 17:55
+57,__omi__,Bohaddarhat Firewall 2 & Vulta Firewall 1 devices were offline for 3/4 mins,,,2023-01-26 17:55
+58,__omi__,"Update of Site Down at 21:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 26/5/29
+
+DHK_M: 0/0/0
+DHK_N: 3/1/6
+DHK_S: 1/0/0
+DHK_O: 1/1/3
+CTG_M: 0/0/0
+CTG_N: 2/0/2
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 3/0/3
+MYM: 3/2/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 1/0/1",,,2023-01-26 17:55
+59,__omi__,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",,,2023-01-26 17:55
+60,__omi__,"Network Update
+21:00_26/01/2023
+
+PDP SR found 100% in all UGWs except AL03_vUGW07 (SR 98.4%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except  Vulta Level3 IBG1 to Facebook & Akhter Mango to Youtube
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 17:55
+61,__omi__,"Net Status 25-Jan,2023
+
+VLR(A): 43.66M(+52.04K)
+VLR(R): 45.35M(+47.33K)
+HLR: 112.22M(+0.95K)
+
+4G(A): 18.88M(+253.13K)
+4G(R): 24.55M(+36.59K)
+EL(WD): 5.97M(+131.03K)
+ELSR: 98.42%(+0.1%)
+
+Network Performance:
+CSSR2G: 99.39%(+0.35%)
+CDR2G: 0.41%(+0.02%)
+CDR3G: 0.16%(-0.01%)
+PSR: 94.94%(+0.31%)
+LUSR: 98.87%(+0.03%)
+MTCCR: 92.64%(-0.13%)
+SMMTSR: 60.69%(+1.31%)
+
+Traffic:
+Voice:
+2G(BH): 482.04K(+21.95K)
+2G(WD): 5071.62K(+169.79K)
+3G(BH): 273.02K(+5.22K)
+3G(WD): 3211.68K(+45.42K)
+
+Data:
+GiDL(TP): 1247.43Gbps(+5.44Gbps)
+GiDL(FNA): 489.11Gbps
+GiDL(GGC): 256.28Gbps
+GiDL(BDIX): 5.51Gbps
+2G(WD): 13.08TB(-0.75TB)
+3G(WD): 579.55TB(-37.61TB)
+4G(WD): 7804.9TB(+76.61TB)
+TotalData: 8397.52TB(+38.25TB)
+
+SMS:
+SMMT(WD): 21.41M(+1761.34K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):648.78/636.5/101.93
+
+Dhaka:
+SCL:3.9/4.5/86.67
+Aamra:95.18/97/98.12
+Level3: 112.26/109.5/102.52
+BTCL: 102.32/78/131.18
+Mango: 19.34/37.5/51.57
+FHL:11.74/11/106.73
+
+Chittagong:
+Aamra: 98.35/103/95.49
+SCL: 11.05/11/100.45
+Level3: 90.16/90.5/99.62
+BTCL: 74.22/62/119.71
+Mango: 30.26/32.5/93.11
+
+
+Availability: 2G/3G/4G
+National: 99.81/99.65/99.98
+
+Site Count (As of '25 January 2023', Source - TSPR report):
+2G:  15600 
+3G:  9103 
+4G:  15683",,,2023-01-26 17:55
+62,__omi__,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 20:57_26/01
+RT: 21:32_26/01
+DUR: 00:35
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",2023-01-26 17:55
+63,__omi__,RAN_M: Hasib,,,2023-01-26 17:55
+64,__omi__,"Update of Site Down at 22:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 24/8/29
+
+DHK_M: 0/0/1
+DHK_N: 5/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 0/0/0
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 3/3/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 17:55
+65,__omi__,"The Duty Handover to Night shift at 22:15 on 26-Jan-2023:
+
+SM: alauddin vai
+CNM: shahin vai
+TX_M: mahbub vai
+TX_FLS: Jubair vai
+RAN_M: 
+RAN_FLS: Saif vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval from 09 am to 09 pm.
+
+Current site down:
+Region: 2G / 3G / 4G
+National:  24/08/29
+
+Facebook FNA is Ok
+Google traffic found Ok.
+NTMC link stable & No alarm now",,,2023-01-26 17:55
+66,__omi__,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+GPKLKA2(Edotco): 21:54 26-01-23,Dalas Fashions Limited
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+@Saifuzzaman Saif vi, plz share RC of 02 site",,,2023-01-26 17:55
+67,__omi__,Checking bhaiya,Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 17:55
+68,__omi__,"DHAPT11 site restored...plz check
+
+
+@Saifuzzaman Saif vi, urgent plz, 
+
+Plz check if any operational issue",,,2023-01-26 17:55
+69,__omi__,"GPKLKA2= some trx found hanged. after soft reset now up
+GPKLG38= Site down due to power issue .DC low alarm found. Also Door open alarm found",Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 17:55
+70,__omi__,"ok, thanks Bro",,,2023-01-26 17:55
+71,__omi__,"Update of Site Down at 23:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 19/7/25
+
+DHK_M: 0/0/0
+DHK_N: 2/1/5
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/1/1
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 1/1/1
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 17:55
+72,__omi__,Team waiting at airport,Saifuzzaman Saif,Checking bhaiya,2023-01-26 17:55
+73,__omi__,"2G: All cells are found up and taking traffic. No Packet loss observed at Abis. DL/UL Loss & VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+
+3G: All cells are found up and taking traffic. No Frame or Packet loss observed at IuB. DL/UL Loss, VSWR found within acceptable range. RRC Success rate and Speech success rate found in good range.
+S8C1 (-85.4),S9C1(-90.9)& S2C1(-78.4) have RSSI degraded issue. Concern: SM-CC
+
+4G: 
+DHAPT11LL& DHAPT11LI cell are down due to Power Disturbance issue Power Disturbance(RRU-8_B3_1,E201021696 &RRU-9_B3_1,E201021811)//Current Too High - FieldReplaceableUnit=RRU-9_B3_1//.DHAPT11L21I NB=1/S8C1/S8C1 (1,1) Fiber Loss UL (UlLoss-DlLoss=5.61). Concern: e.co",Alauddin Vai,Team waiting at airport,2023-01-26 17:55
+74,__omi__,Thanks Bro....,,,2023-01-26 17:55
+75,__omi__,"26-Jan'23@22:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 17:55
+76,__omi__,Fiber incident update at 0:00_27/01,,,2023-01-26 17:55
+77,__omi__,"Update of Site Down at 00:00 On 27-01-2023
+
+Region: 2G/3G/4G
+National: 21/7/24
+
+DHK_M: 0/0/0
+DHK_N: 4/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/3
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 2/0/2
+MYM: 0/0/0
+BAR: 3/1/3
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-26 17:55
+78,__omi__,"Pending Incidents at 00:00_27/01/2023
+
+Fiber Network:
+
+1. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CGBAK08 (South Bakolia) to CGHTZ11 (Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+3. GPSDR34 (Pubail) to NSBLB02 (Nayaranpur) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 17:55
+79,Mahafuj RNM,"FHL is checking,  its E2E site.",Jalal Vaia,Why DHAPT11 down from 13:56?,2023-01-26 17:04
+80,Mahafuj RNM,,,,2023-01-26 17:04
+81,Mahafuj RNM,@Jahid Vaia pls check with urgent priority,,,2023-01-26 17:04
+82,Mahafuj RNM,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",,,2023-01-26 17:04
+83,Mahafuj RNM,Checking vaia,Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 17:04
+84,Mahafuj RNM,DHAPT11 down is the main reason for this problem... pls take urgent action to restore immediately,Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 17:04
+85,Mahafuj RNM,"@Shoriful vai, any update form FHL ?",Shoriful,"FHL is checking,  its E2E site.",2023-01-26 17:04
+86,Mahafuj RNM,Shifat what is the update of  checking DHAPT09..?,Shifat,"@Shoriful vai, any update form FHL ?",2023-01-26 17:04
+87,Mahafuj RNM,"Vaia checking ongoing vaia, getting many issues, need few moments please",You,Shifat what is the update of  checking DHAPT09..?,2023-01-26 17:04
+88,Mahafuj RNM,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 15:44_26/01
+RT: 17:48_26/01
+DUR: 02:04
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 15:44_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",2023-01-26 17:04
+89,Mahafuj RNM,"Update of Site Down at 18:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/15/30
+
+DHK_M: 1/1/0
+DHK_N: 5/3/8
+DHK_S: 1/0/0
+DHK_O: 3/3/3
+CTG_M: 1/0/0
+CTG_N: 0/0/1
+CTG_S: 6/3/5
+COM: 3/1/3
+NOA: 2/0/2
+SYL: 3/1/3
+MYM: 1/2/1
+BAR: 0/0/0
+KHL: 2/1/2
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 2/0/2",,,2023-01-26 17:04
+90,Mahafuj RNM,"Vaia please have the feedback 
+
+DHAPT09:
+
+2G: No service impacting current alarm observed. No Packet loss observed at Abis. VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+Fiber Loss UL (UlLoss-DlLoss=5.13) at RRU-3_B8_1 (D76D54C).Concern: e.co 
+
+3G: No service impacting current alarm observed. No Frame or Packet loss observed at IuB. RSSI, DL/UL Loss, VSWR found within acceptable range.
+RSSI found very poor for all the cells throughout the day. Concern: SM-CCD 
+                  
+4G: No service impacting current alarm observed. All cells are found up and taking traffic. No Packet loss observed at S1, RSSI found in good range. DL/UL Loss & VSWR found within acceptable range. S1SigEstabSuccRate observed good.
+DL throughput found degraded for DHAPT09L09A DHAPT09L09B DHAPT09L21B DHAPT09L21C DHAPT09L21E DHAPT09LA DHAPT09LC DHAPT09LE cells. Concern: SM CCD
+RrcConnSetupSuccRate found degraded for DHAPT09L09A form 13:00 26/01/2023. Concern: SM CCD
+
+RRU-1_B1_1 (D76D54A) and RRU-1_B3_1 (D76D54A, S1C1) found locked",Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 17:04
+91,Mahafuj RNM,"Pending Incidents at 18:00_26/01/2023
+
+Fiber Network:
+
+1.CGRZN63 (Sultanpur, Raozan) to CGRNG03(Ranirhat_Rangunia) BTCL Fiber(Router to Router, Full Break) is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. FPSDR07(Faridpur_BSC) to MDSDR04(Madaripur_2) PGCB DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 10:42_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: PGCB
+
+4. CGBAK08(South Bakolia) to CGHTZ11(Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+5. FNSDRB1(FN3203) to FNDGN24(Daggonbhuiyan3)BTCL DWDM and FNDGN24(Daganbhuiyan,Feni) to NOBGM55(Begumganj,Noakhali) BTCL DWDM fibers are down
+Impact: No outage
+Severity: C-3
+FT: 12:05_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+6. DHGULQ9(DH0356) to DHGULM2(DH0298) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 12:47_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+7. BMSRL11(HA5501) to HGCNR21(HA5509) Robi IRU DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:51_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: Hamida(Robi IRU)
+
+8. CGHTZ11(Egaromile) to RMKKL05(Ghagra) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+9. GPSDR34(Pubail) to NSBLB02(Nayaranpur)  BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 17:04
+92,Mahafuj RNM,"26-Jan'23@18:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 17:04
+93,Mahafuj RNM,"Network Update
+18:00_26/01/2023
+
+PDP SR found 100% in all UGWs except Pubail vUGW06 (SR 98.79%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except 
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 17:04
+94,Mahafuj RNM,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",,,2023-01-26 17:04
+95,Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",,,2023-01-26 17:04
+96,Mahafuj RNM,"Update of Site Down at 19:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/14/32
+
+DHK_M: 1/1/0
+DHK_N: 3/2/8
+DHK_S: 1/0/0
+DHK_O: 1/1/2
+CTG_M: 0/0/1
+CTG_N: 2/0/1
+CTG_S: 3/2/2
+COM: 4/1/3_C3 Incident
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 5/5/5_C3 Incident
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 17:04
+97,Mahafuj RNM,"Planned Work
+27 Jan,2023
+
+Total: 147
+Approved: 147
+Critical: 00
+Unit:   App/Crt/Otg/Notg
+
+Total:  147/00/71/76
+Tops:   01/00/01/00
+Imple:  134/00/60/74
+NTTN:   04/00/04/00
+e.co:   05/00/05/00
+IT:     02/00/01/01",,,2023-01-26 17:04
+98,Mahafuj RNM,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are up
+Severity: C3
+FT: 18:42_26/01
+RT: 19:20_26/01
+DUR: 00:38
+Cause: Power issue at CPUMT24
+Action: e.co team resolved the issue by MCB replaced
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",2023-01-26 17:04
+99,Mahafuj RNM,"Close Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 18:40_26/01
+RT: 19:45_26/01
+DUR: 01:05
+Cause: Battery stolen at MYBLK39
+Action: CP restored 
+Area: Bhaluka
+Unit: ULKA
+TT: INC000017949815",Mahafuj RNM,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",2023-01-26 17:04
+100,Mahafuj RNM,/,,,2023-01-26 17:04
+101,Mahafuj RNM,"Update of Site Down at 20:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 27/10/27
+
+DHK_M: 1/1/0
+DHK_N: 4/2/7
+DHK_S: 1/0/0
+DHK_O: 2/1/1
+CTG_M: 0/0/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 2/0/1
+NOA: 1/0/1
+SYL: 3/0/3
+MYM: 3/3/3
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 2/0/2
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 17:04
+102,Mahafuj RNM,Bohaddarhat Firewall 2 & Vulta Firewall 1 devices were offline for 3/4 mins,,,2023-01-26 17:04
+103,Mahafuj RNM,"Update of Site Down at 21:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 26/5/29
+
+DHK_M: 0/0/0
+DHK_N: 3/1/6
+DHK_S: 1/0/0
+DHK_O: 1/1/3
+CTG_M: 0/0/0
+CTG_N: 2/0/2
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 3/0/3
+MYM: 3/2/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 1/0/1",,,2023-01-26 17:04
+104,Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",,,2023-01-26 17:04
+105,Mahafuj RNM,"Network Update
+21:00_26/01/2023
+
+PDP SR found 100% in all UGWs except AL03_vUGW07 (SR 98.4%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except  Vulta Level3 IBG1 to Facebook & Akhter Mango to Youtube
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 17:04
+106,Mahafuj RNM,"Net Status 25-Jan,2023
+
+VLR(A): 43.66M(+52.04K)
+VLR(R): 45.35M(+47.33K)
+HLR: 112.22M(+0.95K)
+
+4G(A): 18.88M(+253.13K)
+4G(R): 24.55M(+36.59K)
+EL(WD): 5.97M(+131.03K)
+ELSR: 98.42%(+0.1%)
+
+Network Performance:
+CSSR2G: 99.39%(+0.35%)
+CDR2G: 0.41%(+0.02%)
+CDR3G: 0.16%(-0.01%)
+PSR: 94.94%(+0.31%)
+LUSR: 98.87%(+0.03%)
+MTCCR: 92.64%(-0.13%)
+SMMTSR: 60.69%(+1.31%)
+
+Traffic:
+Voice:
+2G(BH): 482.04K(+21.95K)
+2G(WD): 5071.62K(+169.79K)
+3G(BH): 273.02K(+5.22K)
+3G(WD): 3211.68K(+45.42K)
+
+Data:
+GiDL(TP): 1247.43Gbps(+5.44Gbps)
+GiDL(FNA): 489.11Gbps
+GiDL(GGC): 256.28Gbps
+GiDL(BDIX): 5.51Gbps
+2G(WD): 13.08TB(-0.75TB)
+3G(WD): 579.55TB(-37.61TB)
+4G(WD): 7804.9TB(+76.61TB)
+TotalData: 8397.52TB(+38.25TB)
+
+SMS:
+SMMT(WD): 21.41M(+1761.34K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):648.78/636.5/101.93
+
+Dhaka:
+SCL:3.9/4.5/86.67
+Aamra:95.18/97/98.12
+Level3: 112.26/109.5/102.52
+BTCL: 102.32/78/131.18
+Mango: 19.34/37.5/51.57
+FHL:11.74/11/106.73
+
+Chittagong:
+Aamra: 98.35/103/95.49
+SCL: 11.05/11/100.45
+Level3: 90.16/90.5/99.62
+BTCL: 74.22/62/119.71
+Mango: 30.26/32.5/93.11
+
+
+Availability: 2G/3G/4G
+National: 99.81/99.65/99.98
+
+Site Count (As of '25 January 2023', Source - TSPR report):
+2G:  15600 
+3G:  9103 
+4G:  15683",,,2023-01-26 17:04
+107,Mahafuj RNM,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 20:57_26/01
+RT: 21:32_26/01
+DUR: 00:35
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",2023-01-26 17:04
+108,Mahafuj RNM,RAN_M: Hasib,,,2023-01-26 17:04
+109,Mahafuj RNM,"Update of Site Down at 22:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 24/8/29
+
+DHK_M: 0/0/1
+DHK_N: 5/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 0/0/0
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 3/3/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 17:04
+110,Mahafuj RNM,"The Duty Handover to Night shift at 22:15 on 26-Jan-2023:
+
+SM: alauddin vai
+CNM: shahin vai
+TX_M: mahbub vai
+TX_FLS: Jubair vai
+RAN_M: 
+RAN_FLS: Saif vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval from 09 am to 09 pm.
+
+Current site down:
+Region: 2G / 3G / 4G
+National:  24/08/29
+
+Facebook FNA is Ok
+Google traffic found Ok.
+NTMC link stable & No alarm now",,,2023-01-26 17:04
+111,Mahafuj RNM,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+GPKLKA2(Edotco): 21:54 26-01-23,Dalas Fashions Limited
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+@Saifuzzaman Saif vi, plz share RC of 02 site",,,2023-01-26 17:04
+112,Mahafuj RNM,Checking bhaiya,Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 17:04
+113,Mahafuj RNM,"DHAPT11 site restored...plz check
+
+
+@Saifuzzaman Saif vi, urgent plz, 
+
+Plz check if any operational issue",,,2023-01-26 17:04
+114,Mahafuj RNM,"GPKLKA2= some trx found hanged. after soft reset now up
+GPKLG38= Site down due to power issue .DC low alarm found. Also Door open alarm found",Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 17:04
+115,Mahafuj RNM,"ok, thanks Bro",,,2023-01-26 17:04
+116,Mahafuj RNM,"Update of Site Down at 23:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 19/7/25
+
+DHK_M: 0/0/0
+DHK_N: 2/1/5
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/1/1
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 1/1/1
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 17:04
+117,Mahafuj RNM,Team waiting at airport,Saifuzzaman Saif,Checking bhaiya,2023-01-26 17:04
+118,Mahafuj RNM,"2G: All cells are found up and taking traffic. No Packet loss observed at Abis. DL/UL Loss & VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+
+3G: All cells are found up and taking traffic. No Frame or Packet loss observed at IuB. DL/UL Loss, VSWR found within acceptable range. RRC Success rate and Speech success rate found in good range.
+S8C1 (-85.4),S9C1(-90.9)& S2C1(-78.4) have RSSI degraded issue. Concern: SM-CC
+
+4G: 
+DHAPT11LL& DHAPT11LI cell are down due to Power Disturbance issue Power Disturbance(RRU-8_B3_1,E201021696 &RRU-9_B3_1,E201021811)//Current Too High - FieldReplaceableUnit=RRU-9_B3_1//.DHAPT11L21I NB=1/S8C1/S8C1 (1,1) Fiber Loss UL (UlLoss-DlLoss=5.61). Concern: e.co",Alauddin Vai,Team waiting at airport,2023-01-26 17:04
+119,Mahafuj RNM,Thanks Bro....,,,2023-01-26 17:04
+120,Mahafuj RNM,"26-Jan'23@22:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 17:04
+121,Mahafuj RNM,Fiber incident update at 0:00_27/01,,,2023-01-26 17:04
+122,Mahafuj RNM,"Update of Site Down at 00:00 On 27-01-2023
+
+Region: 2G/3G/4G
+National: 21/7/24
+
+DHK_M: 0/0/0
+DHK_N: 4/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/3
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 2/0/2
+MYM: 0/0/0
+BAR: 3/1/3
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-26 17:04
+123,Mahafuj RNM,"Pending Incidents at 00:00_27/01/2023
+
+Fiber Network:
+
+1. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CGBAK08 (South Bakolia) to CGHTZ11 (Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+3. GPSDR34 (Pubail) to NSBLB02 (Nayaranpur) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 17:04
+124,Hosna Ara,"Update of Site Down at 15:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 56/26/54
+
+DHK_M: 0/0/0
+DHK_N: 4/3/6
+DHK_S: 4/2/3
+DHK_O: 5/5/6
+CTG_M: 4/1/4
+CTG_N: 1/0/2
+CTG_S: 5/2/4
+COM: 9/4/7
+NOA: 7/2/5
+SYL: 4/0/3
+MYM: 6/6/6
+BAR: 1/0/1
+KHL: 0/0/0
+KUS: 2/1/2
+RAJ: 3/0/3
+RANG: 1/0/2",,,2023-01-26 14:46
+125,Hosna Ara,Fiber incident update at 15:00_26/01,,,2023-01-26 14:46
+126,Hosna Ara,"Network Update
+15:30_26/01/2023
+
+PDP SR found 100% in all UGWs except Pubail vUGW06 (SR 98.7%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except Alekharchar Level3 to facebook
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 14:46
+127,Hosna Ara,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 15:44_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",,,2023-01-26 14:46
+128,Hosna Ara,"Incident Notification:
+5 2G, 2 3G & 5 4G Sites in Khulna are down
+Severity: C3
+FT: 16:00_26/01
+ERT: 1 hr
+POP: SKASN02
+Cause: TX NE (RTN-06) disconnected
+Area: Assasuni & Satkhira Sadar
+Unit: e.co
+TT: INC000017949026",,,2023-01-26 14:46
+129,Hosna Ara,"Update of Site Down at 16:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 73/36/72
+
+DHK_M: 2/2/1
+DHK_N: 12/10/16_Discrete for Power issue
+DHK_S: 3/1/3
+DHK_O: 5/4/5
+CTG_M: 4/0/3
+CTG_N: 1/0/2
+CTG_S: 2/1/0
+COM: 6/1/5
+NOA: 9/3/8
+SYL: 9/3/8
+MYM: 10/8/10_C3 Incident
+BAR: 2/1/2
+KHL: 5/2/5_C3 Incident
+KUS: 0/0/0
+RAJ: 2/0/2
+RANG: 1/0/2",,,2023-01-26 14:46
+130,Hosna Ara,"Close Notification:
+5 2G, 2 3G & 5 4G Sites in Khulna are up
+Severity: C3
+FT: 16:00_26/01
+RT: 16:21_26/01
+DUR: 00:21
+POP: SKASN02
+Cause: TX NE (RTN-06) disconnected
+Action: e.co team resolved the issue
+Area: Assasuni & Satkhira Sadar
+Unit: e.co
+TT: INC000017949026",Mahafuj RNM,"Incident Notification:
+5 2G, 2 3G & 5 4G Sites in Khulna are down
+Severity: C3
+FT: 16:00_26/01
+ERT: 1 hr
+POP: SKASN02
+Cause: TX NE (RTN-06) disconnected
+Area: Assasuni & Satkhira Sadar
+Unit: e.co
+TT: INC000017949026",2023-01-26 14:46
+131,Hosna Ara,"26-Jan'23@16:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 14:46
+132,Hosna Ara,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",,,2023-01-26 14:46
+133,Hosna Ara,Why DHAPT11 down from 13:56?,Jalal Vaia,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",2023-01-26 14:46
+134,Hosna Ara,Pls check urgently.,Jalal Vaia,Why DHAPT11 down from 13:56?,2023-01-26 14:46
+135,Hosna Ara,Checking vaia.,Jalal Vaia,Pls check urgently.,2023-01-26 14:46
+136,Hosna Ara,,,,2023-01-26 14:46
+137,Hosna Ara,@Shibbir RNM is checking.,Jalal Vaia,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",2023-01-26 14:46
+138,Hosna Ara,unable to log in BB. O&M down. from alarm log site is down after power disturbance reported on 13:55 today,Jalal Vaia,Pls check urgently.,2023-01-26 14:46
+139,Hosna Ara,"DHSTR19 down for power
+AC mains 09:31
+DC low 15:23",Jalal Vaia,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",2023-01-26 14:46
+140,Hosna Ara,"Update of Site Down at 17:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 49/28/48
+
+DHK_M: 2/3/3
+DHK_N: 7/5/9
+DHK_S: 3/1/2
+DHK_O: 3/3/4
+CTG_M: 4/2/3
+CTG_N: 0/0/1
+CTG_S: 4/3/2
+COM: 3/0/1
+NOA: 3/0/2
+SYL: 5/2/5
+MYM: 6/5/6
+BAR: 3/2/3
+KHL: 1/1/1
+KUS: 2/1/2
+RAJ: 1/0/1
+RANG: 2/0/3",,,2023-01-26 14:46
+141,Hosna Ara,"FHL is checking,  its E2E site.",Jalal Vaia,Why DHAPT11 down from 13:56?,2023-01-26 14:46
+142,Hosna Ara,@Jahid Vaia pls check with urgent priority,,,2023-01-26 14:46
+143,Hosna Ara,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",,,2023-01-26 14:46
+144,Hosna Ara,Checking vaia,Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 14:46
+145,Hosna Ara,DHAPT11 down is the main reason for this problem... pls take urgent action to restore immediately,Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 14:46
+146,Hosna Ara,"@Shoriful vai, any update form FHL ?",Shoriful,"FHL is checking,  its E2E site.",2023-01-26 14:46
+147,Hosna Ara,Shifat what is the update of  checking DHAPT09..?,Shifat,"@Shoriful vai, any update form FHL ?",2023-01-26 14:46
+148,Hosna Ara,"Vaia checking ongoing vaia, getting many issues, need few moments please",You,Shifat what is the update of  checking DHAPT09..?,2023-01-26 14:46
+149,Hosna Ara,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 15:44_26/01
+RT: 17:48_26/01
+DUR: 02:04
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 15:44_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",2023-01-26 14:46
+150,Hosna Ara,"Update of Site Down at 18:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/15/30
+
+DHK_M: 1/1/0
+DHK_N: 5/3/8
+DHK_S: 1/0/0
+DHK_O: 3/3/3
+CTG_M: 1/0/0
+CTG_N: 0/0/1
+CTG_S: 6/3/5
+COM: 3/1/3
+NOA: 2/0/2
+SYL: 3/1/3
+MYM: 1/2/1
+BAR: 0/0/0
+KHL: 2/1/2
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 2/0/2",,,2023-01-26 14:46
+151,Hosna Ara,"Vaia please have the feedback 
+
+DHAPT09:
+
+2G: No service impacting current alarm observed. No Packet loss observed at Abis. VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+Fiber Loss UL (UlLoss-DlLoss=5.13) at RRU-3_B8_1 (D76D54C).Concern: e.co 
+
+3G: No service impacting current alarm observed. No Frame or Packet loss observed at IuB. RSSI, DL/UL Loss, VSWR found within acceptable range.
+RSSI found very poor for all the cells throughout the day. Concern: SM-CCD 
+                  
+4G: No service impacting current alarm observed. All cells are found up and taking traffic. No Packet loss observed at S1, RSSI found in good range. DL/UL Loss & VSWR found within acceptable range. S1SigEstabSuccRate observed good.
+DL throughput found degraded for DHAPT09L09A DHAPT09L09B DHAPT09L21B DHAPT09L21C DHAPT09L21E DHAPT09LA DHAPT09LC DHAPT09LE cells. Concern: SM CCD
+RrcConnSetupSuccRate found degraded for DHAPT09L09A form 13:00 26/01/2023. Concern: SM CCD
+
+RRU-1_B1_1 (D76D54A) and RRU-1_B3_1 (D76D54A, S1C1) found locked",Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 14:46
+152,Hosna Ara,"Pending Incidents at 18:00_26/01/2023
+
+Fiber Network:
+
+1.CGRZN63 (Sultanpur, Raozan) to CGRNG03(Ranirhat_Rangunia) BTCL Fiber(Router to Router, Full Break) is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. FPSDR07(Faridpur_BSC) to MDSDR04(Madaripur_2) PGCB DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 10:42_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: PGCB
+
+4. CGBAK08(South Bakolia) to CGHTZ11(Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+5. FNSDRB1(FN3203) to FNDGN24(Daggonbhuiyan3)BTCL DWDM and FNDGN24(Daganbhuiyan,Feni) to NOBGM55(Begumganj,Noakhali) BTCL DWDM fibers are down
+Impact: No outage
+Severity: C-3
+FT: 12:05_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+6. DHGULQ9(DH0356) to DHGULM2(DH0298) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 12:47_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+7. BMSRL11(HA5501) to HGCNR21(HA5509) Robi IRU DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:51_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: Hamida(Robi IRU)
+
+8. CGHTZ11(Egaromile) to RMKKL05(Ghagra) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+9. GPSDR34(Pubail) to NSBLB02(Nayaranpur)  BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 14:46
+153,Hosna Ara,"26-Jan'23@18:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 14:46
+154,Hosna Ara,"Network Update
+18:00_26/01/2023
+
+PDP SR found 100% in all UGWs except Pubail vUGW06 (SR 98.79%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except 
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 14:46
+155,Hosna Ara,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",,,2023-01-26 14:46
+156,Hosna Ara,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",,,2023-01-26 14:46
+157,Hosna Ara,"Update of Site Down at 19:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/14/32
+
+DHK_M: 1/1/0
+DHK_N: 3/2/8
+DHK_S: 1/0/0
+DHK_O: 1/1/2
+CTG_M: 0/0/1
+CTG_N: 2/0/1
+CTG_S: 3/2/2
+COM: 4/1/3_C3 Incident
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 5/5/5_C3 Incident
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 14:46
+158,Hosna Ara,"Planned Work
+27 Jan,2023
+
+Total: 147
+Approved: 147
+Critical: 00
+Unit:   App/Crt/Otg/Notg
+
+Total:  147/00/71/76
+Tops:   01/00/01/00
+Imple:  134/00/60/74
+NTTN:   04/00/04/00
+e.co:   05/00/05/00
+IT:     02/00/01/01",,,2023-01-26 14:46
+159,Hosna Ara,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are up
+Severity: C3
+FT: 18:42_26/01
+RT: 19:20_26/01
+DUR: 00:38
+Cause: Power issue at CPUMT24
+Action: e.co team resolved the issue by MCB replaced
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",2023-01-26 14:46
+160,Hosna Ara,"Close Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 18:40_26/01
+RT: 19:45_26/01
+DUR: 01:05
+Cause: Battery stolen at MYBLK39
+Action: CP restored 
+Area: Bhaluka
+Unit: ULKA
+TT: INC000017949815",Mahafuj RNM,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",2023-01-26 14:46
+161,Hosna Ara,/,,,2023-01-26 14:46
+162,Hosna Ara,"Update of Site Down at 20:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 27/10/27
+
+DHK_M: 1/1/0
+DHK_N: 4/2/7
+DHK_S: 1/0/0
+DHK_O: 2/1/1
+CTG_M: 0/0/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 2/0/1
+NOA: 1/0/1
+SYL: 3/0/3
+MYM: 3/3/3
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 2/0/2
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 14:46
+163,Hosna Ara,Bohaddarhat Firewall 2 & Vulta Firewall 1 devices were offline for 3/4 mins,,,2023-01-26 14:46
+164,Hosna Ara,"Update of Site Down at 21:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 26/5/29
+
+DHK_M: 0/0/0
+DHK_N: 3/1/6
+DHK_S: 1/0/0
+DHK_O: 1/1/3
+CTG_M: 0/0/0
+CTG_N: 2/0/2
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 3/0/3
+MYM: 3/2/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 1/0/1",,,2023-01-26 14:46
+165,Hosna Ara,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",,,2023-01-26 14:46
+166,Hosna Ara,"Network Update
+21:00_26/01/2023
+
+PDP SR found 100% in all UGWs except AL03_vUGW07 (SR 98.4%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except  Vulta Level3 IBG1 to Facebook & Akhter Mango to Youtube
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 14:46
+167,Hosna Ara,"Net Status 25-Jan,2023
+
+VLR(A): 43.66M(+52.04K)
+VLR(R): 45.35M(+47.33K)
+HLR: 112.22M(+0.95K)
+
+4G(A): 18.88M(+253.13K)
+4G(R): 24.55M(+36.59K)
+EL(WD): 5.97M(+131.03K)
+ELSR: 98.42%(+0.1%)
+
+Network Performance:
+CSSR2G: 99.39%(+0.35%)
+CDR2G: 0.41%(+0.02%)
+CDR3G: 0.16%(-0.01%)
+PSR: 94.94%(+0.31%)
+LUSR: 98.87%(+0.03%)
+MTCCR: 92.64%(-0.13%)
+SMMTSR: 60.69%(+1.31%)
+
+Traffic:
+Voice:
+2G(BH): 482.04K(+21.95K)
+2G(WD): 5071.62K(+169.79K)
+3G(BH): 273.02K(+5.22K)
+3G(WD): 3211.68K(+45.42K)
+
+Data:
+GiDL(TP): 1247.43Gbps(+5.44Gbps)
+GiDL(FNA): 489.11Gbps
+GiDL(GGC): 256.28Gbps
+GiDL(BDIX): 5.51Gbps
+2G(WD): 13.08TB(-0.75TB)
+3G(WD): 579.55TB(-37.61TB)
+4G(WD): 7804.9TB(+76.61TB)
+TotalData: 8397.52TB(+38.25TB)
+
+SMS:
+SMMT(WD): 21.41M(+1761.34K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):648.78/636.5/101.93
+
+Dhaka:
+SCL:3.9/4.5/86.67
+Aamra:95.18/97/98.12
+Level3: 112.26/109.5/102.52
+BTCL: 102.32/78/131.18
+Mango: 19.34/37.5/51.57
+FHL:11.74/11/106.73
+
+Chittagong:
+Aamra: 98.35/103/95.49
+SCL: 11.05/11/100.45
+Level3: 90.16/90.5/99.62
+BTCL: 74.22/62/119.71
+Mango: 30.26/32.5/93.11
+
+
+Availability: 2G/3G/4G
+National: 99.81/99.65/99.98
+
+Site Count (As of '25 January 2023', Source - TSPR report):
+2G:  15600 
+3G:  9103 
+4G:  15683",,,2023-01-26 14:46
+168,Hosna Ara,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 20:57_26/01
+RT: 21:32_26/01
+DUR: 00:35
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",2023-01-26 14:46
+169,Hosna Ara,RAN_M: Hasib,,,2023-01-26 14:46
+170,Hosna Ara,"Update of Site Down at 22:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 24/8/29
+
+DHK_M: 0/0/1
+DHK_N: 5/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 0/0/0
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 3/3/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 14:46
+171,Hosna Ara,"The Duty Handover to Night shift at 22:15 on 26-Jan-2023:
+
+SM: alauddin vai
+CNM: shahin vai
+TX_M: mahbub vai
+TX_FLS: Jubair vai
+RAN_M: 
+RAN_FLS: Saif vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval from 09 am to 09 pm.
+
+Current site down:
+Region: 2G / 3G / 4G
+National:  24/08/29
+
+Facebook FNA is Ok
+Google traffic found Ok.
+NTMC link stable & No alarm now",,,2023-01-26 14:46
+172,Hosna Ara,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+GPKLKA2(Edotco): 21:54 26-01-23,Dalas Fashions Limited
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+@Saifuzzaman Saif vi, plz share RC of 02 site",,,2023-01-26 14:46
+173,Hosna Ara,Checking bhaiya,Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 14:46
+174,Hosna Ara,"DHAPT11 site restored...plz check
+
+
+@Saifuzzaman Saif vi, urgent plz, 
+
+Plz check if any operational issue",,,2023-01-26 14:46
+175,Hosna Ara,"GPKLKA2= some trx found hanged. after soft reset now up
+GPKLG38= Site down due to power issue .DC low alarm found. Also Door open alarm found",Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 14:46
+176,Hosna Ara,"ok, thanks Bro",,,2023-01-26 14:46
+177,Hosna Ara,"Update of Site Down at 23:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 19/7/25
+
+DHK_M: 0/0/0
+DHK_N: 2/1/5
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/1/1
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 1/1/1
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 14:46
+178,Hosna Ara,Team waiting at airport,Saifuzzaman Saif,Checking bhaiya,2023-01-26 14:46
+179,Hosna Ara,"2G: All cells are found up and taking traffic. No Packet loss observed at Abis. DL/UL Loss & VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+
+3G: All cells are found up and taking traffic. No Frame or Packet loss observed at IuB. DL/UL Loss, VSWR found within acceptable range. RRC Success rate and Speech success rate found in good range.
+S8C1 (-85.4),S9C1(-90.9)& S2C1(-78.4) have RSSI degraded issue. Concern: SM-CC
+
+4G: 
+DHAPT11LL& DHAPT11LI cell are down due to Power Disturbance issue Power Disturbance(RRU-8_B3_1,E201021696 &RRU-9_B3_1,E201021811)//Current Too High - FieldReplaceableUnit=RRU-9_B3_1//.DHAPT11L21I NB=1/S8C1/S8C1 (1,1) Fiber Loss UL (UlLoss-DlLoss=5.61). Concern: e.co",Alauddin Vai,Team waiting at airport,2023-01-26 14:46
+180,Hosna Ara,Thanks Bro....,,,2023-01-26 14:46
+181,Hosna Ara,"26-Jan'23@22:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 14:46
+182,Hosna Ara,Fiber incident update at 0:00_27/01,,,2023-01-26 14:46
+183,Hosna Ara,"Update of Site Down at 00:00 On 27-01-2023
+
+Region: 2G/3G/4G
+National: 21/7/24
+
+DHK_M: 0/0/0
+DHK_N: 4/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/3
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 2/0/2
+MYM: 0/0/0
+BAR: 3/1/3
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-26 14:46
+184,Hosna Ara,"Pending Incidents at 00:00_27/01/2023
+
+Fiber Network:
+
+1. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CGBAK08 (South Bakolia) to CGHTZ11 (Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+3. GPSDR34 (Pubail) to NSBLB02 (Nayaranpur) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 14:46
+185,tawhid vai,"Incident Notification:
+7 2G, 4 3G & 7 4G Sites in Chittagong North are down
+Severity: C3
+FT: 12:07_26/01
+ERT: 4 hrs
+POP: CGRZN34
+Cause: Suspecting fiber issue at SCL end
+Area: Raozan
+Unit: SCL
+Tracking ID: RDTXM2301261207",,,2023-01-26 12:32
+186,tawhid vai,"BMSDR47:: No operational issue found, No packet loss found at abis. ICM band found OK. No service impacting alarms found, No KPI degradation found",hasan yeaseen,BMSDR47 any issue in 2g?,2023-01-26 12:32
+187,tawhid vai,"Incident Notification:
+3 2G, 2 3G & 3 4G Sites in Chittagong Metro are down
+Severity: C3
+FT: 12:24_26/01
+ERT: 4 hrs
+Link: CGPTG22-CGPTG21
+Cause: MW link down
+Area: Chittagong Port Thana
+Unit: e.co
+TT: INC000017947677",,,2023-01-26 12:32
+188,tawhid vai,"Incident Notification:
+3 2G, 2 3G & 3 4G Sites in Kushtia are down
+Severity: C3
+FT: 12:38_26/01
+ERT: Yet to share 
+Link: CDALM03-CDALM01
+Cause: Outage occurred due to CR_583202 activity
+CR Slogan: NCCD DSS Project work on Kustia
+Inactive Mw Antenna Dismantle
+Action: CR team is still working 
+Remarks: Downtime not taken and impact list mismatched found
+Area: Alamdanga
+Unit: R & I
+TT: INC000017947735",,,2023-01-26 12:32
+189,tawhid vai,"26-Jan'23@11:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 12:32
+190,tawhid vai,"Close Notification:
+3 2G, 2 3G & 3 4G Sites in Chittagong Metro are up
+Severity: C3
+FT: 12:24_26/01
+RT: 12:50_26/01
+DUR: 00:26
+Link: CGPTG22-CGPTG21
+Cause: IF connector problem at CGPTG21
+Action: e.co team remake the IF connector 
+Area: Chittagong Port Thana
+Unit: e.co
+TT: INC000017947677",Hosna Ara,"Incident Notification:
+3 2G, 2 3G & 3 4G Sites in Chittagong Metro are down
+Severity: C3
+FT: 12:24_26/01
+ERT: 4 hrs
+Link: CGPTG22-CGPTG21
+Cause: MW link down
+Area: Chittagong Port Thana
+Unit: e.co
+TT: INC000017947677",2023-01-26 12:32
+191,tawhid vai,"Update of Site Down at 13:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 50/24/53
+
+DHK_M: 1/1/2
+DHK_N: 5/4/11
+DHK_S: 1/0/1
+DHK_O: 4/3/4
+CTG_M: 1/0/1
+CTG_N: 9/3/9_Incident[7/4/7]
+CTG_S: 4/1/3
+COM: 6/2/3
+NOA: 4/2/2
+SYL: 3/0/3
+MYM: 5/3/5
+BAR: 3/2/3
+KHL: 0/0/0
+KUS: 3/3/4
+RAJ: 0/0/0
+RANG: 1/0/2",,,2023-01-26 12:32
+192,tawhid vai,"As per roster concern: It's remote area, team on the way still.",Hosna Ara,"Incident Notification:
+2 2G, 2 3G & 3 4G Sites in Barisal are down
+Severity: C3
+FT: 09:55_26/01
+ERT: 4 hrs
+Link: BSMDG16-BHSDR03
+Cause: MW link down
+Area: Mehendiganj
+Unit: e.co
+TT: INC000017946914",2023-01-26 12:32
+193,tawhid vai,SCL update: 1st cut point is identified. ERT 30 mins to restore the site,Hosna Ara,"Incident Notification:
+7 2G, 4 3G & 7 4G Sites in Chittagong North are down
+Severity: C3
+FT: 12:07_26/01
+ERT: 4 hrs
+POP: CGRZN34
+Cause: Suspecting fiber issue at SCL end
+Area: Raozan
+Unit: SCL
+Tracking ID: RDTXM2301261207",2023-01-26 12:32
+194,tawhid vai,"Close Notification:
+7 2G, 4 3G & 7 4G Sites in Chittagong North are up
+Severity: C3
+FT: 12:07_26/01
+RT: 13:38_26/01
+DUR: 01:31
+POP: CGRZN34
+Cause: Dual fiber cut at SCL end
+Action: SCL team restored their fiber
+Area: Raozan
+Unit: SCL
+Tracking ID: RDTXM2301261207",Hosna Ara,"Incident Notification:
+7 2G, 4 3G & 7 4G Sites in Chittagong North are down
+Severity: C3
+FT: 12:07_26/01
+ERT: 4 hrs
+POP: CGRZN34
+Cause: Suspecting fiber issue at SCL end
+Area: Raozan
+Unit: SCL
+Tracking ID: RDTXM2301261207",2023-01-26 12:32
+195,tawhid vai,"Close Notification:
+3 2G, 2 3G & 3 4G Sites in Kushtia are up
+Severity: C3
+FT: 12:38_26/01
+RT: 13:36_26/01
+DUR: 00:58
+Link: CDALM03-CDALM01
+Cause: Formal RCA will cover the details investigation & its findings
+Area: Alamdanga
+Unit: MW ops
+TT: INC000017947735",Hosna Ara,"Incident Notification:
+3 2G, 2 3G & 3 4G Sites in Kushtia are down
+Severity: C3
+FT: 12:38_26/01
+ERT: Yet to share 
+Link: CDALM03-CDALM01
+Cause: Outage occurred due to CR_583202 activity
+CR Slogan: NCCD DSS Project work on Kustia
+Inactive Mw Antenna Dismantle
+Action: CR team is still working 
+Remarks: Downtime not taken and impact list mismatched found
+Area: Alamdanga
+Unit: R & I
+TT: INC000017947735",2023-01-26 12:32
+196,tawhid vai,"Update of Site Down at 14:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 51/28/58
+
+DHK_M: 1/1/1
+DHK_N: 5/6/9
+DHK_S: 2/1/1
+DHK_O: 4/4/5
+CTG_M: 3/2/3
+CTG_N: 1/0/3
+CTG_S: 5/2/6
+COM: 5/1/6
+NOA: 6/2/4
+SYL: 4/1/4
+MYM: 6/5/6
+BAR: 4/2/4
+KHL: 0/0/0
+KUS: 2/1/2
+RAJ: 2/0/2
+RANG: 1/0/2",,,2023-01-26 12:32
+197,tawhid vai,"The Duty Handover to Evening shift at 14:00 on 26-Jan-2023:
+
+SM: Omi vai
+CNM: Estiuk Vai
+TX_M: Shoriful Vai
+TX_FLS: Tanvir Vai
+RAN_M: Mahfuz Vai
+RAN_FLS: 
+Baytul bhai- CC task
+Robin bhai-quality
+Sibbir bhai -Mail
+Sifath- Phone, FTT, Query+ M query
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval from 09 am to 09 pm.
+
+Current site down:
+Region: 2G / 3G / 4G
+National:  51/28/58
+
+Facebook FNA is Ok
+Google traffic found Ok.
+NTMC link stable & No alarm now",,,2023-01-26 12:32
+198,tawhid vai,"Close Notification:
+2 2G, 2 3G & 3 4G Sites in Barisal are up
+Severity: C3
+FT: 09:55_26/01
+RT: 14:28_26/01
+DUR: 04:33
+Link: BSMDG16-BHSDR03
+Cause: IDU hang issue at BSMDG16 
+Action: e.co team hard reset the IDU
+Remarks: It was remote area
+Area: Mehendiganj
+Unit: e.co
+TT: INC000017946914",Hosna Ara,"Incident Notification:
+2 2G, 2 3G & 3 4G Sites in Barisal are down
+Severity: C3
+FT: 09:55_26/01
+ERT: 4 hrs
+Link: BSMDG16-BHSDR03
+Cause: MW link down
+Area: Mehendiganj
+Unit: e.co
+TT: INC000017946914",2023-01-26 12:32
+199,tawhid vai,"Update of Site Down at 15:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 56/26/54
+
+DHK_M: 0/0/0
+DHK_N: 4/3/6
+DHK_S: 4/2/3
+DHK_O: 5/5/6
+CTG_M: 4/1/4
+CTG_N: 1/0/2
+CTG_S: 5/2/4
+COM: 9/4/7
+NOA: 7/2/5
+SYL: 4/0/3
+MYM: 6/6/6
+BAR: 1/0/1
+KHL: 0/0/0
+KUS: 2/1/2
+RAJ: 3/0/3
+RANG: 1/0/2",,,2023-01-26 12:32
+200,tawhid vai,Fiber incident update at 15:00_26/01,,,2023-01-26 12:32
+201,tawhid vai,"Network Update
+15:30_26/01/2023
+
+PDP SR found 100% in all UGWs except Pubail vUGW06 (SR 98.7%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except Alekharchar Level3 to facebook
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 12:32
+202,tawhid vai,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 15:44_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",,,2023-01-26 12:32
+203,tawhid vai,"Incident Notification:
+5 2G, 2 3G & 5 4G Sites in Khulna are down
+Severity: C3
+FT: 16:00_26/01
+ERT: 1 hr
+POP: SKASN02
+Cause: TX NE (RTN-06) disconnected
+Area: Assasuni & Satkhira Sadar
+Unit: e.co
+TT: INC000017949026",,,2023-01-26 12:32
+204,tawhid vai,"Update of Site Down at 16:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 73/36/72
+
+DHK_M: 2/2/1
+DHK_N: 12/10/16_Discrete for Power issue
+DHK_S: 3/1/3
+DHK_O: 5/4/5
+CTG_M: 4/0/3
+CTG_N: 1/0/2
+CTG_S: 2/1/0
+COM: 6/1/5
+NOA: 9/3/8
+SYL: 9/3/8
+MYM: 10/8/10_C3 Incident
+BAR: 2/1/2
+KHL: 5/2/5_C3 Incident
+KUS: 0/0/0
+RAJ: 2/0/2
+RANG: 1/0/2",,,2023-01-26 12:32
+205,tawhid vai,"Close Notification:
+5 2G, 2 3G & 5 4G Sites in Khulna are up
+Severity: C3
+FT: 16:00_26/01
+RT: 16:21_26/01
+DUR: 00:21
+POP: SKASN02
+Cause: TX NE (RTN-06) disconnected
+Action: e.co team resolved the issue
+Area: Assasuni & Satkhira Sadar
+Unit: e.co
+TT: INC000017949026",Mahafuj RNM,"Incident Notification:
+5 2G, 2 3G & 5 4G Sites in Khulna are down
+Severity: C3
+FT: 16:00_26/01
+ERT: 1 hr
+POP: SKASN02
+Cause: TX NE (RTN-06) disconnected
+Area: Assasuni & Satkhira Sadar
+Unit: e.co
+TT: INC000017949026",2023-01-26 12:32
+206,tawhid vai,"26-Jan'23@16:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 12:32
+207,tawhid vai,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",,,2023-01-26 12:32
+208,tawhid vai,Why DHAPT11 down from 13:56?,Jalal Vaia,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",2023-01-26 12:32
+209,tawhid vai,Pls check urgently.,Jalal Vaia,Why DHAPT11 down from 13:56?,2023-01-26 12:32
+210,tawhid vai,Checking vaia.,Jalal Vaia,Pls check urgently.,2023-01-26 12:32
+211,tawhid vai,,,,2023-01-26 12:32
+212,tawhid vai,@Shibbir RNM is checking.,Jalal Vaia,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",2023-01-26 12:32
+213,tawhid vai,unable to log in BB. O&M down. from alarm log site is down after power disturbance reported on 13:55 today,Jalal Vaia,Pls check urgently.,2023-01-26 12:32
+214,tawhid vai,"DHSTR19 down for power
+AC mains 09:31
+DC low 15:23",Jalal Vaia,"VIP Sites Update at 16:45 On 26-01-2023
+
+2G: 2
+DHSTR19(Edotco): 16:40 26-01-23,Govt area
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G: 2
+DHSTR19(Edotco): 16:08 26-01-23,Govt area
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",2023-01-26 12:32
+215,tawhid vai,"Update of Site Down at 17:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 49/28/48
+
+DHK_M: 2/3/3
+DHK_N: 7/5/9
+DHK_S: 3/1/2
+DHK_O: 3/3/4
+CTG_M: 4/2/3
+CTG_N: 0/0/1
+CTG_S: 4/3/2
+COM: 3/0/1
+NOA: 3/0/2
+SYL: 5/2/5
+MYM: 6/5/6
+BAR: 3/2/3
+KHL: 1/1/1
+KUS: 2/1/2
+RAJ: 1/0/1
+RANG: 2/0/3",,,2023-01-26 12:32
+216,tawhid vai,"FHL is checking,  its E2E site.",Jalal Vaia,Why DHAPT11 down from 13:56?,2023-01-26 12:32
+217,tawhid vai,@Jahid Vaia pls check with urgent priority,,,2023-01-26 12:32
+218,tawhid vai,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",,,2023-01-26 12:32
+219,tawhid vai,Checking vaia,Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 12:32
+220,tawhid vai,DHAPT11 down is the main reason for this problem... pls take urgent action to restore immediately,Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 12:32
+221,tawhid vai,"@Shoriful vai, any update form FHL ?",Shoriful,"FHL is checking,  its E2E site.",2023-01-26 12:32
+222,tawhid vai,Shifat what is the update of  checking DHAPT09..?,Shifat,"@Shoriful vai, any update form FHL ?",2023-01-26 12:32
+223,tawhid vai,"Vaia checking ongoing vaia, getting many issues, need few moments please",You,Shifat what is the update of  checking DHAPT09..?,2023-01-26 12:32
+224,tawhid vai,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 15:44_26/01
+RT: 17:48_26/01
+DUR: 02:04
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 15:44_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017948949",2023-01-26 12:32
+225,tawhid vai,"Update of Site Down at 18:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/15/30
+
+DHK_M: 1/1/0
+DHK_N: 5/3/8
+DHK_S: 1/0/0
+DHK_O: 3/3/3
+CTG_M: 1/0/0
+CTG_N: 0/0/1
+CTG_S: 6/3/5
+COM: 3/1/3
+NOA: 2/0/2
+SYL: 3/1/3
+MYM: 1/2/1
+BAR: 0/0/0
+KHL: 2/1/2
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 2/0/2",,,2023-01-26 12:32
+226,tawhid vai,"Vaia please have the feedback 
+
+DHAPT09:
+
+2G: No service impacting current alarm observed. No Packet loss observed at Abis. VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+Fiber Loss UL (UlLoss-DlLoss=5.13) at RRU-3_B8_1 (D76D54C).Concern: e.co 
+
+3G: No service impacting current alarm observed. No Frame or Packet loss observed at IuB. RSSI, DL/UL Loss, VSWR found within acceptable range.
+RSSI found very poor for all the cells throughout the day. Concern: SM-CCD 
+                  
+4G: No service impacting current alarm observed. All cells are found up and taking traffic. No Packet loss observed at S1, RSSI found in good range. DL/UL Loss & VSWR found within acceptable range. S1SigEstabSuccRate observed good.
+DL throughput found degraded for DHAPT09L09A DHAPT09L09B DHAPT09L21B DHAPT09L21C DHAPT09L21E DHAPT09LA DHAPT09LC DHAPT09LE cells. Concern: SM CCD
+RrcConnSetupSuccRate found degraded for DHAPT09L09A form 13:00 26/01/2023. Concern: SM CCD
+
+RRU-1_B1_1 (D76D54A) and RRU-1_B3_1 (D76D54A, S1C1) found locked",Jahid Vaia,"Data service  is not working inside Dhaka International Airport (voice call is working fine) since around today 11 Am.  Our WIC & Customers are having problem there. From DNA observed that  S1 SR is very poor for few cells. Please check this issue with urgent priority.
+
+Site Code: DHAPT09",2023-01-26 12:32
+227,tawhid vai,"Pending Incidents at 18:00_26/01/2023
+
+Fiber Network:
+
+1.CGRZN63 (Sultanpur, Raozan) to CGRNG03(Ranirhat_Rangunia) BTCL Fiber(Router to Router, Full Break) is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. FPSDR07(Faridpur_BSC) to MDSDR04(Madaripur_2) PGCB DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 10:42_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: PGCB
+
+4. CGBAK08(South Bakolia) to CGHTZ11(Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+5. FNSDRB1(FN3203) to FNDGN24(Daggonbhuiyan3)BTCL DWDM and FNDGN24(Daganbhuiyan,Feni) to NOBGM55(Begumganj,Noakhali) BTCL DWDM fibers are down
+Impact: No outage
+Severity: C-3
+FT: 12:05_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+6. DHGULQ9(DH0356) to DHGULM2(DH0298) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 12:47_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+7. BMSRL11(HA5501) to HGCNR21(HA5509) Robi IRU DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:51_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: Hamida(Robi IRU)
+
+8. CGHTZ11(Egaromile) to RMKKL05(Ghagra) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 14:52_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+9. GPSDR34(Pubail) to NSBLB02(Nayaranpur)  BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 12:32
+228,tawhid vai,"26-Jan'23@18:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 12:32
+229,tawhid vai,"Network Update
+18:00_26/01/2023
+
+PDP SR found 100% in all UGWs except Pubail vUGW06 (SR 98.79%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except 
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 12:32
+230,tawhid vai,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",,,2023-01-26 12:32
+231,tawhid vai,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",,,2023-01-26 12:32
+232,tawhid vai,"Update of Site Down at 19:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 30/14/32
+
+DHK_M: 1/1/0
+DHK_N: 3/2/8
+DHK_S: 1/0/0
+DHK_O: 1/1/2
+CTG_M: 0/0/1
+CTG_N: 2/0/1
+CTG_S: 3/2/2
+COM: 4/1/3_C3 Incident
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 5/5/5_C3 Incident
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 12:32
+233,tawhid vai,"Planned Work
+27 Jan,2023
+
+Total: 147
+Approved: 147
+Critical: 00
+Unit:   App/Crt/Otg/Notg
+
+Total:  147/00/71/76
+Tops:   01/00/01/00
+Imple:  134/00/60/74
+NTTN:   04/00/04/00
+e.co:   05/00/05/00
+IT:     02/00/01/01",,,2023-01-26 12:32
+234,tawhid vai,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are up
+Severity: C3
+FT: 18:42_26/01
+RT: 19:20_26/01
+DUR: 00:38
+Cause: Power issue at CPUMT24
+Action: e.co team resolved the issue by MCB replaced
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Comilla are down
+Severity: C3
+FT: 18:42_26/01
+ERT: 4 hrs
+Cause: CMDKN20-CPUMT24 link down
+Area: Daudkandi & Matlab Uttar
+Unit: e.co
+TT: INC000017949859",2023-01-26 12:32
+235,tawhid vai,"Close Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 18:40_26/01
+RT: 19:45_26/01
+DUR: 01:05
+Cause: Battery stolen at MYBLK39
+Action: CP restored 
+Area: Bhaluka
+Unit: ULKA
+TT: INC000017949815",Mahafuj RNM,"Incident Notification:
+2 2G, 2 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 18:40_26/01
+ERT: 4 hrs
+Cause: MYBLK01-MYBLK39 link down
+Area: Bhaluka
+Unit: e.co
+TT: INC000017949815",2023-01-26 12:32
+236,tawhid vai,/,,,2023-01-26 12:32
+237,tawhid vai,"Update of Site Down at 20:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 27/10/27
+
+DHK_M: 1/1/0
+DHK_N: 4/2/7
+DHK_S: 1/0/0
+DHK_O: 2/1/1
+CTG_M: 0/0/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 2/0/1
+NOA: 1/0/1
+SYL: 3/0/3
+MYM: 3/3/3
+BAR: 1/0/1
+KHL: 3/2/3
+KUS: 2/0/2
+RAJ: 0/0/0
+RANG: 1/0/1",,,2023-01-26 12:32
+238,tawhid vai,Bohaddarhat Firewall 2 & Vulta Firewall 1 devices were offline for 3/4 mins,,,2023-01-26 12:32
+239,tawhid vai,"Update of Site Down at 21:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 26/5/29
+
+DHK_M: 0/0/0
+DHK_N: 3/1/6
+DHK_S: 1/0/0
+DHK_O: 1/1/3
+CTG_M: 0/0/0
+CTG_N: 2/0/2
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 3/0/3
+MYM: 3/2/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 1/0/1",,,2023-01-26 12:32
+240,tawhid vai,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",,,2023-01-26 12:32
+241,tawhid vai,"Network Update
+21:00_26/01/2023
+
+PDP SR found 100% in all UGWs except AL03_vUGW07 (SR 98.4%)
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss in Service Performance Report except  Vulta Level3 IBG1 to Facebook & Akhter Mango to Youtube
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (17:30_25/01/23)",,,2023-01-26 12:32
+242,tawhid vai,"Net Status 25-Jan,2023
+
+VLR(A): 43.66M(+52.04K)
+VLR(R): 45.35M(+47.33K)
+HLR: 112.22M(+0.95K)
+
+4G(A): 18.88M(+253.13K)
+4G(R): 24.55M(+36.59K)
+EL(WD): 5.97M(+131.03K)
+ELSR: 98.42%(+0.1%)
+
+Network Performance:
+CSSR2G: 99.39%(+0.35%)
+CDR2G: 0.41%(+0.02%)
+CDR3G: 0.16%(-0.01%)
+PSR: 94.94%(+0.31%)
+LUSR: 98.87%(+0.03%)
+MTCCR: 92.64%(-0.13%)
+SMMTSR: 60.69%(+1.31%)
+
+Traffic:
+Voice:
+2G(BH): 482.04K(+21.95K)
+2G(WD): 5071.62K(+169.79K)
+3G(BH): 273.02K(+5.22K)
+3G(WD): 3211.68K(+45.42K)
+
+Data:
+GiDL(TP): 1247.43Gbps(+5.44Gbps)
+GiDL(FNA): 489.11Gbps
+GiDL(GGC): 256.28Gbps
+GiDL(BDIX): 5.51Gbps
+2G(WD): 13.08TB(-0.75TB)
+3G(WD): 579.55TB(-37.61TB)
+4G(WD): 7804.9TB(+76.61TB)
+TotalData: 8397.52TB(+38.25TB)
+
+SMS:
+SMMT(WD): 21.41M(+1761.34K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):648.78/636.5/101.93
+
+Dhaka:
+SCL:3.9/4.5/86.67
+Aamra:95.18/97/98.12
+Level3: 112.26/109.5/102.52
+BTCL: 102.32/78/131.18
+Mango: 19.34/37.5/51.57
+FHL:11.74/11/106.73
+
+Chittagong:
+Aamra: 98.35/103/95.49
+SCL: 11.05/11/100.45
+Level3: 90.16/90.5/99.62
+BTCL: 74.22/62/119.71
+Mango: 30.26/32.5/93.11
+
+
+Availability: 2G/3G/4G
+National: 99.81/99.65/99.98
+
+Site Count (As of '25 January 2023', Source - TSPR report):
+2G:  15600 
+3G:  9103 
+4G:  15683",,,2023-01-26 12:32
+243,tawhid vai,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 20:57_26/01
+RT: 21:32_26/01
+DUR: 00:35
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 20:57_26/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017950283",2023-01-26 12:32
+244,tawhid vai,RAN_M: Hasib,,,2023-01-26 12:32
+245,tawhid vai,"Update of Site Down at 22:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 24/8/29
+
+DHK_M: 0/0/1
+DHK_N: 5/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 0/0/0
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 3/3/3
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 2/0/2
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 12:32
+246,tawhid vai,"The Duty Handover to Night shift at 22:15 on 26-Jan-2023:
+
+SM: alauddin vai
+CNM: shahin vai
+TX_M: mahbub vai
+TX_FLS: Jubair vai
+RAN_M: 
+RAN_FLS: Saif vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval from 09 am to 09 pm.
+
+Current site down:
+Region: 2G / 3G / 4G
+National:  24/08/29
+
+Facebook FNA is Ok
+Google traffic found Ok.
+NTMC link stable & No alarm now",,,2023-01-26 12:32
+247,tawhid vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+GPKLKA2(Edotco): 21:54 26-01-23,Dalas Fashions Limited
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+@Saifuzzaman Saif vi, plz share RC of 02 site",,,2023-01-26 12:32
+248,tawhid vai,Checking bhaiya,Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 12:32
+249,tawhid vai,"DHAPT11 site restored...plz check
+
+
+@Saifuzzaman Saif vi, urgent plz, 
+
+Plz check if any operational issue",,,2023-01-26 12:32
+250,tawhid vai,"GPKLKA2= some trx found hanged. after soft reset now up
+GPKLG38= Site down due to power issue .DC low alarm found. Also Door open alarm found",Alauddin Vai,"VIP sites update at 22:00 on 26-01-2023
+
+2G:3
+
+
+DHAPT11(Edotco): 13:57 26-01-23,Airport
+
+3G:2
+GPKLG38(Edotco): 21:17 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+4G:2
+GPKLG38(Edotco): 21:19 26-01-23,RFL
+DHAPT11(Edotco): 13:56 26-01-23,Airport
+
+
+ vi, plz share RC of 02 site",2023-01-26 12:32
+251,tawhid vai,"ok, thanks Bro",,,2023-01-26 12:32
+252,tawhid vai,"Update of Site Down at 23:00 On 26-01-2023
+
+Region: 2G/3G/4G
+National: 19/7/25
+
+DHK_M: 0/0/0
+DHK_N: 2/1/5
+DHK_S: 0/0/0
+DHK_O: 2/2/5
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/1/1
+NOA: 2/0/2
+SYL: 2/0/2
+MYM: 1/1/1
+BAR: 2/0/2
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 1/0/1
+RANG: 0/0/0",,,2023-01-26 12:32
+253,tawhid vai,Team waiting at airport,Saifuzzaman Saif,Checking bhaiya,2023-01-26 12:32
+254,tawhid vai,"2G: All cells are found up and taking traffic. No Packet loss observed at Abis. DL/UL Loss & VSWR found within acceptable range. ICM band (4+5) found normal as per Daily Statistics Report.
+
+3G: All cells are found up and taking traffic. No Frame or Packet loss observed at IuB. DL/UL Loss, VSWR found within acceptable range. RRC Success rate and Speech success rate found in good range.
+S8C1 (-85.4),S9C1(-90.9)& S2C1(-78.4) have RSSI degraded issue. Concern: SM-CC
+
+4G: 
+DHAPT11LL& DHAPT11LI cell are down due to Power Disturbance issue Power Disturbance(RRU-8_B3_1,E201021696 &RRU-9_B3_1,E201021811)//Current Too High - FieldReplaceableUnit=RRU-9_B3_1//.DHAPT11L21I NB=1/S8C1/S8C1 (1,1) Fiber Loss UL (UlLoss-DlLoss=5.61). Concern: e.co",Alauddin Vai,Team waiting at airport,2023-01-26 12:32
+255,tawhid vai,Thanks Bro....,,,2023-01-26 12:32
+256,tawhid vai,"26-Jan'23@22:30
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-26 12:32
+257,tawhid vai,Fiber incident update at 0:00_27/01,,,2023-01-26 12:32
+258,tawhid vai,"Update of Site Down at 00:00 On 27-01-2023
+
+Region: 2G/3G/4G
+National: 21/7/24
+
+DHK_M: 0/0/0
+DHK_N: 4/2/7
+DHK_S: 0/0/0
+DHK_O: 2/2/3
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/2
+COM: 1/0/0
+NOA: 3/0/3
+SYL: 2/0/2
+MYM: 0/0/0
+BAR: 3/1/3
+KHL: 1/0/1
+KUS: 1/0/1
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-26 12:32
+259,tawhid vai,"Pending Incidents at 00:00_27/01/2023
+
+Fiber Network:
+
+1. CMCDG01 (Falgunkara) to FNSDR01 (Lemua) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 04:01_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. CGBAK08 (South Bakolia) to CGHTZ11 (Egaromile) FHL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:38_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: FHL
+
+3. GPSDR34 (Pubail) to NSBLB02 (Nayaranpur) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 17:59_26/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+Others:
+
+1. Remedy response is still slow
+Impact: CR SLA is impacting badly. Also Fault & Quality TT handling within SLA is impacting as well
+Severity: C-1
+FT: 10:30_27/10
+ERT: Yet to share
+Cause: Yet to identify
+Action: OSS team is working to resolve
+Remarks: Very slowness is still observed regularly during Office 
+Unit: OSS operation
+
+2. SEM DB dependent RPA-BOTs are not working properly 
+Impact: Automated Radio-Network Status Reports are not presenting accurate data
+Severity: C-2
+FT: 21:00_29/11
+ERT: Yet to share
+Cause: Suspecting SEM_DB related defect
+Action: OSS-Ops team is working for a permanent solution 
+Unit: OSS Operation",,,2023-01-26 12:32

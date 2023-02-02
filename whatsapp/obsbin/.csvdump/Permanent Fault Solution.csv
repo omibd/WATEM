@@ -1,0 +1,416 @@
+SENDER,SENDER_NAME,SENDER_TEXT,Q_TEXT,Q_SENDER,Q_SENDER_NAME,TIME,BASE,DATE_TIME,DATA_ID,CHAT
++880 1847-343270,Ziaur Rahman,"BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",0,0,0,7:30 AM,"+880 1847-343270
+Ziaur Rahman
+BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+7:30 AM",2021-09-11 07:30,false_8801817183680-1533043027@g.us_B8AF077676822EF7CC07193D910D13DF,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",0,0,0,7:34 AM,"BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+7:34 AM",2021-09-11 07:34,false_8801817183680-1533043027@g.us_A9E0A9D4D351D018425C7980C116A992,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",0,0,0,7:36 AM,"BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+7:36 AM",2021-09-11 07:36,false_8801817183680-1533043027@g.us_CFB34983A342DA41625D2948CD760386,Permanent Fault Solution
++880 1856-959336,MD Rokib,Suspecting C cell RRU faulty. Please check RRU connection.,"BSC: DBEA0
+STG: 1642
+SITE: CMHMN43
+Note: No fault code or HW fault alarm found but getting TRX UNCONF mode, please restore.",+880 1847-343270,Ziaur Rahman,9:11 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEA0
+STG: 1642
+SITE: CMHMN43
+Note: No fault code or HW fault alarm found but getting TRX UNCONF mode, please restore.
+Suspecting C cell RRU faulty. Please check RRU connection.
+9:11 AM",2021-09-11 09:11,false_8801817183680-1533043027@g.us_111D55FBDE4CE5BBE78710D8570959B7,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to power fluctuation . Now restored and all TRX getting up.,"BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",+880 1847-343270,Ziaur Rahman,9:12 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+TRX down due to power fluctuation . Now restored and all TRX getting up.
+9:12 AM",2021-09-11 09:12,false_8801817183680-1533043027@g.us_558F658B8AF4C6B539C338840003F87D,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to power fluctuation . Now restored and all TRX getting up.,"BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",+880 1847-343270,Ziaur Rahman,9:14 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+TRX down due to power fluctuation . Now restored and all TRX getting up.
+9:14 AM",2021-09-11 09:14,false_8801817183680-1533043027@g.us_F6B95BC48F65F4FB56D92389B10EE4CF,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to power fluctuation . Now restored and all TRX getting up.,"BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",+880 1847-343270,Ziaur Rahman,10:15 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+TRX down due to power fluctuation . Now restored and all TRX getting up.
+10:15 AM",2021-09-11 10:15,false_8801817183680-1533043027@g.us_B5458B2946D8DD99E1D264AF681C00F6,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"BSC: CBEA9
+TG: 436
+SITE: D_NOMJD30
+Please restore the down cell & trx.",0,0,0,11:42 AM,"+880 1847-343270
+Ziaur Rahman
+BSC: CBEA9
+TG: 436
+SITE: D_NOMJD30
+Please restore the down cell & trx.
+11:42 AM",2021-09-11 11:42,false_8801817183680-1533043027@g.us_95DE05E667AAD4E32F5E2C0E5B8EAC8B,Permanent Fault Solution
+baitul,0,"TRX was down due to BPC mismatch issue. Issue solved. No all trx are up and taking traffic. 
+
+Thanks for your note. All zonal concern should practice this. It will easier our work.","BSC: DBEA4
+TG: 373
+SITE: CMCDG58
+Note: Zone work it on site as CPRI was mismatch, now some trx down, need reset.",+880 1847-343270,Ziaur Rahman,1:52 PM,"baitul
++880 1847-343270
+Ziaur Rahman
+BSC: DBEA4
+TG: 373
+SITE: CMCDG58
+Note: Zone work it on site as CPRI was mismatch, now some trx down, need reset.
+TRX was down due to BPC mismatch issue. Issue solved. No all trx are up and taking traffic. 
+
+Thanks for your note. All zonal concern should practice this. It will easier our work.
+1:52 PM",2021-09-09 13:52,false_8801817183680-1533043027@g.us_3856E8817BFE1EECB980F6E981A4AD5C,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"From Comilla & Noakhali all 5 zonal team are aligned with me now, thanks.",TRX was down due to BPC mismatch issue. Issue solved. No all trx are up and taking traffic. ,baitul,0,1:59 PM,"+880 1847-343270
+Ziaur Rahman
+baitul
+TRX was down due to BPC mismatch issue. Issue solved. No all trx are up and taking traffic. 
+From Comilla & Noakhali all 5 zonal team are aligned with me now, thanks.
+1:59 PM",2021-09-09 13:59,false_8801817183680-1533043027@g.us_55BCFE1CE875C9DD83D5F27B5EBF47CA,Permanent Fault Solution
+0,0,please help DHLLB58_2G TRX down,0,0,0,,"+880 1817-181531
+Md.Ariful Islam(Zadu)
+please help DHLLB58_2G TRX down
+10:54 AM",,false_8801817183680-1533043027@g.us_3B8460C994014E9C96307D783B573880,Permanent Fault Solution
+0,0,"CBEA8., TG -0 & 21 down for logical issue please check and help us to restored.",0,0,0,,"+880 1819-550746
+Md Shawkat Akber
+CBEA8., TG -0 & 21 down for logical issue please check and help us to restored.
+12:47 PM",,false_8801817183680-1533043027@g.us_4A4EB5166671CA015FE63FB50D2859D8,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to tx fluctuation . Now all TRX getting up.,please help DHLLB58_2G TRX down,+880 1817-181531,Md.Ariful Islam(Zadu),1:18 PM,"+880 1856-959336
+MD Rokib
++880 1817-181531
+Md.Ariful Islam(Zadu)
+please help DHLLB58_2G TRX down
+TRX down due to tx fluctuation . Now all TRX getting up.
+1:18 PM",2021-09-10 13:18,false_8801817183680-1533043027@g.us_5AC5136A937358A9CFBDDEC9F1DC9BA2,Permanent Fault Solution
++880 1856-959336,MD Rokib,"Fault code 2A 8, 53, 58. TG: 0, persists.","CBEA8., TG -0 & 21 down for logical issue please check and help us to restored.",+880 1819-550746,Md Shawkat Akber,1:29 PM,"+880 1856-959336
+MD Rokib
++880 1819-550746
+Md Shawkat Akber
+CBEA8., TG -0 & 21 down for logical issue please check and help us to restored.
+Fault code 2A 8, 53, 58. TG: 0, persists.
+1:29 PM",2021-09-10 13:29,false_8801817183680-1533043027@g.us_38C3ABFCE180147857B2FCCB0E5A50D1,Permanent Fault Solution
+Comilla_H.R.M Zulfikar,0,Please reset TG-373 of DBEA0. All cell of CMMDN59 down.,0,0,0,7:10 PM,"Comilla_H.R.M Zulfikar
+Please reset TG-373 of DBEA0. All cell of CMMDN59 down.
+7:10 PM",2021-09-10 19:10,false_8801817183680-1533043027@g.us_A8460CB281AA357533E06FEAC72AE72C,Permanent Fault Solution
+Comilla_H.R.M Zulfikar,0,Any update?,Please reset TG-373 of DBEA0. All cell of CMMDN59 down.,Comilla_H.R.M Zulfikar,0,7:46 PM,"Comilla_H.R.M Zulfikar
+Comilla_H.R.M Zulfikar
+Please reset TG-373 of DBEA0. All cell of CMMDN59 down.
+Any update?
+7:46 PM",2021-09-10 19:46,false_8801817183680-1533043027@g.us_030A660A22573B84DCC9372E27F44669,Permanent Fault Solution
+baitul,0,All trx currently getting up but huge dip error observed.  TG may down again. Need to solve DIP error issue.,Please reset TG-373 of DBEA0. All cell of CMMDN59 down.,Comilla_H.R.M Zulfikar,0,7:50 PM,"baitul
+Comilla_H.R.M Zulfikar
+Please reset TG-373 of DBEA0. All cell of CMMDN59 down.
+All trx currently getting up but huge dip error observed.  TG may down again. Need to solve DIP error issue.
+7:50 PM",2021-09-10 19:50,false_8801817183680-1533043027@g.us_803C2868543236EBB0FFEB8B3B8743E2,Permanent Fault Solution
+Comilla_H.R.M Zulfikar,0,Okay,All trx currently getting up but huge dip error observed.  TG may down again. Need to solve DIP error issue.,baitul,0,8:03 PM,"Comilla_H.R.M Zulfikar
+baitul
+All trx currently getting up but huge dip error observed.  TG may down again. Need to solve DIP error issue.
+Okay
+8:03 PM",2021-09-10 20:03,false_8801817183680-1533043027@g.us_D164B4D75895B02518F611E71247CF04,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"BSC: DBEA0
+STG: 1642
+SITE: CMHMN43
+Note: No fault code or HW fault alarm found but getting TRX UNCONF mode, please restore.",0,0,0,7:26 AM,"+880 1847-343270
+Ziaur Rahman
+BSC: DBEA0
+STG: 1642
+SITE: CMHMN43
+Note: No fault code or HW fault alarm found but getting TRX UNCONF mode, please restore.
+7:26 AM",2021-09-11 07:26,false_8801817183680-1533043027@g.us_A372BF43363CC1A686C7844768769D57,Permanent Fault Solution
+baitul,0,BTS INT AFFECTED issue. Issue solved. Now all trx are up and taking traffic.,pls provide reset bsc_cbea7/tg_344,+880 1858-539289,kamal hossain,8:54 AM,"baitul
++880 1858-539289
+kamal hossain
+pls provide reset bsc_cbea7/tg_344
+BTS INT AFFECTED issue. Issue solved. Now all trx are up and taking traffic.
+8:54 AM",2021-09-08 08:54,false_8801817183680-1533043027@g.us_48FCE9D84062DE7AFF06F70288E064DB,Permanent Fault Solution
+Jillur,0,Requesting to reset CXTKN26L.,0,0,0,3:24 PM,"Jillur
+Requesting to reset CXTKN26L.
+3:24 PM",2021-09-08 15:24,false_8801817183680-1533043027@g.us_E88859294AF66205BD9D333843A9168E,Permanent Fault Solution
+Emon Vai,0,Reset given. 4G up and taking traffic now.,Requesting to reset CXTKN26L.,Jillur,0,4:35 PM,"Emon Vai
+Jillur
+Requesting to reset CXTKN26L.
+Reset given. 4G up and taking traffic now.
+4:35 PM",2021-09-08 16:35,false_8801817183680-1533043027@g.us_0CD14E7A5922F35B3D08DDD5D12A6DBE,Permanent Fault Solution
+Jillur,0,Thanks,Reset given. 4G up and taking traffic now.,Emon Vai,0,5:26 PM,"Jillur
+Emon Vai
+Reset given. 4G up and taking traffic now.
+Thanks
+5:26 PM",2021-09-08 17:26,false_8801817183680-1533043027@g.us_67EC899ECB991533A3624193A234EABE,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"BSC: CBEA8
+TG: 74
+SITE: FNDGN15
+Please restore the down cell & trx.",0,0,0,11:27 AM,"+880 1847-343270
+Ziaur Rahman
+BSC: CBEA8
+TG: 74
+SITE: FNDGN15
+Please restore the down cell & trx.
+11:27 AM",2021-09-09 11:27,false_8801817183680-1533043027@g.us_FDC9A3EBA16632941E6081FEE23B0140,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: CBEA5
+TG: 468
+SITE: LXSDR73
+Please restore the down cell & trx.",0,0,0,11:35 AM,"BSC: CBEA5
+TG: 468
+SITE: LXSDR73
+Please restore the down cell & trx.
+11:35 AM",2021-09-09 11:35,false_8801817183680-1533043027@g.us_75674F8803EA9CDF3BC794332E3A7D71,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: CBEA9
+TG: 119
+SITE: NOSBC03
+Please restore the down cell & trx.",0,0,0,11:36 AM,"BSC: CBEA9
+TG: 119
+SITE: NOSBC03
+Please restore the down cell & trx.
+11:36 AM",2021-09-09 11:36,false_8801817183680-1533043027@g.us_5263E44BD542F4776A11C41B3E18DDE5,Permanent Fault Solution
+baitul,0,0,0,0,0,11:52 AM,"baitul
+This message was deleted
+11:52 AM",,false_8801817183680-1533043027@g.us_2198B14097D3681000052F507B969E9A,Permanent Fault Solution
+baitul,0,"1st E1 is down.
+Why this type of issue escalated to RAN FLS? Is not made a primary check before sending us?","BSC: CBEA8
+TG: 74
+SITE: FNDGN15
+Please restore the down cell & trx.",+880 1847-343270,Ziaur Rahman,11:55 AM,"baitul
++880 1847-343270
+Ziaur Rahman
+BSC: CBEA8
+TG: 74
+SITE: FNDGN15
+Please restore the down cell & trx.
+1st E1 is down.
+Why this type of issue escalated to RAN FLS? Is not made a primary check before sending us?
+11:55 AM",2021-09-09 11:55,false_8801817183680-1533043027@g.us_695DA4E555AF31282A3C3118D8FF2EF4,Permanent Fault Solution
+baitul,0,1st E1 getting down for this TG also! What will do RAN FLS for E1 down issue?,"BSC: CBEA9
+TG: 119
+SITE: NOSBC03
+Please restore the down cell & trx.",+880 1847-343270,Ziaur Rahman,11:56 AM,"baitul
++880 1847-343270
+Ziaur Rahman
+BSC: CBEA9
+TG: 119
+SITE: NOSBC03
+Please restore the down cell & trx.
+1st E1 getting down for this TG also! What will do RAN FLS for E1 down issue?
+11:56 AM",2021-09-09 11:56,false_8801817183680-1533043027@g.us_4AB0F9F27E0582066927A8F618421770,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"E1 down alarm suppressed in SEM, only TRX down TT & Notification found.
+Ok, will be more careful from next time.
+""This is just a request with please, thank you for your comments.""","1st E1 is down.
+Why this type of issue escalated to RAN FLS? Is not made a primary check before sending us?",baitul,0,12:00 PM,"+880 1847-343270
+Ziaur Rahman
+baitul
+1st E1 is down.
+Why this type of issue escalated to RAN FLS? Is not made a primary check before sending us?
+E1 down alarm suppressed in SEM, only TRX down TT & Notification found.
+Ok, will be more careful from next time.
+""This is just a request with please, thank you for your comments.""
+12:00 PM",2021-09-09 12:00,false_8801817183680-1533043027@g.us_CCAE205E8B5675FBCC1FFEA51C3C845B,Permanent Fault Solution
+baitul,0,"Bhai, At least zone should make a primary check such as power issue, E1 down issue before escalation. Otherwise it will kill our time/effort(both of us) and also will enhance down time.","E1 down alarm suppressed in SEM, only TRX down TT & Notification found.
+Ok, will be more careful from next time.
+""This is just a request with please, thank you for your comments.""",+880 1847-343270,Ziaur Rahman,12:06 PM,"baitul
++880 1847-343270
+Ziaur Rahman
+E1 down alarm suppressed in SEM, only TRX down TT & Notification found.
+Ok, will be more careful from next time.
+""This is just a request with please, thank you for your comments.""
+Bhai, At least zone should make a primary check such as power issue, E1 down issue before escalation. Otherwise it will kill our time/effort(both of us) and also will enhance down time.
+12:06 PM",2021-09-09 12:06,false_8801817183680-1533043027@g.us_3E80931D8F6B93998C8C564CD599E540,Permanent Fault Solution
+baitul,0,OML FAULT alarm was persist on TRX. Issue solved. Now all trx are up and taking traffic.,"BSC: CBEA5
+TG: 468
+SITE: LXSDR73
+Please restore the down cell & trx.",+880 1847-343270,Ziaur Rahman,12:28 PM,"baitul
++880 1847-343270
+Ziaur Rahman
+BSC: CBEA5
+TG: 468
+SITE: LXSDR73
+Please restore the down cell & trx.
+OML FAULT alarm was persist on TRX. Issue solved. Now all trx are up and taking traffic.
+12:28 PM",2021-09-09 12:28,false_8801817183680-1533043027@g.us_C284AC31CC06D358DAAE4B16920E5FD7,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"Agreed on that, brother ","Bhai, At least zone should make a primary check such as power issue, E1 down issue before escalation. Otherwise it will kill our time/effort(both of us) and also will enhance down time.",baitul,0,12:33 PM,"+880 1847-343270
+Ziaur Rahman
+baitul
+Bhai, At least zone should make a primary check such as power issue, E1 down issue before escalation. Otherwise it will kill our time/effort(both of us) and also will enhance down time.
+Agreed on that, brother 
+12:33 PM",2021-09-09 12:33,false_8801817183680-1533043027@g.us_519E0B0D84A95ADAE5EF2A4CFD73F595,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,0,OML FAULT alarm was persist on TRX. Issue solved. Now all trx are up and taking traffic.,baitul,0,12:33 PM,"+880 1847-343270
+Ziaur Rahman
+baitul
+OML FAULT alarm was persist on TRX. Issue solved. Now all trx are up and taking traffic.
+12:33 PM",2021-09-09 12:33,false_8801817183680-1533043027@g.us_3E182E5612EEE58CE3257177DDC0DA8A,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: DBEA4
+TG: 373
+SITE: CMCDG58
+Note: Zone work it on site as CPRI was mismatch, now some trx down, need reset.",0,0,0,12:35 PM,"BSC: DBEA4
+TG: 373
+SITE: CMCDG58
+Note: Zone work it on site as CPRI was mismatch, now some trx down, need reset.
+12:35 PM",2021-09-09 12:35,false_8801817183680-1533043027@g.us_1787FC5F360C1BB2C7EF7A80A50D3836,Permanent Fault Solution
+0,0,Pls reset bsc_cbea8/tg_30,0,0,0,,"+880 1858-539289
+kamal hossain
+Pls reset bsc_cbea8/tg_30
+6:31 PM",,false_8801817183680-1533043027@g.us_3742095F4A2AAE1EFB7794FF73476BF6,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX got hanged due to power issue . Now all TRX getting up.,please help DHMDP74_ 2G TRX down,+880 1817-181531,Md.Ariful Islam(Zadu),7:07 PM,"+880 1856-959336
+MD Rokib
++880 1817-181531
+Md.Ariful Islam(Zadu)
+please help DHMDP74_ 2G TRX down
+TRX got hanged due to power issue . Now all TRX getting up.
+7:07 PM",2021-09-07 19:07,false_8801817183680-1533043027@g.us_77D6DB84A02E77B33B8310E43B67B545,Permanent Fault Solution
++880 1856-959336,MD Rokib,4 Trx down due to QBPC value mismatch. Please raise a mail.,Pls reset bsc_cbea8/tg_30,+880 1858-539289,kamal hossain,7:31 PM,"+880 1856-959336
+MD Rokib
++880 1858-539289
+kamal hossain
+Pls reset bsc_cbea8/tg_30
+4 Trx down due to QBPC value mismatch. Please raise a mail.
+7:31 PM",2021-09-07 19:31,false_8801817183680-1533043027@g.us_BE9D4FFD5738FE9ECB004004E830C2F2,Permanent Fault Solution
+0,0,0,0,0,0,,"+880 1882-169709
+Abu Sayeed
+1:29 AM",,false_8801817183680-1533043027@g.us_3EB0D2181371502A9F66,Permanent Fault Solution
+0,0,"Please reset TG :414,435,396; BSC: CBEA5",0,0,0,,"+880 1882-169709
+Abu Sayeed
+Please reset TG :414,435,396; BSC: CBEA5
+1:29 AM",,false_8801817183680-1533043027@g.us_3EB0F1E637C3D679B8E4,Permanent Fault Solution
+0,0,No fautl code found TG 435 & 396; 414 is Garbase TG.,0,0,0,,"+880 1882-169709
+Abu Sayeed
+No fautl code found TG 435 & 396; 414 is Garbase TG.
+1:29 AM",,false_8801817183680-1533043027@g.us_3EB0C5A3822FCC062828,Permanent Fault Solution
+0,0,0,0,0,0,,"+880 1882-169709
+Abu Sayeed
+1:29 AM",,false_8801817183680-1533043027@g.us_3EB01D88C44A7A46133E,Permanent Fault Solution
++880 1817-181086,Jibon Kumar Biswas,TG 396 and 435 restored after soft reset.,0,0,0,1:39 AM,"+880 1817-181086
+Jibon Kumar Biswas
+TG 396 and 435 restored after soft reset.
+1:39 AM",2021-09-08 01:39,false_8801817183680-1533043027@g.us_D4B3C50D1C1EF45D06ABC3E39C0B3646,Permanent Fault Solution
+0,0,pls provide reset bsc_cbea7/tg_344,0,0,0,,"+880 1858-539289
+kamal hossain
+pls provide reset bsc_cbea7/tg_344
+7:35 AM",,false_8801817183680-1533043027@g.us_CC6CF4F002CC5AA68B16174D9E3A17E2,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",0,0,0,7:30 AM,"+880 1847-343270
+Ziaur Rahman
+BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+7:30 AM",2021-09-11 07:30,false_8801817183680-1533043027@g.us_B8AF077676822EF7CC07193D910D13DF,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",0,0,0,7:34 AM,"BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+7:34 AM",2021-09-11 07:34,false_8801817183680-1533043027@g.us_A9E0A9D4D351D018425C7980C116A992,Permanent Fault Solution
+ +880 1847-343270:,0,"BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",0,0,0,7:36 AM,"BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+7:36 AM",2021-09-11 07:36,false_8801817183680-1533043027@g.us_CFB34983A342DA41625D2948CD760386,Permanent Fault Solution
++880 1856-959336,MD Rokib,Suspecting C cell RRU faulty. Please check RRU connection.,"BSC: DBEA0
+STG: 1642
+SITE: CMHMN43
+Note: No fault code or HW fault alarm found but getting TRX UNCONF mode, please restore.",+880 1847-343270,Ziaur Rahman,9:11 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEA0
+STG: 1642
+SITE: CMHMN43
+Note: No fault code or HW fault alarm found but getting TRX UNCONF mode, please restore.
+Suspecting C cell RRU faulty. Please check RRU connection.
+9:11 AM",2021-09-11 09:11,false_8801817183680-1533043027@g.us_111D55FBDE4CE5BBE78710D8570959B7,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to power fluctuation . Now restored and all TRX getting up.,"BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",+880 1847-343270,Ziaur Rahman,9:12 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEA2
+STG: 1196
+SITE: CPHGN22
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+TRX down due to power fluctuation . Now restored and all TRX getting up.
+9:12 AM",2021-09-11 09:12,false_8801817183680-1533043027@g.us_558F658B8AF4C6B539C338840003F87D,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to power fluctuation . Now restored and all TRX getting up.,"BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",+880 1847-343270,Ziaur Rahman,9:14 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEC3
+STG: 1163
+SITE: CPKCH25
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+TRX down due to power fluctuation . Now restored and all TRX getting up.
+9:14 AM",2021-09-11 09:14,false_8801817183680-1533043027@g.us_F6B95BC48F65F4FB56D92389B10EE4CF,Permanent Fault Solution
++880 1856-959336,MD Rokib,TRX down due to power fluctuation . Now restored and all TRX getting up.,"BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.",+880 1847-343270,Ziaur Rahman,10:15 AM,"+880 1856-959336
+MD Rokib
++880 1847-343270
+Ziaur Rahman
+BSC: DBEC3
+STG: 1122
+SITE: CPKCH45
+Note: No fault code or HW fault alarm found but getting 1 TRX UNCONF mode, whole cell showing down due to that in SEM.
+TRX down due to power fluctuation . Now restored and all TRX getting up.
+10:15 AM",2021-09-11 10:15,false_8801817183680-1533043027@g.us_B5458B2946D8DD99E1D264AF681C00F6,Permanent Fault Solution
++880 1847-343270,Ziaur Rahman,"BSC: CBEA9
+TG: 436
+SITE: D_NOMJD30
+Please restore the down cell & trx.",0,0,0,11:42 AM,"+880 1847-343270
+Ziaur Rahman
+BSC: CBEA9
+TG: 436
+SITE: D_NOMJD30
+Please restore the down cell & trx.
+11:42 AM",2021-09-11 11:42,false_8801817183680-1533043027@g.us_95DE05E667AAD4E32F5E2C0E5B8EAC8B,Permanent Fault Solution

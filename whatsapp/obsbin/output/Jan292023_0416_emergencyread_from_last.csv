@@ -1,0 +1,379 @@
+,sender,text,q_sender,q_text,datetime
+0,Txmonitoring,Fiber incident update at 03:00_29/01,,,2023-01-29 03:08
+1,Mahafuj RNM,"Update of Site Down at 03:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 13/7/13
+
+DHK_M: 1/0/2
+DHK_N: 2/1/1
+DHK_S: 1/2/1
+DHK_O: 0/0/0
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 1/0/1
+COM: 1/0/1
+NOA: 3/1/3
+SYL: 0/0/0
+MYM: 1/0/1
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 03:01
+2,Mahafuj RNM,"Update of Site Down at 02:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 11/5/13
+
+DHK_M: 1/0/2
+DHK_N: 1/0/1
+DHK_S: 1/2/1
+DHK_O: 0/0/0
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 1/0/1
+COM: 0/0/1
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 1/0/1
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 02:03
+3,hasan yeaseen,This report was not circulated through SMS,hasan yeaseen,"Net Status 27-Jan,2023
+
+VLR(A): 43.61M(-50.22K)
+VLR(R): 45.38M(-2.14K)
+HLR: 112.22M(+0.41K)
+4G(A): NA**
+4G(R): NA**
+EL(WD): 5.1M(-1107.06K)
+ELSR: 98.21%(-0.3%)
+
+Network Performance:
+CSSR2G: 99.2%(-0.16%)
+CDR2G: 0.38%(+0%)
+CDR3G: 0.18%(+0%)
+PSR: 94.76%(+0.25%)
+LUSR: 98.92%(+0.09%)
+MTCCR: 92.7%(+0.2%)
+SMMTSR: 60.42%(+6.39%)
+
+Traffic:
+Voice:
+2G(BH): NA**
+2G(WD): NA**
+3G(BH): NA**
+3G(WD): NA**
+
+Data:
+GiDL(TP): 1253.69Gbps(+10.36Gbps)
+GiDL(FNA): 532.13Gbps
+GiDL(GGC): 294.58Gbps
+GiDL(BDIX): 4.76Gbps
+2G(WD): NA**
+3G(WD): NA**
+4G(WD): NA**
+TotalData: NA**
+
+SMS:
+SMMT(WD): 22.54M(+5331.58K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):717.39/636.5/112.71
+
+Dhaka:
+SCL:3.71/4.5/82.44
+Aamra:102.74/97/105.92
+Level3: 122.17/109.5/111.57
+BTCL: 108.74/78/13",2023-01-29 01:45
+4,hasan yeaseen,"Net Status 27-Jan,2023
+
+VLR(A): 43.61M(-50.22K)
+VLR(R): 45.38M(-2.14K)
+HLR: 112.22M(+0.41K)
+4G(A): NA**
+4G(R): NA**
+EL(WD): 5.1M(-1107.06K)
+ELSR: 98.21%(-0.3%)
+
+Network Performance:
+CSSR2G: 99.2%(-0.16%)
+CDR2G: 0.38%(+0%)
+CDR3G: 0.18%(+0%)
+PSR: 94.76%(+0.25%)
+LUSR: 98.92%(+0.09%)
+MTCCR: 92.7%(+0.2%)
+SMMTSR: 60.42%(+6.39%)
+
+Traffic:
+Voice:
+2G(BH): NA**
+2G(WD): NA**
+3G(BH): NA**
+3G(WD): NA**
+
+Data:
+GiDL(TP): 1253.69Gbps(+10.36Gbps)
+GiDL(FNA): 532.13Gbps
+GiDL(GGC): 294.58Gbps
+GiDL(BDIX): 4.76Gbps
+2G(WD): NA**
+3G(WD): NA**
+4G(WD): NA**
+TotalData: NA**
+
+SMS:
+SMMT(WD): 22.54M(+5331.58K)
+
+IIG Peak Usage (Gbps) /Capacity (Gbps) /Uti (%):
+National(IIG):717.39/636.5/112.71
+
+Dhaka:
+SCL:3.71/4.5/82.44
+Aamra:102.74/97/105.92
+Level3: 122.17/109.5/111.57
+BTCL: 108.74/78/13…",,,2023-01-29 01:44
+5,hasan yeaseen,"Probably due to Data Missing issue for CTG & COM, TSPR can confirm further.",Chanda Bhai,Then why traffic was low in Friday...,2023-01-29 01:23
+6,Yousuf Vai,"29-Jan'23@00:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-29 01:20
+7,,,,,
+8,Mahafuj RNM,"Update of Site Down at 01:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 15/9/18
+
+DHK_M: 1/0/2
+DHK_N: 1/1/1
+DHK_S: 1/1/1
+DHK_O: 1/1/1
+CTG_M: 1/1/1
+CTG_N: 1/0/1
+CTG_S: 2/1/3
+COM: 1/0/2
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 2/2/2
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 01:01
+9,hasan yeaseen,"Probably due to data missing issue, will share details , working on it",Chanda Bhai,Then why traffic was low in Friday...,2023-01-29 00:30
+10,tawhid vai,ICMP Delay & Packet Loss Update 29/01/2023 00:20,,,2023-01-29 00:26
+11,Chanda Bhai,Then why traffic was low in Friday...,,,2023-01-29 00:23
+12,Chanda Bhai,Ok..,Jalal Vaia,This week Thursday might be different in trend due to সরস্বতী পূজা,2023-01-29 00:22
+13,Txmonitoring,Fiber incident update at 00:00_29/01,,,2023-01-29 00:17
+14,tawhid vai,"Pending Incidents at 00:00_29/01
+
+Fiber Network:
+
+1. BMSDR56(Sultanpur B.Baria Sadar) to BMSDR44(West Medda B.Baria Sadar) BTCL DWDM fiber is down
+Impact: No outage
+Severity: C-3
+FT: 09:19_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. BMSDR61 (Budhal,B Baria B Baria Sadar) to BMASG02 (Ashuganj_power_station) WDM to Router BTCL fiber is down
+Impact: No outage
+Severity: C-3
+FT: 11:17_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. NSBLB02(Narayanpur) to BMSDR04(Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+4. DHGULQ9(DH0356) to DHGULM2(DH0298) FHL DWDM fiber still down
+Impact: No outage
+Severity: C-3
+FT: 09:17_28/01
+ERT: Yet to sha…",,,2023-01-29 00:15
+15,Yousuf Vai,"28-Jan'23@23:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-29 00:11
+16,Mahafuj RNM,"Update of Site Down at 00:00 On 29-01-2023
+
+Region: 2G/3G/4G
+National: 17/12/22
+
+DHK_M: 1/0/2
+DHK_N: 1/0/1
+DHK_S: 1/1/1
+DHK_O: 1/1/1
+CTG_M: 1/1/1
+CTG_N: 0/0/1
+CTG_S: 5/6/7
+COM: 2/0/3
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 1/1/1
+BAR: 1/2/1
+KHL: 0/0/0
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-29 00:05
+17,Jalal Vaia,This week Thursday might be different in trend due to সরস্বতী পূজা,Chanda Bhai,Seems Thursday and Friday traffic interchanged..,2023-01-29 00:03
+18,Chanda Bhai,Seems Thursday and Friday traffic interchanged..,,,2023-01-28 23:56
+19,hasan yeaseen,"Noted Vaiya , I will share formatted afterwards.",Jalal Vaia,"Hasan, this type of long list with long string value is not useful to convey the msg to someone.",2023-01-28 23:55
+20,Jalal Vaia,"Hasan, this type of long list with long string value is not useful to convey the msg to someone.",hasan yeaseen,Photo,2023-01-28 23:52
+21,Jalal Vaia,Last 14 day's trend as per Tableau,Jalal Vaia,"Chanda Bhai, Yesterday’s data volume 8181 TB as per Tableau.
+
+Last Friday on 10 Jan, it was 8842 TB",2023-01-28 23:46
+22,hasan yeaseen,Data Volume as per Tableau,hasan yeaseen,Photo,2023-01-28 23:46
+23,Jalal Vaia,"Last Friday on 20 Jan, it was 8842 TB",Jalal Vaia,"Chanda Bhai, Yesterday’s data volume 8181 TB as per Tableau.
+
+Last Friday on 10 Jan, it was 8842 TB",2023-01-28 23:45
+24,,,,,
+25,Jalal Vaia,"Chanda Bhai, Yesterday’s data volume 8181 TB as per Tableau.
+
+Last Friday on 10 Jan, it was 8842 TB",Chanda Bhai,Please share,2023-01-28 23:44
+26,,,,,
+27,Jalal Vaia,What about Tableau? Any data volume reported in tableau for yesterday?,hasan yeaseen,"Vaiya, Theres been an issue at CTG data centre (TSPR) end",2023-01-28 23:33
+28,Mahafuj RNM,"Close Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are up
+Severity: C3
+FT: 22:43_28/01
+RT: 23:15_28/01
+DUR: 00:32
+Cause: Power issue at MYBLK90
+Action: CP restored 
+Area: Bhaluka
+Unit: e.co
+TT: INC000017959790",Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 22:43_28/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017959790",2023-01-28 23:32
+29,Eshtiuk Hossain,"vaiya, within tomorrow morning.",,,2023-01-28 23:30
+30,Eshtiuk Hossain,"@Anika apu, is there any timeline to get that data? anyone working?",,,2023-01-28 23:30
+31,hasan yeaseen,"Vaiya, Theres been an issue at CTG data centre (TSPR) end",Eshtiuk Hossain,There's data sourcing issue ongoing at TSPR end . Its required more time to get the report . TSPR team will try to provide report by tonight . @__omi__ vaia FYKI,2023-01-28 23:28
+32,Chanda Bhai,Please share,Chanda Bhai,Please share yesterday's data traffic volume..,2023-01-28 23:24
+33,Mahafuj RNM,"Update of Site Down at 23:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 43/28/48
+
+DHK_M: 1/0/2
+DHK_N: 2/1/2
+DHK_S: 2/1/1
+DHK_O: 1/1/1
+CTG_M: 0/0/0
+CTG_N: 0/0/0
+CTG_S: 27/19/31_Discrete for power issue
+COM: 1/0/2
+NOA: 2/0/2
+SYL: 1/0/1
+MYM: 4/3/4
+BAR: 1/2/1
+KHL: 1/1/1
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-28 23:06
+34,Mahafuj RNM,"Incident Notification:
+2 2G, 1 3G & 2 4G Sites in Mymensingh are down
+Severity: C3
+FT: 22:43_28/01
+ERT: 1 hr
+Cause: Power issue at MYBLK90
+Area: Bhaluka
+Unit: e.co
+TT: INC000017959790",,,2023-01-28 23:02
+35,tawhid vai,ICMP Delay & Packet Loss Update 28/01/2023 23:00,,,2023-01-28 23:01
+36,Barsha,activity is rescheduled for tomorrow,Barsha,"CRQ000000583975##Rectification of Second-Party Software Issues in Legacy MAE
+
+Impact: All services of MAE (Huawei Radio & Legacy Core-Nodes) be down for 3 to 4 hours . Alarm monitoring, performance monitoring, and configuration collection all will be unavailable during this time.  Monitoring via Emergency service (ES)/secondary will not be possible.
+ Application & OSS",2023-01-28 22:46
+37,__omi__,"The Duty Handover to Night shift at 22:30 on 28-Jan-2023:
+
+SM: yeaseen
+CNM: Tawhid vai
+TX_M: shabbir vai
+TX_FLS:Rabbani
+RAN_M: Mahfuz
+RAN_FLS: Yousuf vai
+
+BO Support Concerns for this week (22 January to 28 January_2023)
+
+CN_BO: CS_ Shankar & PS_ Farhad
+TX_BO: Sobuj
+RAN_BO: Feroz
+OSS: Shakib
+IP TNO: Ashraf
+TSPR: Monoj
+DCN_Net: Zobaarul
+
+Major Concern: 
+
+1. @RANFLS/SM, please check BSC/RNC Voice Traffic degradation, CSSR degradation update email from Network. Insight regular basis. 
+@RANFLS from now on post the update every hour. 
+@SM, Keep Tableau/Network Availability Dashboard under observation.
+2. @RANFLS, don't reset any Gulshan's sites except jalal vai's consent.
+
+3. NGRPGA6 (DITF COW) VIP site. RAN_FLS please check this site regularly 03 Hrs. interval f…",,,2023-01-28 22:31
+38,Eshtiuk Hossain,ICMP Delay & Packet Loss Update 28/01/2023 22:00,,,2023-01-28 22:11
+39,Atik Rnm,"28-Jan'23@21:15
+BSC CSSR: No degradation
+Voice Traffic: No degradation",,,2023-01-28 22:05
+40,Sobuj RNM,"Update of Site Down at 22:00 On 28-01-2023
+
+Region: 2G/3G/4G
+National: 47/32/53
+
+DHK_M: 2/0/3
+DHK_N: 1/1/1
+DHK_S: 1/1/1
+DHK_O: 2/1/1
+CTG_M: 0/0/0
+CTG_N: 0/0/1
+CTG_S: 33/22/36---Discrete
+COM: 1/1/3
+NOA: 2/1/2
+SYL: 1/0/1
+MYM: 0/0/0
+BAR: 2/3/2
+KHL: 2/2/2
+KUS: 0/0/0
+RAJ: 0/0/0
+RANG: 0/0/0",,,2023-01-28 22:01
+41,Eshtiuk Hossain,"Network Update
+21:30_28/01/2023
+
+PDP SR found 100% in all UGWs
+
+Currently no Pending TT in the Core bucket
+
+No Capping observed
+
+No alarm found at ATIC
+
+No Delay/Packet loss found from Service Performance Report except Akhter Mango Facebook & Youtube ,Alekharchar Aamra  to facebook
+
+No critical alarms found at PSA Report
+
+CTO and CEBO traces are not running due to some security error
+
+NCEIP QoS related issue raised to TxM/Tx_FLS (19:00_28/01/23)",,,2023-01-28 21:46
+42,Eshtiuk Hossain,ICMP Delay & Packet Loss Update 28/01/2023 21:30,,,2023-01-28 21:36
+43,__omi__,Ok vaia,Jalal Vaia,Please post it in OPS group regularly,2023-01-28 21:31
+44,Eshtiuk Hossain,Already shared with IIG vendor where we get the packet loss. Overall report missed vaia. Sharing asap,,,2023-01-28 21:29
+45,Jalal Vaia,Please post it in OPS group regularly,Jalal Vaia,"Jalal, please ask someone to share packet loss report  hourly basis during busy hour..",2023-01-28 21:29
+46,Jalal Vaia,Why missed?,Eshtiuk Hossain,sharing vaia,2023-01-28 21:27
+47,Eshtiuk Hossain,sharing vaia,,,2023-01-28 21:26
+48,Jalal Vaia,It’s not maintaining?,Jalal Vaia,"Jalal, please ask someone to share packet loss report  hourly basis during busy hour..",2023-01-28 21:25
+49,Jalal Vaia,"Jalal, please ask someone to share packet loss report  hourly basis during busy hour..",,,2023-01-28 21:25

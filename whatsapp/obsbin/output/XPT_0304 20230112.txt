@@ -1,0 +1,79 @@
+sender
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[1]::Eric Amit Dada
+
+sender_text
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[2]::Pending Incidents at 00:00_12/01/2023
+
+Fiber Network:
+
+1. GPSDRP8 (BB1) to GPSDRP3 (GP1626) Robi IRU OSN (2nd link) fiber still down
+Impact: No outage
+Severity: C-3
+FT: 14:25_15/12
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: Hamida (Robi IRU), Transport Ops
+
+2. FNSDRB1 (FN3203) to FNDGN24 (Daggonbhuiyan3) BTCL DWDM fiber are up but high loss still persists
+Impact: No outage
+Severity: C-3
+FT: 16:24_10/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. DPCRB10 (Kutubdanga Bazar) to DPSDR04 (Dinajpur Medical College) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 10:20_11/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+4. DPPBT02 (Vabanipur backbone 75m) to DPFLB02 (Coal Mine) BTCL fiber (Router to Router, Full break) … Read more
+
+send_time
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[3]::12:11 am
+
+Q_Clickable
+(//div[@class='ItfyB _3nbHh'])[5]/div[1]/div/div/div/div::False
+
+Q_Sender
+(//div[@class='ItfyB _3nbHh'])[5]//div[2]/div[1]/div/div/div/div/div[1]/span::False
+
+Q_Text
+(//div[@class='ItfyB _3nbHh'])[5]//div[2]/div[1]/div/div/div/div/div[2]/span::False
+
+base
+(//div[@class='ItfyB _3nbHh'])[5]::Eric Amit Dada
+Pending Incidents at 00:00_12/01/2023
+
+Fiber Network:
+
+1. GPSDRP8 (BB1) to GPSDRP3 (GP1626) Robi IRU OSN (2nd link) fiber still down
+Impact: No outage
+Severity: C-3
+FT: 14:25_15/12
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: Hamida (Robi IRU), Transport Ops
+
+2. FNSDRB1 (FN3203) to FNDGN24 (Daggonbhuiyan3) BTCL DWDM fiber are up but high loss still persists
+Impact: No outage
+Severity: C-3
+FT: 16:24_10/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. DPCRB10 (Kutubdanga Bazar) to DPSDR04 (Dinajpur Medical College) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 10:20_11/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+4. DPPBT02 (Vabanipur backbone 75m) to DPFLB02 (Coal Mine) BTCL fiber (Router to Router, Full break) … Read more
+12:11 am
+

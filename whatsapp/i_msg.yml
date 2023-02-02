@@ -1,0 +1,8 @@
+MSG_BASE_i_:
+- (//div[@id='main']//div[@data-testid='msg-container'])[_i_]
+- text: "//div[@class='_21Ahp']/span[1]/span"
+  sender_and_datetime: ["fn", "base"]
+  q_sender: "//div[@class='_3pMOs yKTUI']//div[1]/span"
+  q_text: "//div[@class='_3pMOs yKTUI']//div[2]/span"
+  time: "//div[@data-testid='msg-meta']"
+  contains_image: "//img"

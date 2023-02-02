@@ -1,0 +1,21 @@
+sender
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[1]::False
+
+sender_text
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[2]::False
+
+send_time
+(//div[@class='ItfyB _3nbHh'])[5]/div/div[3]::False
+
+Q_Clickable
+(//div[@class='ItfyB _3nbHh'])[5]/div[1]/div/div/div/div::False
+
+Q_Sender
+(//div[@class='ItfyB _3nbHh'])[5]//div[2]/div[1]/div/div/div/div/div[1]/span::False
+
+Q_Text
+(//div[@class='ItfyB _3nbHh'])[5]//div[2]/div[1]/div/div/div/div/div[2]/span::False
+
+base
+(//div[@class='ItfyB _3nbHh'])[5]::False
+

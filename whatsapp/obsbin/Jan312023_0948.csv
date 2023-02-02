@@ -1,0 +1,52 @@
+,chat_name,last_text,last_sender,last_msg_time,new_msg_notif
+0,Jalal Vaia,"Vaia, thanks for the recognition; I am very happy. vaia, Thank you for putting up with my bad attitude and approaches for such a long time. I recognize many of my negative attitudes, and sometimes your anger helps me identify them. I was initially sad, but I later realized that those were blessings and guidelines for my self-improvement, and I am working to change those negative attitudes through practice so that they become habits. take care vaia.",,yesterday,
+1,OPS & RO,"hasan
+: 
+Update of Site Down at 09:00 On 31-01-2023 Region: 2G/3G/4G National: 16/9/21 DHK_M: 0/2/2 DHK_N: 3/1/2 DHK_S: 1/1/1 DHK_O: 0/0/0 CTG_M: 2/1/1 CTG_N: 2/1/2 CTG_S: 0/0/0 COM: 0/0/0 NOA: 2/0/3 SYL: 3/0/5 MYM: 2/1/3 BAR: 1/2/2 KHL: 0/0/0 KUS: 0/0/0 RAJ: 0/0/0 RANG: 0/0/0",hasan,9:10 am,2
+2,SOC-RO,"hasan
+: 
+Update of Site Down at 09:00 On 31-01-2023 Region: 2G/3G/4G National: 16/9/21 DHK_M: 0/2/2 DHK_N: 3/1/2 DHK_S: 1/1/1 DHK_O: 0/0/0 CTG_M: 2/1/1 CTG_N: 2/1/2 CTG_S: 0/0/0 COM: 0/0/0 NOA: 2/0/3 SYL: 3/0/5 MYM: 2/1/3 BAR: 1/2/2 KHL: 0/0/0 KUS: 0/0/0 RAJ: 0/0/0 RANG: 0/0/0",hasan,9:10 am,4
+3,EDOTCO CR Followup,"Hosna
+: 
+Done",Hosna,9:12 am,12
+4,Change Management,"+880 1833-182766
+: 
+Thanks",+880 1833-182766,9:15 am,5
+5,SM & CN_Monitoring,"Antu
+: 
+Plz have the meeting link below: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmE4OTUzYjQtYjlmZS00ZDEyLWI2OTktN2VkMGViN2JhZjM1%40thread.v2/0?context=%7b%22Tid%22%3a%22255b709d-ce46-478e-b485-e237f988c923%22%2c%22Oid%22%3a%220daf6908-c497-447e-82cc-313a42eee36c%22%7d",Antu,9:15 am,1
+6,SOC SM & Leads,"tawhid
+: 
+Network Update 09:00_31/01/2023 PDP SR found 100% in all UGWs Currently no Pending TT in the Core bucket No Capping observed No alarm found at ATIC CTO and CEBO traces are not running due to some security error NCEIP QoS related issue raised to TxM/Tx_FLS (00:30_31/01/23)",tawhid,9:18 am,1
+7,Emergency SOC Group,"tawhid
+: 
+Network Update 09:00_31/01/2023 PDP SR found 100% in all UGWs Currently no Pending TT in the Core bucket No Capping observed No alarm found at ATIC CTO and CEBO traces are not running due to some security error NCEIP QoS related issue raised to TxM/Tx_FLS (00:30_31/01/23)",tawhid,9:18 am,10
+8,RolloutProjectCR Followup,"Paru
+: 
+Pending Long Site/Cell down due to project activity 583372 GE Shifting and Relocation @_ LXSDR12 LXSDR12 4G SITE 30/01/2023 15:53 584377 Relocation @SYSDR77 // Service Effective SYSDR77 4G SITE 30/01/2023 12:04 SYSDRA1 2G SITE 31/01/2023 7:14 SYSDRA1 4G SITE 31/01/2023 7:14",Paru,9:34 am,
+9,Robi Own Fiber O&M.,"+880 1922-203199
+: 
+Link up now. Link Down due to high loss rectification work ongoing period. Farther any link down please informed Me.",+880 1922-203199,9:36 am,3
+10,Operations,"tawhid
+: 
+ICMP Delay & Packet Loss Update 31/01/2023 09:00",tawhid,9:14 am,2
+11,Sobuj RNM,HO: Hosneara Apu,,7:16 am,
+12,Shoriful,Mahabub vai morning,,7:25 am,
+13,ROBI-BTCL IIG_WG,"Eshtiuk
+: 
+Please take care",Eshtiuk,7:37 am,1
+14,O&M actions Robi_BTCL,"+880 1744-401278
+: 
+team moves",+880 1744-401278,8:20 am,6
+15,LONG OUTAGE FOLLOW UP,"Shyama
+: 
+DHK >4hrs actionable/Non-actionable outage update at 08:15 On 31-01-2023 ~DHK: 4 Actionable: 3 DHRMN15(P3|3G,4G,2G): 14:29 30-01-23 DHLLB18(P3|4G): 14:27 30-01-23 DHRMN19(P1|4G,3G): 14:23 30-01-23 Non-Actionable: 1 GPSRPD3(P3|2G,4G): 21:05 30-01-23 Other: 0 This is RPA generated periodic notification. For any query, please contact with SOC Shift Manager Phone: 8801817183680",Shyama,8:20 am,1
+16,Technology Operations,"Txmonitoring
+: 
+Fiber incident update at 09:00_31/01",Txmonitoring,9:01 am,1
+17,Network Operations,"Hosna
+: 
+Update of Site Down at 09:00 On 31-01-2023 Region: 2G/3G/4G National: 16/9/21 DHK_M: 0/2/2 DHK_N: 3/1/2 DHK_S: 1/1/1 DHK_O: 0/0/0 CTG_M: 2/1/1 CTG_N: 2/1/2 CTG_S: 0/0/0 COM: 0/0/0 NOA: 2/0/3 SYL: 3/0/5 MYM: 2/1/3 BAR: 1/2/2 KHL: 0/0/0 KUS: 0/0/0 RAJ: 0/0/0 RANG: 0/0/0",Hosna,9:07 am,2
+18,Robi & e.co Ops,"hasan
+: 
+Update of Site Down at 09:00 On 31-01-2023 Region: 2G/3G/4G National: 16/9/21 DHK_M: 0/2/2 DHK_N: 3/1/2 DHK_S: 1/1/1 DHK_O: 0/0/0 CTG_M: 2/1/1 CTG_N: 2/1/2 CTG_S: 0/0/0 COM: 0/0/0 NOA: 2/0/3 SYL: 3/0/5 MYM: 2/1/3 BAR: 1/2/2 KHL: 0/0/0 KUS: 0/0/0 RAJ: 0/0/0 RANG: 0/0/0",hasan,9:10 am,3
