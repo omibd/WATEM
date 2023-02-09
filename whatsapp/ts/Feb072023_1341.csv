@@ -1,0 +1,148 @@
+,sender,text,q_sender,q_text,datetime,sender_visible,time,img
+0,+880 1787-697198,Jakir will contact you,,,2023-07-02 12:56,,12:56 pm,NoImage
+1,+880 1787-697198,Jakir will contact you,,,2023-07-02 12:56,,12:56 pm,NoImage
+2,+880 1787-697198,Ok,Amdad,before core break pls first inform us...@Tamanna Tasnim apa as discussed. Has team collect key?,2023-07-02 12:56,Tamanna Tasnim,12:56 pm,NoImage
+3,+880 1843-267529,before core break pls first inform us...@Tamanna Tasnim apa as discussed. Has team collect key?,Amdad,poc shared I have also informed him.pls collect key ...,2023-07-02 12:27,Amdad,12:27 pm,NoImage
+4,+880 1894-070305,Fiber Cut ..,tawhid vai,Link up. Please share RCA.,2023-07-02 11:59,himon,11:59 am,NoImage
+5,tawhid vai,Link up. Please share RCA.,himon,@CN Monitoring  please check this Link//,2023-07-02 11:58,tawhid vai,11:58 am,NoImage
+6,+880 1894-070305,@CN Monitoring  please check this Link//,Eric Amit Dada,"Incident Notification:
+MHGNG05(Jorpukuria_32mLand) to KUMRP02(Mirpur_land_55m) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 15:58_06/02
+ERT: 04 hrs
+Cause: Suspecting fiber cut
+Unit: BTCL
+Tracking ID: RDTXM2302061558",2023-07-02 11:50,himon,11:50 am,NoImage
+7,Rizvi Vai VP,"Need to prevent Shamiul bhai 
+In parallel to contingency plan completion",Monir Vai,When reach at bottoli?,2023-07-02 11:08,Rizvi Vai VP,11:08 am,NoImage
+8,+880 1843-267529,poc shared I have also informed him.pls collect key ...,Tamanna Tasnim,"Jakir will do OTDR from tower.
+We need keys for Bhudunti tower now.
+POC: Jakir
+Mobile: +8801796461346",2023-07-02 10:34,Amdad,10:34 am,NoImage
+9,Monir Vai,When reach at bottoli?,Shamiul Amin,"Today one of our backbone link is down, team is working there, one of our man will attend to beltoli  to prevent cut.",2023-07-02 10:34,Monir Vai,10:34 am,NoImage
+10,+880 1850-111301,"Today one of our backbone link is down, team is working there, one of our man will attend to beltoli  to prevent cut.",,,2023-07-02 10:32,Shamiul Amin,10:32 am,NoImage
+11,Rizvi Vai VP,@ Shamiul bhai what is update for Alekharchar link,,,2023-07-02 10:17,Rizvi Vai VP,10:17 am,NoImage
+12,+880 1787-697198,"Jakir will do OTDR from tower.
+We need keys for Bhudunti tower now.
+POC: Jakir
+Mobile: +8801796461346",Monir Vai,"Dear Sayem Bhai, how can rectify Narayanpur to Bhudunti BB link high loss? Pls share e2e otdr report to identify high loss point.
+
+Dear TX monitoring, pls share present rsl with threshold this group",2023-07-02 09:32,Tamanna Tasnim,9:32 am,NoImage
+13,Txmonitoring,"Current RSL:
+NSBLB02:-20.2 dBm
+BMSDR04:-18.5dBm
+Threshold:-14.7 dBm",Monir Vai,"Dear Sayem Bhai, how can rectify Narayanpur to Bhudunti BB link high loss? Pls share e2e otdr report to identify high loss point.
+
+Dear TX monitoring, pls share present rsl with threshold this group",2023-07-02 09:27,Txmonitoring,9:27 am,NoImage
+14,+880 1843-267529,pls share poc,seyam,Access required for both site..then B.Baria team will do otdr and will share e2e report,2023-07-02 09:25,Amdad,9:25 am,NoImage
+15,+880 1550-151737,Access required for both site..then B.Baria team will do otdr and will share e2e report,Monir Vai,"Dear Sayem Bhai, how can rectify Narayanpur to Bhudunti BB link high loss? Pls share e2e otdr report to identify high loss point.
+
+Dear TX monitoring, pls share present rsl with threshold this group",2023-07-02 09:24,seyam,9:24 am,NoImage
+16,Monir Vai,"Dear Sayem Bhai, how can rectify Narayanpur to Bhudunti BB link high loss? Pls share e2e otdr report to identify high loss point.
+
+Dear TX monitoring, pls share present rsl with threshold this group",,,2023-07-02 09:13,Monir Vai,9:13 am,NoImage
+17,+880 1843-267529,Quick close pending list @BTCL Concern...,Eshtiuk Hossain,"Pending BTCL Incidents at 06:00_07/02
+
+1. NSBLB02 (Narayanpur) to BMSDR04 (Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. MHGNG05(Jorpukuria_32mLand) to KUMRP02(Mirpur_land_55m) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 15:58_06/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. SYSDR95(Shaplabag) to SYSDRD1(Kadamtoli) BTCL+Robi DWDM is down
+Impact: No outage
+Severity: C-3
+FT: 02:21_07/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL, Hamida(Robi Own)",2023-07-02 09:11,Amdad,9:11 am,NoImage
+18,+880 1843-267529,SL 3 restored by hamida team...,Eshtiuk Hossain,"Pending BTCL Incidents at 06:00_07/02
+
+1. NSBLB02 (Narayanpur) to BMSDR04 (Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. MHGNG05(Jorpukuria_32mLand) to KUMRP02(Mirpur_land_55m) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 15:58_06/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. SYSDR95(Shaplabag) to SYSDRD1(Kadamtoli) BTCL+Robi DWDM is down
+Impact: No outage
+Severity: C-3
+FT: 02:21_07/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL, Hamida(Robi Own)",2023-07-02 09:06,Amdad,9:06 am,NoImage
+19,+880 1843-267529,@Shamiul Amin  bhai pls share what is current update...,Shamiul Amin,We have tried but failed to get CP point. We will try one more day. Then if we will fail again we have to go for hh to hh overhead,2023-07-02 09:05,Amdad,9:05 am,NoImage
+20,Eshtiuk Hossain,"Pending BTCL Incidents at 06:00_07/02
+
+1. NSBLB02 (Narayanpur) to BMSDR04 (Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. MHGNG05(Jorpukuria_32mLand) to KUMRP02(Mirpur_land_55m) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 15:58_06/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+3. SYSDR95(Shaplabag) to SYSDRD1(Kadamtoli) BTCL+Robi DWDM is down
+Impact: No outage
+Severity: C-3
+FT: 02:21_07/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL, Hamida(Robi Own)",,,2023-07-02 06:03,Eshtiuk Hossain,6:03 am,NoImage
+21,Txmonitoring,"Incident Notification:
+SYSDR95(Shaplabag) to SYSDRD1(Kadamtoli) BTCL+Robi DWDM is down
+Impact: No outage
+Severity: C-3
+FT: 02:21_07/02
+ERT: 03 hrs
+Cause: Suspecting fiber cut
+Unit: BTCL,Hamida(Robi Own)
+Tracking ID: RDTXM2302070221",,,2023-07-02 03:02,Txmonitoring,3:02 am,NoImage
+22,Eshtiuk Hossain,"Pending BTCL Incidents at 00:00_07/02
+
+1. NSBLB02 (Narayanpur) to BMSDR04 (Bhudunti) BTCL DWDM fiber is up but still high loss persists
+Impact: No outage
+Severity: C-3
+FT: 11:30_27/01
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL
+
+2. MHGNG05(Jorpukuria_32mLand) to KUMRP02(Mirpur_land_55m) BTCL fiber (Router to Router, Full break) is down
+Impact: No outage
+Severity: C-3
+FT: 15:58_06/02
+ERT: Yet to share
+Unit: Fiber Ops
+Vendor: BTCL",,,2023-07-02 00:11,Eshtiuk Hossain,12:11 am,NoImage
+23,Txmonitoring,"yes,",Monir Vai,Has sites restored@SM,2023-06-02 22:52,Txmonitoring,10:52 pm,NoImage
+24,Monir Vai,Has sites restored@SM,himon,@Txmonitoring  please check this Link//,2023-06-02 22:49,Monir Vai,10:49 pm,NoImage

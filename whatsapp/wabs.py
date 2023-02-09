@@ -1,5 +1,6 @@
 from imports import *
 from collections import *
+import waxpath as wpn
 
 def update_key_value(a, b):
     '''updating key & values (values will be appened for existing key)'''
@@ -9,6 +10,22 @@ def update_key_value(a, b):
     for k, v in a.items():
         c[k] = tls(a[k]) + tls(b[k]) if k in list(b) else tls(a[k])
     else: return {**b, **c}
+    
+xpt_by_chatname = lambda chatname: "//div[@class='_21S-L']//span[@dir='auto' and contains(text(),'" + chatname + "')]//ancestor::div[@class='_8nE1Y']"
+
+def pane_xpt(index=None, parent = "(//div[@id='pane-side']//div[@class='_8nE1Y'])", chatname=None):
+    if index is not None and parent is not None:
+        bi = parent + "[" + str(index) + "]"
+    elif parent is None and chatname is not None:
+        bi = "//div[@id='pane-side']//div[@class='_21S-L']//span[@dir='auto' and contains(text(),'" + chatname + "')]//ancestor::" + parent
+    else:
+        bi = parent
+    dc = {'chat_name' : bi + "//div[@class='_21S-L']//span[@dir='auto']",
+          'last_text' : bi + "//span[@data-testid='last-msg-status']",
+          'last_sender' : bi + "//div[@class='vQ0w7']//span[@dir='auto']",
+          'last_msg_time' : bi + "/div[@class='y_sn4']/div[@class='Dvjym']",
+          'new_msg_notif' : bi + "//div[@class='Dvjym']//span[@data-testid='icon-unread-count']"}
+    return dc
 
 class WhBase:
     
@@ -56,31 +73,47 @@ class WhBase:
     def log(self, data):
         nw = dt.datetime.now()
         filepath = os.getcwd() + '\\log\\' + nw.strftime('%d-%b-%Y').upper() + '.txt'
-        fp.open(filepath, 'a+')
+        fp = open(filepath, 'a+')
         fp.write('# ' + data + "," + nw.strftime('%H:%M %d-%b-%Y') + chr(10))
         fp.close()
+    
+    def xpbool(self, xpt):
+        try:
+            rs = self.wait.until(EC.presence_of_element_located((By.XPATH, xpt)))
+            return True
+        except: return False
         
-    def xpelem(self, xpt, click=False):
+    def xptxt(self, xpt):
+        try: return self.wait.until(EC.presence_of_element_located((By.XPATH, xpt))).text
+        except: return None
+        
+    def xpelem(self, xpt):
         try: return self.wait.until(EC.presence_of_element_located((By.XPATH, xpt)))
         except: return None
     
     def xptext(self, xpt):
-        try: return self.driver.find_element(By.XPATH, xpt).text
-        except: return None
+        print(xpt)
+        try:
+            xx = self.driver.find_element(By.XPATH, xpt).text
+            print(xx)
+            print('----------')
+        except:
+            try: return self.xpelem(xpt).text
+            except: return None
         
-    def xpget(self, xpt, text=False):
-        try: self.driver.find_element(By.XPATH, xpt)
+    def xpget(self, xpt):
+        try: self.driver.find_element(By.XPATH, xpt).text
         except: return None
         
     def xp_elements(self, xpt):
         try: return self.driver.find_elements(By.XPATH, xpt)
-        except: return None
+        except: return self.xpelem(xpt)
     
     def click(self, xpt):
         xp = self.xpelem(xpt) if type(xpt) is str else xpt
         if xp is None: 
             print(xpt , " -- xpath not present")
-            return None
+            return 0
         try:
             xp.click()
             return 1
@@ -94,19 +127,19 @@ class WhBase:
         try:  ActionChains(self.driver).move_to_element(self.xpelem(xp1)).click(self.xpelem(xp2)).perform()
         except: return 0
     
-    def just_move(self, xpt="(//div[@data-testid='conversation-panel-body'])//span[contains(.,'YESTERDAY')]"):
+    def just_move(self, xpt="(//div[@data-testid='conversation-panel-body'])[2]"):
         try:
             ActionChains(self.driver).move_to_element(self.xpelem(xpt)).perform()
             tm.sleep(.5)
             return 1
-        except: return 0
+        except: return self.msg_scoll_up()
     
     def move_click_send_text(self, xpt, text):
         try: ActionChains(self.driver).move_to_element(self.xpelem(xpt)).click().send_keys(text).send_keys(Keys.RETURN).perform()
         except: return 0
         
     def paste_text(self, xpt, keys):
-        try: ActionChains(self.driver).send_keys_to_element(self.xpelem(xpt), keys).perform()
+        try: ActionChains(self.driver).send_keys_to_element(self.xpelem(xpt), keys).send_keys(Keys.RETURN).perform()
         except: return 0
         
     def click_write_enter(self, xpt, text):
@@ -138,6 +171,20 @@ class WhBase:
         except:
             print('WhBase.scroll_by_xpath(xpt) failed to scroll')
             return 0
+        
+    def msg_scoll_down(self):
+        try:
+            self.driver.find_element(By.XPATH, "//div[@class='_5kRIK']").send_keys(Keys.END)
+            tm.sleep(2)
+            return 1
+        except: return 0
+            
+    def msg_scoll_up(self):
+        try:
+            self.driver.find_element(By.XPATH, "//div[@class='_5kRIK']").send_keys(Keys.HOME)
+            tm.sleep(2)
+            return 1
+        except: return 0
         
     def msg_sender_dttm(self, base="(//div[@id='main']//div[@data-testid='msg-container'])"):
         html = self.wait.until(EC.presence_of_element_located((By.XPATH, base))).get_attribute('innerHTML')
@@ -171,14 +218,24 @@ class WhBase:
         
     def select_chat(self, chat_name):
         if chat_name is not None and chat_name != '':
-            x = self.click_write_enter(xpt=self.pane_search, text=chat_name)
-            y = self.xptext(self.active_chat_title)
-            print('chat body name: ', y)
-            if chat_name.lower() in y.lower():
-                print('chat selection successful')
-                self.pane_search_clear()
+            convtitle = "//div[@id='main']//span[@data-testid='conversation-info-header-chat-title']"
+            xx = self.xptext(convtitle)
+            if xx is not None and chat_name.lower() in xx.lower(): 
+                print('already selected')
+                self.click(self.body_msg_nav_arrow)
                 return 1
-            else: 0
+            else:
+                if self.click(xpt_by_chatname(chat_name)) == 0:
+                    print('chat has no communication')
+                    self.click_write_enter(xpt=self.pane_search, text=chat_name)
+                y = self.xptxt(convtitle)
+                print('chat body name: ', y)
+                if chat_name.lower() in y.lower():
+                    print('chat selection successful')
+                    self.pane_search_clear()
+                    self.click(self.body_msg_nav_arrow)
+                    return 1
+                else: 0
         else: return 0
         
     def send_message(self, chat_names, text):
@@ -211,22 +268,66 @@ class WhBase:
                   'datetime' : [dttm]}
             return dc
    
-    def side_pane(self, n=None, base="(//div[@id='pane-side']//div[@class='_8nE1Y'])"):
-        bi = base + '[' + str(n) + ']' if n is not None else base
+    def wapane_chat_type(self, bs):
+        xpt = bs + "//div[@data-testid='chatlist-status-v3-ring']"
+        if self.xpelem(xpt) is None: return 'group'
+        else: return 'contact'
+   
+    def side_pane(self, n=None, pane_base="//div[@id='pane-side']//div[@data-testid='cell-frame-container']", after=''):
+        base = '(' + base + "//div[@class='_8nE1Y'])" if '_8nE1Y' not in pane_base else pane_base
+        bi = base + '[' + str(n) + ']' + after if n is not None else base + after
         if self.xpelem(bi) is None: return None
-        dc = {'chat_name' : bi + "//div[@class='_21S-L']//span[@dir='auto']",
-              'last_text' : bi + "//span[@data-testid='last-msg-status']",
-              'last_sender' : [bi + "//div[@class='vQ0w7']//span[@dir='auto']", 
-                               bi + "//span[@data-testid='status-dblcheck']"],
-              'last_msg_time' : bi + "/div[@class='y_sn4']/div[@class='Dvjym']",
-              'new_msg_notif' : bi + "//div[@class='Dvjym']//span[@data-testid='icon-unread-count']"}
+        ctype = self.wapane_chat_type(pane_base)
+        dc = {'chat_type': ctype,
+            'chat_name' : bi + "//div[@class='_21S-L']//span[@dir='auto']",
+            'last_text' : bi + "//div[@class='vQ0w7']//span[@dir='ltr']",
+            'last_sender' : bi + "//div[@class='vQ0w7']//span[@dir='auto']",
+            'last_msg_time' : bi + "/div[@class='y_sn4']/div[@class='Dvjym']",
+            'new_msg_notif' : bi + "//div[@class='Dvjym']//span[@data-testid='icon-unread-count']",
+            'time': bi + "//div[@data-testid='msg-meta']"}
         for k, v in dc.items():
             v = [v] if type(v) is str else v
             dc[k] = [self.xptext(j) for j in v]
         return dc
+    
+    def msginfo(self, n=None, base="(//div[@id='main']//div[@data-testid='msg-container'])", after=''):
+        bi = base + '[' + str(n) + ']' if n is not None else base
+        print('msgbase is being collecting:', bi)
+        if self.xpelem(bi) is None: return None
+        else:
+            self.move_click(bi + "//div[@role='button'][contains(.,'Read more')]")
+            dttm, sender = self.msg_sender_dttm(bi)
+            dc = {'sender' : [sender],
+                  'text' : [self.xpget(bi + "//div[@class='_21Ahp']/span[1]/span")],
+                  'q_sender' : [self.xpget(bi + "//div[@class='_3pMOs yKTUI']//div[1]/span")],
+                  'q_text' : [self.xpget(bi + "//div[@class='_3pMOs yKTUI']//div[2]/span")],
+                  'datetime' : [dttm],
+                  'sender_visible': [self.xpget(bi + "//div[@class='_27K43 _31p5Q']/div[1]//span[@dir='auto']")],
+                  'time': [self.xpget(bi + "//div[@data-testid='msg-meta']/span")]
+                  }
+            dc['img'] = 'image' if self.xpget(bi + "//div[@data-testid='image-thumb']") is not None else 'NoImage'
+            return dc
+    
+    def pane_chat_get(self, n=0, chatname=None, bs=None):
+        ctype = wpn.wapane_chat_type(self.driver, chatname, n, bs)
+        bs1 = wpn.wapane_chat_xptgen(chatname, n, bs) + wpn.wapane_chat_text_base
+        dc = {'chat_type' : ctype}
+        dc['chat_name'] = [self.xptext(bs1 + wpn.wapane_chat_name)]
+        dc['last_update_time']= [self.xptext(bs1 + wpn.wapane_chat_last_time)]
+        if ctype == 'group':
+            dc['last_sender'] = [self.xptext(bs1 + wpn.wapane_chat_group_last_msg_sender )]
+        else:
+            dc['last_sender'] = chatname if self.xptext(bs1 + "//div[@class='_2qo4q _3NIfV']") is None else 'You'
+        dc['last_msg'] = [self.xptext(bs1 + wpn.wapane_chat_last_msg)]
+        dc['unread_count'] = [self.xptext(bs1 + wpn.wapane_chat_unread_count)]
+        return dc
+
 
 class WABS(WhBase):
     
+    def __init__(self):
+        super().__init__()
+        
     def msg_xpath_by_text_last_index(self, text, get_text=False):
         txtm = "(//div[contains(@class,'_21Ahp') and contains(., '" + text + "')])[last()]"
         fxpt = txtm + "/ancestor::div[@data-testid='msg-container']"
@@ -240,22 +341,92 @@ class WABS(WhBase):
     def msg_info_by_text_time(self, text, time):
         msg_xpath = self.msg_xpath_by_text_time(text, time)
         return self.chat_msg(base=msg_xpath)
-        
-    def msg_yield_get_by_sender(self, name=None, base="(//div[@data-testid='msg-container'])"):
-        bi = base + "[contains(.,'" + name + "')]" if name is not None else base
-        i, nonecount = 0, 0
-        while nonecount<10:
-            if i > 0: inx='last()-' + str(i)
-            else: inx = 'last()'
-            xpdic = self.chat_msg(base = bi + "[" + inx + "]")
-            if xpdic is None: 
-                nonecount = nonecount + 1
-                self.just_move()
-                tm.sleep(1)
-            else: nonecount = 0
-            yield xpdic, i, nonecount
-            i = i + 1
     
+    def duplicate_none_chk(self, sdic, dc):
+        dpcount, nonecount = 0, 0
+        for k, v in dc.items():
+            if v is None: nonecount = nonecount + 1
+            else:
+                if v in list(sdic.values()): 
+                    dpcount = dpcount + 1
+        else:
+            if nonecount >=3: none_flag = True
+            else: none_flag = False
+
+            if dpcount>=3: dp_flag = True
+            else: dp_flag = False
+            return none_flag, dp_flag
+
+    def msgread(self, to_index=50 ,from_index=0, base="(//div[@id='main']//div[@data-testid='msg-container'])", sdict=defaultdict(list)):
+        duplicate, nonecount, n, whileloop= 0, 0, from_index+1, 0
+        while len(list(sdict.values()))<to_index and duplicate<5 and nonecount<5:
+            whileloop = whileloop + 1
+            dc = self.msginfo('[last()-' + str(n) + ']', base)
+            if dc is not None:
+                nf, dpf = self.duplicate_none_chk(sdict, dc)
+                if nf == False and dpf == False:
+                    sdict = update_key_value(sdict, dc)
+                    duplicate, nonecount = 0, 0
+                    n = n + 1
+                else:
+                    duplicate = duplicate  + 1
+                    if duplicate>1: 
+                        self.msg_scoll_up()
+                        n = n + 1
+            else:
+                nonecount = nonecount + 1
+                if nonecount>2: 
+                    self.just_move("(//div[@id='main']//div[@data-testid='msg-container'])[2]")
+            print('whileloop:', whileloop, ' len of dic:', len(list(sdict.values())), 'current n: ', n, 'nonecount:', 
+                  nonecount, 'duplicate: ',duplicate)
+        else: 
+            print('total looped: ', whileloop, ' len of dic:', len(sdict))
+            return sdict
+    
+    def pane_chat_info(self, store_dc = defaultdict(), bs="//div[@id='pane-side']//div[@class='_21S-L']//span[@dir='auto']"):
+        'fetch available chats info from pane without scroll'
+        lschat = self.xp_elements(bs)
+        for i in lschat:
+            bychat = xpt_by_chatname(i.text)
+            dc = pane_xpt(parent=bychat)
+            for k, v in dc.copy().items():
+                q = self.xptext(v)
+                dc[k] = q if q is not None else ''
+            store_dc = update_key_value(store_dc, dc)
+        else: return self.dict_to_df(store_dc)
+        
+    def get_unread_msg(self, chatname='Emergency SOC Group',store_dc = defaultdict(),msgbase="(//div[@id='main']//div[@data-testid='msg-container'])"):
+        'fetch unread available msg inside group without scroll'
+        chatxpt = xpt_by_chatname(chatname)
+        dc = pane_xpt(parent=chatxpt)
+        print('chatname: ', chatname, 'unread_sms: ',  self.xptext(dc['new_msg_notif']))
+        if self.xptext("//div[@id='main']//span[@data-testid='conversation-info-header-chat-title']") not in chatname:
+            self.click(chatxpt)
+        i = 1
+        avmsg = self.xp_elements(msgbase)
+        for n in range(i, len(avmsg)):
+            dc = self.chat_msg('last()-' + str(n))
+            store_dc = update_key_value(store_dc, dc)
+        else:
+            df = self.dict_to_df(store_dc, chatname)
+            return store_dc, df
+    
+    def msgrd(self, en, st=1, dc = defaultdict(list)):
+        nc = 0
+        for n in range(st, en):
+            dic = self.msginfo('last()-' + str(n))
+            if dic is not None:
+                if len(dc) == 0 : dc = dic
+                else: dc = update_key_value(dc, dic)
+                nc = 0
+            else: 
+                if nc>2: self.msg_scoll_up()
+                if nc>1: self.just_move()
+                elif nc>3: return dc
+                else: print('nc: ', nc)
+                nc = nc + 1
+        else: return dc
+        
     def pane_dyn_xpath(self, by_chatname=None, by_msgtxt=None, by_last_sender=None, get_text=False):
         contain = []
         if by_chatname is not None: 
@@ -268,15 +439,16 @@ class WABS(WhBase):
         rs = fxpt if get_text==False else self.side_pane(base=fxpt)
         return rs
     
-    def general_inspection(self):
+    def inspect(self):
         dc = {
-            'pn_search_textarea' : "/html/body/div[1]/div/div/div[3]/div/div[1]/div/div/div[2]/div/div[2]",
-            'pn_search' : "//div[@id='side']//div[@data-testid='chat-list-search']",
-            'pn_search_filter' : "//div[@id='side']//button[@aria-label='Unread chats filter']",
-            'chat_title' : "//div[@id='main']//span[@data-testid='conversation-info-header-chat-title']",
-            'chat_text_area' : "//footer[@class='_3E8Fg']//p",
-            'msg_base' : "(//div[@id='main']//div[@data-testid='msg-container'])"
+            'pn_search_textarea' : self.xpbool("/html/body/div[1]/div/div/div[3]/div/div[1]/div/div/div[2]/div/div[2]"),
+            'pn_search' : self.xpbool("//div[@id='side']//div[@data-testid='chat-list-search']"),
+            'pn_search_filter' : self.xpbool("//div[@id='side']//button[@aria-label='Unread chats filter']"),
+            'chat_title' : self.xptext("//div[@id='main']//span[@data-testid='conversation-info-header-chat-title']"),
+            'chat_text_area' : self.xpbool("//footer[@class='_3E8Fg']//p"),
+            'msg_base' : self.xpbool("(//div[@id='main']//div[@data-testid='msg-container'])")
         }
+        return dc
     
     def ensure_click_attempt(self, hover_xpt, click_xpt, required_visibility_xpt):
         q = self.xpelem(hover_xpt)
@@ -311,6 +483,7 @@ class WABS(WhBase):
             tm.sleep(.5)
             if x.select_chat(chat_name) != 0:
                 chat_selected = True
+            else: chat_selected = False
         else:
             chat_selected = True
         print('chat_selected; ', chat_selected)
@@ -349,7 +522,10 @@ class WABS(WhBase):
                         x.click("//span[@data-testid='send']")
                         return 1
                     else:
-                        print('forward failed')
+                        q = self.click("(//div[contains(@class,'_199zF _3j691') and contains(.,'" + forward + "')])")
+                        if x.click("//span[@data-testid='send']") == 1:
+                            print('forward success')
+                        else: print('forward fail')
                 elif reply is not None and len(reply) > 1:
                     x.click("//ul//li[contains(.,'Reply')]")
                     x.click_write_enter(msg_write_area, reply)

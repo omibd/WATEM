@@ -1,0 +1,102 @@
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][last()]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+//div[@id='pane-side']//div[@data-testid='cell-frame-container'][2]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[last()]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[last()]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[last()]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[last()]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[last()]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[last()]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,text:Jalal Vaia
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],text:yesterday
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='_2qo4q _3NIfV'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],text:vaia, some problem found in content. i am checking this
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,text:Jalal Vaia
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],text:yesterday
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='_2qo4q _3NIfV'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],text:vaia, some problem found in content. i am checking this
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,text:Jalal Vaia
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],text:yesterday
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='_2qo4q _3NIfV'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],text:vaia, some problem found in content. i am checking this
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,text:Jalal Vaia
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],text:yesterday
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='_2qo4q _3NIfV'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],text:vaia, some problem found in content. i am checking this
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vai')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[5]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[5]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[5]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[5]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[5]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[5]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[6]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[6]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[6]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[6]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[6]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],Exist:0
+(//div[@id='pane-side']//div[@class='_8nE1Y'])[6]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[6]//div[@data-testid='chatlist-status-v3-ring'],Exist:0
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[6]//div[@class='_8nE1Y']//div[@class='y_sn4']//span,text:Emergency SOC Group
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[6]//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],text:3:24 pm
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[6]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='auto'],text:Gowranggo
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[6]//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],text:NAT pool has been shifted as per planning today.   da & CNM mates please observe if any capping issue arise with mentioned IIG during busy hour
+(//div[@id='pane-side']//div[@data-testid='cell-frame-container'])[6]//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],text:2
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@data-testid='chatlist-status-v3-ring'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//span,text:Jalal Vaia
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='y_sn4']//div[2],text:yesterday
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='_2qo4q _3NIfV'],Exist:1
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//div[@class='vQ0w7']//span[@dir='ltr'],text:vaia, some problem found in content. i am checking this
+//div[@class='_21S-L']//span[@dir='auto' and contains(.,'Jalal Vaia')]//ancestor::div[@data-testid='cell-frame-container']//div[@class='_8nE1Y']//span[@data-testid='icon-unread-count'],Exist:0
